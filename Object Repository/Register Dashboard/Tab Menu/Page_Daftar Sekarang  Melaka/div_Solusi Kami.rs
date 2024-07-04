@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Solusi Kami</name>
+   <tag></tag>
+   <elementGuidId>98da4816-2e0b-48f5-a52d-b62863ec8e11</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4d7fd9d3-a90c-483b-956f-031e56e167f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hover:bg-blue-B100 relative hidden cursor-pointer items-center rounded p-2 hover:rounded lg:flex</value>
+      <webElementGuid>fa5d7b85-43a8-4de7-8daf-634ae1ee0469</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>landing__menu__our_solutions</value>
+      <webElementGuid>56bcd02a-a634-4678-9422-be455b0523fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Solusi Kami</value>
+      <webElementGuid>6ad7066b-4b5e-42fe-889d-ce0100b3db68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;relative flex min-h-screen flex-col&quot;]/div[@class=&quot;top-0 w-full overflow-visible sticky z-20&quot;]/div[@class=&quot;top-0 z-10 flex w-full items-center justify-between px-5 drop-shadow transition-all duration-300 lg:px-6 bg-transparent py-4 lg:py-1&quot;]/div[@class=&quot;flex items-center lg:gap-20&quot;]/div[@class=&quot;relative hidden items-center gap-6 lg:flex&quot;]/div[@class=&quot;hover:bg-blue-B100 relative hidden cursor-pointer items-center rounded p-2 hover:rounded lg:flex&quot;]</value>
+      <webElementGuid>8245421b-683c-40fc-bfc6-cab407fe32f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div/div/div</value>
+      <webElementGuid>33bdbcc7-ebdd-4c73-b543-69763ca5c816</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edukasi'])[1]/preceding::div[1]</value>
+      <webElementGuid>751a4860-124a-4713-a6eb-ba4e0c63d30a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div</value>
+      <webElementGuid>16420036-6200-4696-84af-de4c2b307b2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Solusi Kami' or . = 'Solusi Kami')]</value>
+      <webElementGuid>d329da35-9a3b-4c81-b007-433eda7d1c1a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

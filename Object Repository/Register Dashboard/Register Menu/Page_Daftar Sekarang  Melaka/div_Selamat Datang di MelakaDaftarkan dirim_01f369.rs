@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Selamat Datang di MelakaDaftarkan dirim_01f369</name>
+   <tag></tag>
+   <elementGuidId>d294fc93-707a-4a78-8ff1-ed27bd70b2ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.flex-col.gap-6</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2025926c-446d-4391-8b25-88d05c272909</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex flex-col gap-6</value>
+      <webElementGuid>062cc3b1-9df1-4dc1-942b-284fd6d699e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Selamat Datang di MelakaDaftarkan dirimu dan nikmati fitur-fitur terbaik dari Melaka untuk operasional bisnismu.</value>
+      <webElementGuid>36d8f662-f716-4aea-ae27-2177ab999151</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;relative flex min-h-screen flex-col&quot;]/div[@class=&quot;grid min-h-screen w-full grid-cols-1 md:grid-cols-2 mt-0 mb-8 md:mt-[49px]&quot;]/div[@class=&quot;bg-neutral-N0 z-10 col-span-1 grid pt-6 place-items-start justify-center content-start p-5 md:-mt-6 md:-ml-8 md:p-8 md:pl-0&quot;]/div[@class=&quot;flex h-full flex-col justify-center gap-4 md:max-w-[476px]&quot;]/div[@class=&quot;flex flex-col gap-6&quot;]</value>
+      <webElementGuid>333cca4c-9fbe-4b37-b047-f48cffddd3ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>4541e7f4-e968-45eb-bdeb-8ce424e4a05a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edukasi'])[1]/following::div[5]</value>
+      <webElementGuid>34764a24-2d12-435c-9677-9331600d7b6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Solusi Kami'])[1]/following::div[6]</value>
+      <webElementGuid>3e7eec40-67a8-45fb-915f-41849fc34d9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama'])[1]/preceding::div[3]</value>
+      <webElementGuid>df2c0e81-3fbc-4070-bc30-2f62e2605e8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div</value>
+      <webElementGuid>b6c13225-524e-413b-b558-30405dd64d73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Selamat Datang di MelakaDaftarkan dirimu dan nikmati fitur-fitur terbaik dari Melaka untuk operasional bisnismu.' or . = 'Selamat Datang di MelakaDaftarkan dirimu dan nikmati fitur-fitur terbaik dari Melaka untuk operasional bisnismu.')]</value>
+      <webElementGuid>429e3789-c9f8-4ca7-b1f0-782c5abd5fc9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

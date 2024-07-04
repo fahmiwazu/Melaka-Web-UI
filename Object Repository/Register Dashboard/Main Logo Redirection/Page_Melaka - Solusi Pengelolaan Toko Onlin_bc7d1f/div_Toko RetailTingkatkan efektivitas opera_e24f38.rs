@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Toko RetailTingkatkan efektivitas opera_e24f38</name>
+   <tag></tag>
+   <elementGuidId>fa7c441e-4829-40a8-804c-c0de7a35556f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.business-type---card.image-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='melaka-solution']/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b331da0a-77bd-47fc-9fc1-493372a0c267</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>business-type---card image-2</value>
+      <webElementGuid>c0158ced-b36c-4bda-89a3-62fc39f9e76f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Toko RetailTingkatkan efektivitas operasional bisnis dan penjualan di toko retail kamu menggunakan fitur Kasir, Catatan Keuangan, Promosi, dan lainnya yang dibuat khusus untuk toko retail di Melaka.SELENGKAPNYA</value>
+      <webElementGuid>efcdd087-685b-4cdf-ba5c-2aab906572a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;melaka-solution&quot;)/div[@class=&quot;w-layout-vflex flex-block-17&quot;]/div[@class=&quot;w-layout-hflex flex-block-49&quot;]/div[@class=&quot;w-layout-hflex flex-block-16&quot;]/div[@class=&quot;business-type---card image-2&quot;]</value>
+      <webElementGuid>bd888e3b-c0b0-4bf6-8b95-615526c80687</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='melaka-solution']/div/div/div/div[2]</value>
+      <webElementGuid>7cd5c474-0875-48e3-b5c9-f83ea0ccb260</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SELENGKAPNYA'])[1]/following::div[1]</value>
+      <webElementGuid>5440b0a3-bd27-40d9-8528-80b3c533ebde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penjual Online'])[1]/following::div[3]</value>
+      <webElementGuid>94086590-4e25-4447-9fcb-b90b47d1bb8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]</value>
+      <webElementGuid>e9d72d7b-26ec-44fc-8e70-ff2b13231a27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Toko RetailTingkatkan efektivitas operasional bisnis dan penjualan di toko retail kamu menggunakan fitur Kasir, Catatan Keuangan, Promosi, dan lainnya yang dibuat khusus untuk toko retail di Melaka.SELENGKAPNYA' or . = 'Toko RetailTingkatkan efektivitas operasional bisnis dan penjualan di toko retail kamu menggunakan fitur Kasir, Catatan Keuangan, Promosi, dan lainnya yang dibuat khusus untuk toko retail di Melaka.SELENGKAPNYA')]</value>
+      <webElementGuid>6f5fc3b6-f3d5-4626-a7c7-4aefae801c89</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

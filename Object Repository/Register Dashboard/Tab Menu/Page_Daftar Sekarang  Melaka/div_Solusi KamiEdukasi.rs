@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Solusi KamiEdukasi</name>
+   <tag></tag>
+   <elementGuidId>98569cf5-0b52-4457-bc48-4f560fef1910</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8c23b331-7a86-477d-959b-e6fdaa9dca4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center lg:gap-20</value>
+      <webElementGuid>648074b2-905f-4be2-9f01-2116449e64a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Solusi KamiEdukasi</value>
+      <webElementGuid>45a6802a-3f66-45ff-8f4c-8460751a6d97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;relative flex min-h-screen flex-col&quot;]/div[@class=&quot;top-0 w-full overflow-visible sticky z-20&quot;]/div[@class=&quot;top-0 z-10 flex w-full items-center justify-between px-5 drop-shadow transition-all duration-300 lg:px-6 bg-transparent py-4 lg:py-1&quot;]/div[@class=&quot;flex items-center lg:gap-20&quot;]</value>
+      <webElementGuid>69e16b31-8466-4e84-b17c-9e70a3eb8737</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div</value>
+      <webElementGuid>f43e68df-caae-4cc1-87e4-b7300e1460e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div</value>
+      <webElementGuid>aae5d2d4-5f0b-4802-a350-392cc417fd11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Solusi KamiEdukasi' or . = 'Solusi KamiEdukasi')]</value>
+      <webElementGuid>7d717851-f537-49aa-8265-8a79c17d9156</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

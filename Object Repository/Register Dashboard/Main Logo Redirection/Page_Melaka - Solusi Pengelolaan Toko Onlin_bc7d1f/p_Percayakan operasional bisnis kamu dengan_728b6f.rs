@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Percayakan operasional bisnis kamu dengan_728b6f</name>
+   <tag></tag>
+   <elementGuidId>a801b9d3-c1b5-44e5-8748-04593f9f165b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.paragraph-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='melaka-solution']/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>7c048f47-5735-4cc4-8e26-a04abb6ac7e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>paragraph-2</value>
+      <webElementGuid>1c1a23d3-d75f-46c9-96a6-fce040897e18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Percayakan operasional bisnis kamu dengan fitur-fitur yang menyesuaikan kebutuhan kamu dari Melaka ✨</value>
+      <webElementGuid>2f639bd1-a642-4b0e-8ec6-b22518ef52a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;melaka-solution&quot;)/div[@class=&quot;w-layout-vflex flex-block-17&quot;]/p[@class=&quot;paragraph-2&quot;]</value>
+      <webElementGuid>93a7706e-1359-4487-92c9-7716356460cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='melaka-solution']/div/p</value>
+      <webElementGuid>ac6295c7-0473-4706-999a-003d3d0438e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Solusi Khusus'])[1]/following::p[1]</value>
+      <webElementGuid>c527777c-38c1-49ea-b174-56cae666548d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penjual Online'])[1]/preceding::p[1]</value>
+      <webElementGuid>6a4887f5-b606-4071-a334-54e7974c97db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SELENGKAPNYA'])[1]/preceding::p[1]</value>
+      <webElementGuid>1b41beec-50a2-4ab6-992f-e1ec1c8e6a2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Percayakan operasional bisnis kamu dengan fitur-fitur yang menyesuaikan kebutuhan kamu dari Melaka ✨']/parent::*</value>
+      <webElementGuid>5a0fc00c-9ff5-412a-a9fa-0d5cfb5d54d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>b165abbd-862f-40f8-b0d8-80899ae35c33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Percayakan operasional bisnis kamu dengan fitur-fitur yang menyesuaikan kebutuhan kamu dari Melaka ✨' or . = 'Percayakan operasional bisnis kamu dengan fitur-fitur yang menyesuaikan kebutuhan kamu dari Melaka ✨')]</value>
+      <webElementGuid>b02feb63-5799-4eeb-ade0-3b50f04011f2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

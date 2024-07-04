@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Punya banyak toko di banyak marketplace_1a7ca3</name>
+   <tag></tag>
+   <elementGuidId>445717d9-5a9e-4ff6-853b-736290d1268a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.h1.he.h1-mobile</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='marketplace-integration']/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cc8491e1-babd-4479-b122-abaaf03b5c6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>landing-feature__text__marketplace-integration-content</value>
+      <webElementGuid>e96650cc-189f-4454-ad9b-17c5b2435b1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h1 he h1-mobile</value>
+      <webElementGuid>ab92cf81-d9d1-40f3-8a25-492b8e9cce98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Punya banyak toko di banyak marketplace? Koneksikan aja dulu</value>
+      <webElementGuid>82a90cdc-533c-408d-a511-1a8c489fc5a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;marketplace-integration&quot;)/div[@class=&quot;flex-feature-texts&quot;]/div[@class=&quot;h1 he h1-mobile&quot;]</value>
+      <webElementGuid>a1eb655f-5898-4712-b6af-d9a1d8457525</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='marketplace-integration']/div[2]/div[2]</value>
+      <webElementGuid>d42665cc-0c5c-4622-ab1a-bc3de11a0b00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='INTEGRASI ANTAR MARKETPLACE'])[1]/following::div[1]</value>
+      <webElementGuid>8cac9b21-3d4b-42f1-a726-e55056884851</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SELENGKAPNYA'])[3]/following::div[6]</value>
+      <webElementGuid>fee0961b-100d-4628-8fff-2597be7fd72f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pelajari Lebih Lanjut'])[1]/preceding::div[2]</value>
+      <webElementGuid>821e169b-2048-420a-bcb1-7d2f876b3cb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Punya banyak toko di']/parent::*</value>
+      <webElementGuid>f8fb8b8a-7157-488c-97d7-de243f95bc80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div[2]</value>
+      <webElementGuid>5fcc1eaa-aade-45e5-8cf4-a431d209d870</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Punya banyak toko di banyak marketplace? Koneksikan aja dulu' or . = 'Punya banyak toko di banyak marketplace? Koneksikan aja dulu')]</value>
+      <webElementGuid>490a2ba9-0a75-4951-bcf3-d1fb33413621</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

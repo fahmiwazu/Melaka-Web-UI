@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_melaka_app_1</name>
+   <tag></tag>
+   <elementGuidId>be97ae8a-896c-44d2-b47e-5ba7c99bedc3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='melaka_app'])[1]/following::a[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>32dafbb6-911c-4791-af82-c4ccb9b743f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>landing__text__youtube</value>
+      <webElementGuid>74858ec4-3aec-4b1b-a2a0-016666c86ee4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.youtube.com/@melaka_app/videos</value>
+      <webElementGuid>298f74a9-dbee-44b3-ac14-41f522634d55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>d9f9fff3-5866-4617-ab2e-2f19ed5322d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>link-block-5 w-inline-block</value>
+      <webElementGuid>9b978ade-164b-4a0b-9b90-6ef2f97d9e1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>melaka_app</value>
+      <webElementGuid>52df5bc4-1d97-48b5-8d88-290f2064d307</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;w-mod-js w-mod-ix wf-nunito-n2-active wf-nunito-n5-active wf-nunito-n3-active wf-nunito-n9-active wf-nunito-n8-active wf-nunito-n4-active wf-nunito-n6-active wf-nunito-n7-active wf-nunito-i3-active wf-nunito-i4-active wf-nunito-i8-active wf-nunito-i7-active wf-nunito-i9-active wf-nunito-i6-active wf-nunito-i5-active wf-nunito-i2-active wf-active&quot;]/body[1]/div[@class=&quot;container-footer-new&quot;]/div[@class=&quot;div-block-15&quot;]/div[@class=&quot;footer-right footer-mobile&quot;]/div[@class=&quot;div-block-14&quot;]/a[@class=&quot;link-block-5 w-inline-block&quot;]</value>
+      <webElementGuid>21ff8a06-81f2-4bf9-89cb-934f9accf0b4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='melaka_app'])[1]/following::a[1]</value>
+      <webElementGuid>d0fcb380-59a5-424f-a216-4366dafd9fdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privasi dan Keamanan Data'])[1]/following::a[2]</value>
+      <webElementGuid>506e9475-c2fb-4620-b57d-acfc4892552d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='melaka_app'])[3]/preceding::a[1]</value>
+      <webElementGuid>4d338604-919c-4006-8ff2-b39fac76d339</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.youtube.com/@melaka_app/videos')]</value>
+      <webElementGuid>a954dd14-9cea-4e7e-957c-31ebb861d699</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a[2]</value>
+      <webElementGuid>d656b1b9-9f0b-46c4-9b8b-930b6811509a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.youtube.com/@melaka_app/videos' and (text() = 'melaka_app' or . = 'melaka_app')]</value>
+      <webElementGuid>3ad5f83a-6e1d-4467-83c8-712514c28bdf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

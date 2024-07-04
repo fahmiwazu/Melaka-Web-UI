@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Kembangkan kebutuhan Brand dalam memant_79503d</name>
+   <tag></tag>
+   <elementGuidId>e32322b5-742d-4b9d-8cef-53fb6d0870d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='melaka-solution']/div/div/div/div[3]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>26a10d43-2320-42e4-b2cf-c5c48e005251</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>b2-4</value>
+      <webElementGuid>e2e66a51-b974-40f8-ac28-9afb6278af6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kembangkan kebutuhan Brand dalam memantau keinginan pasar, menjaga harga di pasaran, serta analisis penjualan online menggunakan fitur yang dibuat khusus untuk para Brand di Melaka.</value>
+      <webElementGuid>4e462e9c-4728-48d6-bbf3-3f124fad8309</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;melaka-solution&quot;)/div[@class=&quot;w-layout-vflex flex-block-17&quot;]/div[@class=&quot;w-layout-hflex flex-block-49&quot;]/div[@class=&quot;w-layout-hflex flex-block-16&quot;]/div[@class=&quot;business-type---card image-2&quot;]/div[@class=&quot;w-layout-vflex pilihan-content-2&quot;]/div[@class=&quot;b2-4&quot;]</value>
+      <webElementGuid>a4e36e55-d3a5-4dd8-b171-3989b9883ce6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='melaka-solution']/div/div/div/div[3]/div[2]/div</value>
+      <webElementGuid>29f28ffd-07e4-497d-af76-c7dbba607873</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Brand'])[1]/following::div[2]</value>
+      <webElementGuid>224725d2-0f91-4d39-97fc-1820855e3d34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SELENGKAPNYA'])[2]/following::div[5]</value>
+      <webElementGuid>3d56fcea-0ec4-47a7-b0c4-0280451f5df2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SELENGKAPNYA'])[3]/preceding::div[1]</value>
+      <webElementGuid>fe60fcf7-2d68-4bac-8b10-ba607130c0c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='INTEGRASI ANTAR MARKETPLACE'])[1]/preceding::div[2]</value>
+      <webElementGuid>56f9985f-d05f-4f4f-8ddd-806d5bbcb49a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kembangkan kebutuhan Brand dalam memantau keinginan pasar, menjaga harga di pasaran, serta analisis penjualan online menggunakan fitur yang dibuat khusus untuk para Brand di Melaka.']/parent::*</value>
+      <webElementGuid>9811e8dc-3440-467e-aca4-ef92c545f17a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]/div[2]/div</value>
+      <webElementGuid>34a7366a-c2d8-44e2-b95d-6d945055b2b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Kembangkan kebutuhan Brand dalam memantau keinginan pasar, menjaga harga di pasaran, serta analisis penjualan online menggunakan fitur yang dibuat khusus untuk para Brand di Melaka.' or . = 'Kembangkan kebutuhan Brand dalam memantau keinginan pasar, menjaga harga di pasaran, serta analisis penjualan online menggunakan fitur yang dibuat khusus untuk para Brand di Melaka.')]</value>
+      <webElementGuid>6594b530-c91c-4324-b913-c659b70cb087</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

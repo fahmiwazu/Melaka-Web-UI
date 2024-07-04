@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Tipe Bisnis</name>
+   <tag></tag>
+   <elementGuidId>928ac152-faa4-4503-b6e9-dfa3493d07e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.body-b1.text-le</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div[2]/div/form/div[4]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f3811b04-ec31-467f-aeb8-a0d4654946c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>body-b1 text-le</value>
+      <webElementGuid>37f438b7-0678-4731-9270-389d7d21c4f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>register__text-field__business-type</value>
+      <webElementGuid>6f1598f7-1475-4941-bcbf-858d3e956240</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tipe Bisnis</value>
+      <webElementGuid>6bcbffa5-f9f1-4e74-b7cf-871f8f6828e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;relative flex min-h-screen flex-col&quot;]/div[@class=&quot;grid min-h-screen w-full grid-cols-1 md:grid-cols-2 mt-0 mb-8 md:mt-[49px]&quot;]/div[@class=&quot;bg-neutral-N0 z-10 col-span-1 grid pt-6 place-items-start justify-center content-start p-5 md:-mt-6 md:-ml-8 md:p-8 md:pl-0&quot;]/div[@class=&quot;flex h-full flex-col justify-center gap-4 md:max-w-[476px]&quot;]/form[@class=&quot;flex flex-col gap-6&quot;]/div[@class=&quot;flex flex-col&quot;]/div[@class=&quot;flex items-center gap-1&quot;]/span[@class=&quot;body-b1 text-le&quot;]</value>
+      <webElementGuid>87b6e33b-b03c-4f8d-be87-8aef96254084</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[2]/div/form/div[4]/div/span</value>
+      <webElementGuid>a9c96847-3ce4-44af-927e-bf6b4a37dd57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Bisnis Kamu'])[1]/following::span[1]</value>
+      <webElementGuid>5e9b6dfe-274a-45fd-ae9b-a39a98138bbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor Telepon'])[1]/following::span[3]</value>
+      <webElementGuid>84e993b9-a4e5-473c-9878-cb1caab349ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Distributor'])[1]/preceding::span[1]</value>
+      <webElementGuid>212b6e07-4921-4825-be2b-afbd5554da42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toko Retail'])[1]/preceding::span[2]</value>
+      <webElementGuid>ee55cb48-1086-4479-a0dc-218c2f6af679</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tipe Bisnis']/parent::*</value>
+      <webElementGuid>b8ec0fe2-da09-473c-8fb7-e45008a0fc04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/span</value>
+      <webElementGuid>e649a559-0737-4c73-8628-ebad1b643053</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Tipe Bisnis' or . = 'Tipe Bisnis')]</value>
+      <webElementGuid>68065ff7-447d-4e49-b01b-17cb345e6c51</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

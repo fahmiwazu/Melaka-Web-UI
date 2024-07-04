@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_INTEGRASI ANTAR MARKETPLACEPunya banyak_458566_1</name>
+   <tag></tag>
+   <elementGuidId>d923a33a-49e8-4fda-bc1d-26ef47f97138</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex-feature-texts</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='marketplace-integration']/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a4602915-df8f-4467-943e-22c350b15071</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex-feature-texts</value>
+      <webElementGuid>278709a9-60ef-4819-b761-04c2642d6b8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>INTEGRASI ANTAR MARKETPLACEPunya banyak toko di banyak marketplace? Koneksikan aja duluDengan Melaka, kamu dapat memusatkan seluruh manajemen toko online-mu di berbagai marketplace hanya di satu platform saja.Pelajari Lebih Lanjut</value>
+      <webElementGuid>fad4d4c1-db79-4c6e-862f-205fac4e77a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;marketplace-integration&quot;)/div[@class=&quot;flex-feature-texts&quot;]</value>
+      <webElementGuid>516e5e79-3298-4072-96dd-5baefaece571</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='marketplace-integration']/div[2]</value>
+      <webElementGuid>71bc8726-76c1-479f-b32d-80cfe88099c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SELENGKAPNYA'])[3]/following::div[4]</value>
+      <webElementGuid>94d30ab6-f78f-4d4d-8913-6f71f0257824</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Brand'])[1]/following::div[6]</value>
+      <webElementGuid>27720f6c-15d3-4dbe-b8da-b9f76b9c898c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]</value>
+      <webElementGuid>a2cd8514-b470-4a8c-a226-e552f08ea663</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'INTEGRASI ANTAR MARKETPLACEPunya banyak toko di banyak marketplace? Koneksikan aja duluDengan Melaka, kamu dapat memusatkan seluruh manajemen toko online-mu di berbagai marketplace hanya di satu platform saja.Pelajari Lebih Lanjut' or . = 'INTEGRASI ANTAR MARKETPLACEPunya banyak toko di banyak marketplace? Koneksikan aja duluDengan Melaka, kamu dapat memusatkan seluruh manajemen toko online-mu di berbagai marketplace hanya di satu platform saja.Pelajari Lebih Lanjut')]</value>
+      <webElementGuid>15a9acfe-02ae-4cd2-8eec-8a079f35a7a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

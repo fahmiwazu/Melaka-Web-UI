@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_1_2_3_4_5_6_7</name>
+   <tag></tag>
+   <elementGuidId>57869084-f725-45b6-8dda-a62cfd0da85c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Icon Sosmed FB&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Icon Sosmed FB']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>e798bc71-ffbb-4933-afc6-c6f3ba576ea9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>039db9c8-a457-4def-958c-bf21a219a1bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Icon Sosmed FB</value>
+      <webElementGuid>6955da9b-ef74-45e6-918a-360f2dfd7378</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://cdn.prod.website-files.com/648a8a601ca0200e7d511b40/649bcf14e46ebc6622d9437e_ic_facebook.svg</value>
+      <webElementGuid>7ff87ede-21ab-4c10-908f-86dc7b54c92e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;w-mod-js w-mod-ix wf-nunito-n2-active wf-nunito-n5-active wf-nunito-n3-active wf-nunito-n9-active wf-nunito-n8-active wf-nunito-n4-active wf-nunito-n6-active wf-nunito-n7-active wf-nunito-i3-active wf-nunito-i4-active wf-nunito-i8-active wf-nunito-i7-active wf-nunito-i9-active wf-nunito-i6-active wf-nunito-i5-active wf-nunito-i2-active wf-active&quot;]/body[1]/div[@class=&quot;container-footer-new&quot;]/div[@class=&quot;div-block-15&quot;]/div[@class=&quot;footer-right footer-mobile&quot;]/div[@class=&quot;div-block-14&quot;]/a[@class=&quot;link-block-5 link-block-5 w-inline-block&quot;]/img[1]</value>
+      <webElementGuid>041156cb-4630-48eb-87d1-ee42f1c51c6d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Icon Sosmed FB']</value>
+      <webElementGuid>f5a53c1a-afcf-4603-8805-c5e79aad047e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/img</value>
+      <webElementGuid>4369124c-e078-4637-a620-64b965d748c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Icon Sosmed FB' and @src = 'https://cdn.prod.website-files.com/648a8a601ca0200e7d511b40/649bcf14e46ebc6622d9437e_ic_facebook.svg']</value>
+      <webElementGuid>1fa968d4-6ba7-4d19-a049-0e8f59892d41</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

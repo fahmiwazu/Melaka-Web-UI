@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Integrasi Marketplace</name>
+   <tag></tag>
+   <elementGuidId>fa13a396-222e-4f8c-a920-41f73de5d6a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div/div/div/button/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f721387a-a24f-4765-84f4-3f81fa363897</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex min-h-[2.5rem] items-center gap-2 rounded</value>
+      <webElementGuid>85300bf2-2f7c-4d99-a819-68ef636b502b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>landing__dropdown-menu__marketplace-integration</value>
+      <webElementGuid>1dae7375-d360-468b-94d3-df865054be62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://melaka.app#marketplace-integration</value>
+      <webElementGuid>4aec01e5-3aa5-4615-ae45-67e4eacd4cc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Integrasi Marketplace</value>
+      <webElementGuid>7332da79-8413-47e2-ba5a-946d3df0c735</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;relative flex min-h-screen flex-col&quot;]/div[@class=&quot;top-0 w-full overflow-visible sticky z-20&quot;]/div[@class=&quot;top-0 z-10 flex w-full items-center justify-between px-5 drop-shadow transition-all duration-300 lg:px-6 bg-transparent py-4 lg:py-1&quot;]/div[@class=&quot;flex items-center lg:gap-20&quot;]/div[@class=&quot;relative hidden items-center gap-6 lg:flex&quot;]/div[@class=&quot;hover:bg-blue-B100 relative hidden cursor-pointer items-center rounded p-2 hover:rounded lg:flex&quot;]/button[@class=&quot;align-center absolute top-8 flex w-56 flex-col gap-2 rounded-lg bg-white px-4 py-4 drop-shadow&quot;]/div[@class=&quot;group flex w-full justify-start&quot;]/a[@class=&quot;flex min-h-[2.5rem] items-center gap-2 rounded&quot;]</value>
+      <webElementGuid>5e4802b1-2351-4fd8-b3e5-4ddb4310a945</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div/div/div/button/div/a</value>
+      <webElementGuid>6d01c120-85e8-46ee-9d1b-a849a0a57e1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Solusi Kami'])[1]/following::a[1]</value>
+      <webElementGuid>af0ee845-698e-4376-bb07-ca3c0a16ad11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manajemen Inventori'])[1]/preceding::a[1]</value>
+      <webElementGuid>a5fcbe5f-0bd1-43a4-a390-6095541d9460</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://melaka.app#marketplace-integration')]</value>
+      <webElementGuid>bff4e006-6469-4caa-b73a-999899ffd552</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div/a</value>
+      <webElementGuid>5b886c6d-695b-4af4-86eb-71668bae3107</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://melaka.app#marketplace-integration' and (text() = 'Integrasi Marketplace' or . = 'Integrasi Marketplace')]</value>
+      <webElementGuid>8821d075-899c-4a81-ab6a-8a838ef73f7a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

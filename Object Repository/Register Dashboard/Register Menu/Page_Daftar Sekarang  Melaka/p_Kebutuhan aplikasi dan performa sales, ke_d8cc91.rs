@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Kebutuhan aplikasi dan performa sales, ke_d8cc91</name>
+   <tag></tag>
+   <elementGuidId>84dc9f59-734e-4d0a-aade-f3e656749936</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.body-b3.text-le.mt-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div[2]/div/form/div[4]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>dd1fc75d-e835-43ab-9a1b-2736e945281d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>body-b3 text-le mt-1</value>
+      <webElementGuid>57c122f5-8afd-472b-927a-92dd882c63db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>register__text__distributor-short-text</value>
+      <webElementGuid>169bfec7-8cbf-4aeb-a0b1-5b23fb7f4d8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kebutuhan aplikasi dan performa sales, kelola inventori gudang</value>
+      <webElementGuid>b53e56f4-8129-4b8c-90ae-bd88e54dda34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;relative flex min-h-screen flex-col&quot;]/div[@class=&quot;grid min-h-screen w-full grid-cols-1 md:grid-cols-2 mt-0 mb-8 md:mt-[49px]&quot;]/div[@class=&quot;bg-neutral-N0 z-10 col-span-1 grid pt-6 place-items-start justify-center content-start p-5 md:-mt-6 md:-ml-8 md:p-8 md:pl-0&quot;]/div[@class=&quot;flex h-full flex-col justify-center gap-4 md:max-w-[476px]&quot;]/form[@class=&quot;flex flex-col gap-6&quot;]/div[@class=&quot;flex flex-col&quot;]/p[@class=&quot;body-b3 text-le mt-1&quot;]</value>
+      <webElementGuid>d3e90b41-00e0-48d7-9c10-f92973bfc945</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[2]/div/form/div[4]/p</value>
+      <webElementGuid>7109d3cd-c601-43f8-a6be-42c821483ff1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penjual Online'])[1]/following::p[1]</value>
+      <webElementGuid>e407da4c-a1b3-45d9-982e-951d7e0d4b77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Brand'])[1]/following::p[1]</value>
+      <webElementGuid>d10bd1b4-18c6-4e81-8fd1-eb2b041f3f5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/preceding::p[1]</value>
+      <webElementGuid>7b46cb4f-42ec-41cf-9424-9d0a4e2ef00c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Icon'])[1]/preceding::p[2]</value>
+      <webElementGuid>7ed351b6-9523-4427-a050-34ee21ce3fb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kebutuhan aplikasi dan performa sales, kelola inventori gudang']/parent::*</value>
+      <webElementGuid>94de1730-93b9-4a89-88c1-8bf010de7f5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/p</value>
+      <webElementGuid>9356805b-0ba2-4045-a3e0-8ec5f26d4c76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Kebutuhan aplikasi dan performa sales, kelola inventori gudang' or . = 'Kebutuhan aplikasi dan performa sales, kelola inventori gudang')]</value>
+      <webElementGuid>b9e3c653-7a7d-4c1f-9112-a1de899999cb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

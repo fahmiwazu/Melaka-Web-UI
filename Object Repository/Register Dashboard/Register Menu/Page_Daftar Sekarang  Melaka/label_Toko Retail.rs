@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Toko Retail</name>
+   <tag></tag>
+   <elementGuidId>5e3b2030-fd95-4213-84bd-43eb557a21f4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div[2]/div/form/div[4]/div[2]/div[2]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>efe86b71-ba2b-4c5b-9eac-caff471312d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>retail_store-:Ra96l6:</value>
+      <webElementGuid>dab42f94-fb3c-48c0-b159-7aaafc0e59ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Toko Retail</value>
+      <webElementGuid>9531a197-850e-4741-bab4-ed5c087a3f4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;relative flex min-h-screen flex-col&quot;]/div[@class=&quot;grid min-h-screen w-full grid-cols-1 md:grid-cols-2 mt-0 mb-8 md:mt-[49px]&quot;]/div[@class=&quot;bg-neutral-N0 z-10 col-span-1 grid pt-6 place-items-start justify-center content-start p-5 md:-mt-6 md:-ml-8 md:p-8 md:pl-0&quot;]/div[@class=&quot;flex h-full flex-col justify-center gap-4 md:max-w-[476px]&quot;]/form[@class=&quot;flex flex-col gap-6&quot;]/div[@class=&quot;flex flex-col&quot;]/div[@class=&quot;flex flex-wrap items-start md:flex-nowrap&quot;]/div[@class=&quot;flex items-center&quot;]/label[1]</value>
+      <webElementGuid>4fa76ad0-15d3-4871-bbfb-f72f70e1dc89</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[2]/div/form/div[4]/div[2]/div[2]/label</value>
+      <webElementGuid>549e0df2-5162-4cf9-a4cd-447a21a5eef6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Distributor'])[1]/following::label[1]</value>
+      <webElementGuid>675d1460-11ae-486e-8869-a4ffc2d47509</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipe Bisnis'])[1]/following::label[2]</value>
+      <webElementGuid>c66699bf-996d-4bcb-93ae-b4e89463f47f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Brand'])[1]/preceding::label[1]</value>
+      <webElementGuid>3f1ea818-14f3-4f1c-ab7b-0e83afa30324</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label</value>
+      <webElementGuid>2a2a4db6-6293-41ee-b750-e77bcb82aca5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Toko Retail' or . = 'Toko Retail')]</value>
+      <webElementGuid>248ec0e0-2105-4711-9caa-20e80f001b2a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

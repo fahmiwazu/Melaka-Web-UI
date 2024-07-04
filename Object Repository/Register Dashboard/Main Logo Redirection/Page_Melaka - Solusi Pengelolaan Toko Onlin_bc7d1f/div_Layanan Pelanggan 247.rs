@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Layanan Pelanggan 247</name>
+   <tag></tag>
+   <elementGuidId>bfd58e6d-6743-4562-8457-8ec858139e80</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Keamanan &amp; Privasi Terjamin'])[1]/following::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c20f0aa0-d69b-4182-8af7-a1196f0d24e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>landing-above-footer__text__customer_service</value>
+      <webElementGuid>52eac741-df67-43ed-89f1-ed66c6b145fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>valueprop-content</value>
+      <webElementGuid>83dc37d5-bcd9-4c23-8854-6c0bfa512bef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Layanan Pelanggan 24/7</value>
+      <webElementGuid>003aabfd-c9e9-4a79-a845-f1a25dbeee0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;w-mod-js w-mod-ix wf-nunito-n2-active wf-nunito-n5-active wf-nunito-n3-active wf-nunito-n9-active wf-nunito-n8-active wf-nunito-n4-active wf-nunito-n6-active wf-nunito-n7-active wf-nunito-i3-active wf-nunito-i4-active wf-nunito-i8-active wf-nunito-i7-active wf-nunito-i9-active wf-nunito-i6-active wf-nunito-i5-active wf-nunito-i2-active wf-active&quot;]/body[1]/div[@class=&quot;container-valueprops-new&quot;]/div[@class=&quot;valueprops&quot;]/div[@class=&quot;valueprop-content&quot;]</value>
+      <webElementGuid>4a1ab0d0-8aca-4ce4-bafb-4cad0e89d394</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keamanan &amp; Privasi Terjamin'])[1]/following::div[1]</value>
+      <webElementGuid>deb2775a-7b98-4b57-bad5-996a0efc6494</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pelajari Lebih Lanjut'])[4]/following::div[6]</value>
+      <webElementGuid>75b3278b-e747-4f5c-bed6-38acd92a2458</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Praktis dan Gratis'])[1]/preceding::div[2]</value>
+      <webElementGuid>408707e2-5c30-4857-bda8-3df79f11d8a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]</value>
+      <webElementGuid>495df65c-dddf-4c48-b31e-819abad019be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Layanan Pelanggan 24/7' or . = 'Layanan Pelanggan 24/7')]</value>
+      <webElementGuid>d8403fa3-c227-4b3e-93c5-1382130dc4df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

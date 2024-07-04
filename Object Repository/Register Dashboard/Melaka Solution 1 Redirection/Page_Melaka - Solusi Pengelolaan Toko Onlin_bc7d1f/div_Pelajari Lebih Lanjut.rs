@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pelajari Lebih Lanjut</name>
+   <tag></tag>
+   <elementGuidId>092b9cbc-1b9a-450c-a7de-56392e31ddf8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.text-button---l</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='marketplace-integration']/div[2]/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bb7724df-b127-46f4-aaad-1eb92f7186d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-button---l</value>
+      <webElementGuid>ee70febf-5d53-4f92-8069-f744b89ad30c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pelajari Lebih Lanjut</value>
+      <webElementGuid>bda0322a-dcf2-4260-b11e-a500e8f7e04b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;marketplace-integration&quot;)/div[@class=&quot;flex-feature-texts&quot;]/a[@class=&quot;link-block w-inline-block&quot;]/div[@class=&quot;text-button---l&quot;]</value>
+      <webElementGuid>bc3bf647-560b-41c8-b59a-dfff60e1ccec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='marketplace-integration']/div[2]/a/div</value>
+      <webElementGuid>10fb9cd0-d656-407d-b9f0-851b785bdeb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='banyak marketplace'])[1]/following::div[2]</value>
+      <webElementGuid>26244948-e417-41bf-a712-e9690ce0c55f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MANAJEMEN INVENTORI DAN ORDER'])[1]/preceding::div[1]</value>
+      <webElementGuid>aca8cf0f-aa40-479f-a6b0-ccc40ec28027</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pelajari Lebih Lanjut']/parent::*</value>
+      <webElementGuid>2836e7bc-5927-48be-8c1c-712fe4ac1e03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div</value>
+      <webElementGuid>d03c3401-f3c8-45e5-ab5e-c9826ed2307b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pelajari Lebih Lanjut' or . = 'Pelajari Lebih Lanjut')]</value>
+      <webElementGuid>2b929272-9f9f-4bb9-84fd-ef7db16bff7a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

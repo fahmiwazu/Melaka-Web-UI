@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Penjual Online</name>
+   <tag></tag>
+   <elementGuidId>3089a0ea-ad1f-4acc-a7a3-5f1d7075f8f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div[2]/div/form/div[4]/div[2]/div[4]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>55a2249b-5500-475c-9932-bd17f4e1de63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>online_seller-:Ri96l6:</value>
+      <webElementGuid>50fc1935-b12d-44c4-94b3-67a6461d8c68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Penjual Online</value>
+      <webElementGuid>cf082448-618c-48bb-8942-228d7ad7484f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;relative flex min-h-screen flex-col&quot;]/div[@class=&quot;grid min-h-screen w-full grid-cols-1 md:grid-cols-2 mt-0 mb-8 md:mt-[49px]&quot;]/div[@class=&quot;bg-neutral-N0 z-10 col-span-1 grid pt-6 place-items-start justify-center content-start p-5 md:-mt-6 md:-ml-8 md:p-8 md:pl-0&quot;]/div[@class=&quot;flex h-full flex-col justify-center gap-4 md:max-w-[476px]&quot;]/form[@class=&quot;flex flex-col gap-6&quot;]/div[@class=&quot;flex flex-col&quot;]/div[@class=&quot;flex flex-wrap items-start md:flex-nowrap&quot;]/div[@class=&quot;flex items-center&quot;]/label[1]</value>
+      <webElementGuid>e57f2d00-55e6-412c-8cad-b8d8b60f1123</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[2]/div/form/div[4]/div[2]/div[4]/label</value>
+      <webElementGuid>f89304f4-296b-431d-8c62-c558773ec174</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Brand'])[1]/following::label[1]</value>
+      <webElementGuid>f53f3b50-41f7-4a33-bb0d-e2580c97c418</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toko Retail'])[1]/following::label[2]</value>
+      <webElementGuid>19da21ae-0a08-40f5-a37a-70ccdf6edff6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/preceding::label[1]</value>
+      <webElementGuid>cb60148b-d2bc-40c5-9884-ccdf47a6931b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/label</value>
+      <webElementGuid>129940ee-c090-4920-aed1-3abd41c4e7c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Penjual Online' or . = 'Penjual Online')]</value>
+      <webElementGuid>b31f8949-7a62-4eea-a7dd-32df0dcf12c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

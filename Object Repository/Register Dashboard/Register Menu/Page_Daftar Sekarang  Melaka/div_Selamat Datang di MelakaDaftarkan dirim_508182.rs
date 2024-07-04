@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Selamat Datang di MelakaDaftarkan dirim_508182</name>
+   <tag></tag>
+   <elementGuidId>31d9aa90-4c14-4000-9ff6-2beeff96cc68</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>277934e1-aea7-41e5-b8f3-c5262bac33ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-neutral-N0 z-10 col-span-1 grid pt-6 place-items-start justify-center content-start p-5 md:-mt-6 md:-ml-8 md:p-8 md:pl-0</value>
+      <webElementGuid>d07de8cd-bd21-4801-949d-4caac6795d77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Selamat Datang di MelakaDaftarkan dirimu dan nikmati fitur-fitur terbaik dari Melaka untuk operasional bisnismu.NamaWajib diisi, min. 5 karakter.Nomor TeleponWajib diisi. Nomor telepon tidak boleh kurang dari 10 atau lebih dari 12 karakter.+62Nama Bisnis KamuWajib diisi.Tipe BisnisDistributorToko RetailBrandPenjual OnlineKebutuhan aplikasi dan performa sales, kelola inventori gudangEmailWajib diisi.IconKata SandiMin. 8 karakter, harus kombinasi dari huruf dan angka.IconKonfirmasi Kata SandiBaca dan setuju dengan syarat dan ketentuanDengan melanjutkan pendaftaran, kamu setuju dengan Syarat dan Ketentuan Melaka.DaftarSudah punya akun? Masuk disini.</value>
+      <webElementGuid>de423cfd-33e5-47cf-a66d-174e1f0adf13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;relative flex min-h-screen flex-col&quot;]/div[@class=&quot;grid min-h-screen w-full grid-cols-1 md:grid-cols-2 mt-0 mb-8 md:mt-[49px]&quot;]/div[@class=&quot;bg-neutral-N0 z-10 col-span-1 grid pt-6 place-items-start justify-center content-start p-5 md:-mt-6 md:-ml-8 md:p-8 md:pl-0&quot;]</value>
+      <webElementGuid>31dca0e9-0432-4b3c-9656-45d7c6c94e79</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[2]</value>
+      <webElementGuid>370f612d-de22-4475-af21-12a0dfbfe9e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edukasi'])[1]/following::div[3]</value>
+      <webElementGuid>4afb7e47-1836-41d0-83d6-4279842e4b05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Solusi Kami'])[1]/following::div[4]</value>
+      <webElementGuid>be64165e-3540-4bf1-93e0-d9ae4a06a0db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>effe4d9e-fffa-4442-ad18-43717c309c05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Selamat Datang di MelakaDaftarkan dirimu dan nikmati fitur-fitur terbaik dari Melaka untuk operasional bisnismu.NamaWajib diisi, min. 5 karakter.Nomor TeleponWajib diisi. Nomor telepon tidak boleh kurang dari 10 atau lebih dari 12 karakter.+62Nama Bisnis KamuWajib diisi.Tipe BisnisDistributorToko RetailBrandPenjual OnlineKebutuhan aplikasi dan performa sales, kelola inventori gudangEmailWajib diisi.IconKata SandiMin. 8 karakter, harus kombinasi dari huruf dan angka.IconKonfirmasi Kata SandiBaca dan setuju dengan syarat dan ketentuanDengan melanjutkan pendaftaran, kamu setuju dengan Syarat dan Ketentuan Melaka.DaftarSudah punya akun? Masuk disini.' or . = 'Selamat Datang di MelakaDaftarkan dirimu dan nikmati fitur-fitur terbaik dari Melaka untuk operasional bisnismu.NamaWajib diisi, min. 5 karakter.Nomor TeleponWajib diisi. Nomor telepon tidak boleh kurang dari 10 atau lebih dari 12 karakter.+62Nama Bisnis KamuWajib diisi.Tipe BisnisDistributorToko RetailBrandPenjual OnlineKebutuhan aplikasi dan performa sales, kelola inventori gudangEmailWajib diisi.IconKata SandiMin. 8 karakter, harus kombinasi dari huruf dan angka.IconKonfirmasi Kata SandiBaca dan setuju dengan syarat dan ketentuanDengan melanjutkan pendaftaran, kamu setuju dengan Syarat dan Ketentuan Melaka.DaftarSudah punya akun? Masuk disini.')]</value>
+      <webElementGuid>5401a98a-3900-41d8-8455-9c4dd7d01389</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

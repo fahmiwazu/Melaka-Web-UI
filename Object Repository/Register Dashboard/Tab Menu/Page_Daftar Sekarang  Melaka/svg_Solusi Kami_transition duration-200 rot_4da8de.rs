@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Solusi Kami_transition duration-200 rot_4da8de</name>
+   <tag></tag>
+   <elementGuidId>473d5d85-92c2-403e-895c-0883cffc5838</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg.transition.duration-200.rotate-180.text-blue-B700.text-white</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Solusi Kami'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>2ca3295f-e55b-4680-9b2a-274af4cf5015</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>497787a9-9310-45a1-8ad5-0f81c6dfd2cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>0036a3fc-6474-44a6-bf57-ae3133cfcedb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>5830c418-07e7-4c0b-a401-a3b61fd4ba05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>89a53dfc-509b-46b0-a382-dcd27fe0490b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>564aab60-f670-4282-9fbb-76e98c374fe6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>14d2c967-2f46-4ed7-bb0a-b387331f3a43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>transition duration-200 rotate-180 text-blue-B700 text-white</value>
+      <webElementGuid>52aa108f-2e77-4f8f-a5f4-724b796434bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;relative flex min-h-screen flex-col&quot;]/div[@class=&quot;top-0 w-full overflow-visible sticky z-20&quot;]/div[@class=&quot;top-0 z-10 flex w-full items-center justify-between px-5 drop-shadow transition-all duration-300 lg:px-6 bg-transparent py-4 lg:py-1&quot;]/div[@class=&quot;flex items-center lg:gap-20&quot;]/div[@class=&quot;relative hidden items-center gap-6 lg:flex&quot;]/div[@class=&quot;hover:bg-blue-B100 relative hidden cursor-pointer items-center rounded p-2 hover:rounded lg:flex&quot;]/svg[@class=&quot;transition duration-200 rotate-180 text-blue-B700 text-white&quot;]</value>
+      <webElementGuid>bcbd0b5f-282d-4b02-9207-aaf4ade8b948</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Solusi Kami'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>b6ab9690-7872-462b-af63-8873f9d57d41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Integrasi Marketplace'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>091b1826-cd97-4d65-ac16-7547ba5467cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manajemen Inventori'])[1]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>94641f1c-a8b1-4b82-a91c-c45759f73f0a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

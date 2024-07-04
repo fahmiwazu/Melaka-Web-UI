@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_MANAJEMEN INVENTORI DAN ORDERAtur inven_23f353_1</name>
+   <tag></tag>
+   <elementGuidId>e152af45-6f15-4307-acf5-730f9ca84a2c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#store-management > div.flex-feature-texts</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='store-management']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bccbd1a0-f527-4184-b7ce-0f4e2ff5a6f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex-feature-texts</value>
+      <webElementGuid>44e50188-6b13-45a9-8ed7-71a8aaa84982</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MANAJEMEN INVENTORI DAN ORDERAtur inventori dan pesanan toko online-mu dengan mudah dan terpusatKurangi resiko stok tidak sinkron atau pun pesanan lupa diproses karena repot mesti buka semua marketplace.Pelajari Lebih Lanjut</value>
+      <webElementGuid>2a089f9d-2a28-4d4a-bcf5-de58bde3ffe8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;store-management&quot;)/div[@class=&quot;flex-feature-texts&quot;]</value>
+      <webElementGuid>0737fe39-ed70-4617-bd88-76e54eee8b96</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='store-management']/div</value>
+      <webElementGuid>72d3df5d-0482-4373-94b1-06f65b1c0fed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pelajari Lebih Lanjut'])[1]/following::div[2]</value>
+      <webElementGuid>0e9be5a3-6d7e-49af-9c3f-ceb1f88d5a07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='banyak marketplace'])[1]/following::div[4]</value>
+      <webElementGuid>f83d9891-f277-48de-b07d-52c06512a1d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div</value>
+      <webElementGuid>66ca8a46-901c-4af2-a0e4-87198c0035c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'MANAJEMEN INVENTORI DAN ORDERAtur inventori dan pesanan toko online-mu dengan mudah dan terpusatKurangi resiko stok tidak sinkron atau pun pesanan lupa diproses karena repot mesti buka semua marketplace.Pelajari Lebih Lanjut' or . = 'MANAJEMEN INVENTORI DAN ORDERAtur inventori dan pesanan toko online-mu dengan mudah dan terpusatKurangi resiko stok tidak sinkron atau pun pesanan lupa diproses karena repot mesti buka semua marketplace.Pelajari Lebih Lanjut')]</value>
+      <webElementGuid>e0a0a43f-b46d-4bd6-ae9e-84165fb6b677</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_melaka_app_1_2</name>
+   <tag></tag>
+   <elementGuidId>c6e845ed-c019-478c-b7a3-82992804aa22</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='melaka_app'])[2]/following::a[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>87099b23-0734-45bd-adba-6695664d105e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>landing__text__facebook</value>
+      <webElementGuid>8c7f236c-a07b-40b6-8fdf-b8ff31d1f1a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.facebook.com/people/Melaka-App/100088205575106/?mibextid=ZbWKwL</value>
+      <webElementGuid>e85db60a-9b07-4f55-a495-be599d67a551</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>90250985-3bc9-4051-9c3c-740d4f2290a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>link-block-5 link-block-5 w-inline-block</value>
+      <webElementGuid>279e9feb-c374-4dfc-bfa2-c31c9ac2d27f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>melaka_app</value>
+      <webElementGuid>6b34d362-42d4-485f-9f5c-d07ca0df30ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;w-mod-js w-mod-ix wf-nunito-n2-active wf-nunito-n5-active wf-nunito-n3-active wf-nunito-n9-active wf-nunito-n8-active wf-nunito-n4-active wf-nunito-n6-active wf-nunito-n7-active wf-nunito-i3-active wf-nunito-i4-active wf-nunito-i8-active wf-nunito-i7-active wf-nunito-i9-active wf-nunito-i6-active wf-nunito-i5-active wf-nunito-i2-active wf-active&quot;]/body[1]/div[@class=&quot;container-footer-new&quot;]/div[@class=&quot;div-block-15&quot;]/div[@class=&quot;footer-right footer-mobile&quot;]/div[@class=&quot;div-block-14&quot;]/a[@class=&quot;link-block-5 link-block-5 w-inline-block&quot;]</value>
+      <webElementGuid>42a0d5ef-9c1b-4090-9f8f-317f9178a8e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='melaka_app'])[2]/following::a[1]</value>
+      <webElementGuid>ea10ada7-6c70-4b5b-988a-d43a3de2090a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='melaka_app'])[1]/following::a[2]</value>
+      <webElementGuid>6356c42f-b6d2-440c-889a-55bc9a3184fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2024 Melaka. All rights reserved.'])[1]/preceding::a[1]</value>
+      <webElementGuid>946cc287-8e24-46c5-976f-78b65b5a4f4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.facebook.com/people/Melaka-App/100088205575106/?mibextid=ZbWKwL')]</value>
+      <webElementGuid>74ebe4f5-959f-49b3-a42d-379fa33f3c86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a[3]</value>
+      <webElementGuid>35ea7168-11a2-4422-98ad-15c2dec18dcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.facebook.com/people/Melaka-App/100088205575106/?mibextid=ZbWKwL' and (text() = 'melaka_app' or . = 'melaka_app')]</value>
+      <webElementGuid>c51870df-dd74-4344-afcf-8a6a4a41ae5a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

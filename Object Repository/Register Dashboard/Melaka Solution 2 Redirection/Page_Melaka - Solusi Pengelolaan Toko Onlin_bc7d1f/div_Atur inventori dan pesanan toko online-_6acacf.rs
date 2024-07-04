@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Atur inventori dan pesanan toko online-_6acacf</name>
+   <tag></tag>
+   <elementGuidId>8ddbf5de-64e2-4c07-a91e-df97d15c40e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#store-management > div.flex-feature-texts > div.h1.he.h1-mobile</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='store-management']/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c1d42c47-b399-4f3a-97a3-0574a959a155</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>landing-feature__text__store-management-content</value>
+      <webElementGuid>a92656e7-bb8d-4344-92fa-f010760c821e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h1 he h1-mobile</value>
+      <webElementGuid>30b688ec-0233-4cb4-9b48-d852dcee2126</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Atur inventori dan pesanan toko online-mu dengan mudah dan terpusat</value>
+      <webElementGuid>e0f5bf24-ac48-4c6a-b81b-3cc5c38b4424</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;store-management&quot;)/div[@class=&quot;flex-feature-texts&quot;]/div[@class=&quot;h1 he h1-mobile&quot;]</value>
+      <webElementGuid>93fa8383-8a06-417c-b66b-323b87eb66aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='store-management']/div/div[2]</value>
+      <webElementGuid>5aa39539-4192-4026-b82e-b9a761043bc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MANAJEMEN INVENTORI DAN ORDER'])[1]/following::div[1]</value>
+      <webElementGuid>299eee0c-dcaf-419c-a3da-730e8e53eb49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pelajari Lebih Lanjut'])[1]/following::div[4]</value>
+      <webElementGuid>d74c2071-245a-4909-8904-a3db18b7cf68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Atur']/parent::*</value>
+      <webElementGuid>c7b6e11d-0019-4bfc-af2a-6f8dd09e97f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div[2]</value>
+      <webElementGuid>7b989c53-7478-4903-819e-23fb8d5edc5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Atur inventori dan pesanan toko online-mu dengan mudah dan terpusat' or . = 'Atur inventori dan pesanan toko online-mu dengan mudah dan terpusat')]</value>
+      <webElementGuid>229ee35f-f1bd-4652-b0cb-948d2407f15f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

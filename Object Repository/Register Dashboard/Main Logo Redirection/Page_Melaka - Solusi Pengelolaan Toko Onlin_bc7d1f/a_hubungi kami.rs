@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_hubungi kami</name>
+   <tag></tag>
+   <elementGuidId>d2115327-02a3-46cb-afd9-0644da8a359b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.buttonnav.w-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'hubungi kami')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2df9be94-84b1-47b7-b08d-5837f57f8b7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>analytics</name>
+      <type>Main</type>
+      <value>register</value>
+      <webElementGuid>1be848c9-5113-4828-ae0c-70dde6310e9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>landing-header__button__sign-up</value>
+      <webElementGuid>631f54ee-c5be-4c39-8150-6eb7c1e70a7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>button-app</name>
+      <type>Main</type>
+      <value>register</value>
+      <webElementGuid>feb5ec72-4f76-45fd-9d41-89197766a5c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://api.whatsapp.com/send/?phone=6287777760336&amp;text=Hi+Admin%2C+saya+butuh+bantuan+terkait+Melaka&amp;type=phone_number&amp;app_absent=0</value>
+      <webElementGuid>25c3277a-fce0-48ee-bb99-444804fe04c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>buttonnav w-button</value>
+      <webElementGuid>6043e70c-d698-4d4c-b672-48e461b57a52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>hubungi kami</value>
+      <webElementGuid>263f3065-7629-436a-9948-d956a667ddc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;w-mod-js w-mod-ix wf-nunito-n2-active wf-nunito-n5-active wf-nunito-n3-active wf-nunito-n9-active wf-nunito-n8-active wf-nunito-n4-active wf-nunito-n6-active wf-nunito-n7-active wf-nunito-i3-active wf-nunito-i4-active wf-nunito-i8-active wf-nunito-i7-active wf-nunito-i9-active wf-nunito-i6-active wf-nunito-i5-active wf-nunito-i2-active wf-active&quot;]/body[1]/aside[@class=&quot;navbar&quot;]/div[@class=&quot;navbarleft-container shadow-three w-nav&quot;]/div[@class=&quot;container-5&quot;]/div[@class=&quot;navbar-wrapper-3&quot;]/nav[@class=&quot;menuwrapper w-nav-menu&quot;]/ul[@class=&quot;navmenu w-list-unstyled&quot;]/li[@class=&quot;rightmenu&quot;]/a[@class=&quot;buttonnav w-button&quot;]</value>
+      <webElementGuid>e5401724-4bc6-40db-8478-ee850ea2717a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'hubungi kami')]</value>
+      <webElementGuid>61d30c0e-2a7f-4f7d-a52c-26e91f702863</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='masuk'])[1]/following::a[1]</value>
+      <webElementGuid>a8e23716-7eb3-4687-9bc0-6f5179d38200</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pusat Bantuan'])[1]/following::a[2]</value>
+      <webElementGuid>05627779-7ca3-4fa5-ba53-ef7a51bd0ac1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Melaka Omnichannel'])[1]/preceding::a[1]</value>
+      <webElementGuid>571449f2-d2a6-4c96-848b-ab782a76f284</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='hubungi kami']/parent::*</value>
+      <webElementGuid>ea64edf6-605f-4587-9143-437087491dcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://api.whatsapp.com/send/?phone=6287777760336&amp;text=Hi+Admin%2C+saya+butuh+bantuan+terkait+Melaka&amp;type=phone_number&amp;app_absent=0')]</value>
+      <webElementGuid>5927f15f-f8ad-4fa8-aca4-795197db4887</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>2faea605-8ce2-4ad3-b3c8-d479bbba949d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://api.whatsapp.com/send/?phone=6287777760336&amp;text=Hi+Admin%2C+saya+butuh+bantuan+terkait+Melaka&amp;type=phone_number&amp;app_absent=0' and (text() = 'hubungi kami' or . = 'hubungi kami')]</value>
+      <webElementGuid>437176c4-962f-4877-9094-6eff5b2858b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

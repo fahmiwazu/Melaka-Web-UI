@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Manajemen Inventori</name>
+   <tag></tag>
+   <elementGuidId>d099fc4d-dc19-4fed-a8bd-74df4023cf91</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div/div/div/button/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>410839f2-2143-4c80-a80a-77c4554797e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>group flex w-full justify-start</value>
+      <webElementGuid>50131831-4c1e-4159-a551-debd4849f791</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manajemen Inventori</value>
+      <webElementGuid>55014794-9f24-4bdd-a9d2-fc56574c64c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;relative flex min-h-screen flex-col&quot;]/div[@class=&quot;top-0 w-full overflow-visible sticky z-20&quot;]/div[@class=&quot;top-0 z-10 flex w-full items-center justify-between px-5 drop-shadow transition-all duration-300 lg:px-6 bg-transparent py-4 lg:py-1&quot;]/div[@class=&quot;flex items-center lg:gap-20&quot;]/div[@class=&quot;relative hidden items-center gap-6 lg:flex&quot;]/div[@class=&quot;hover:bg-blue-B100 relative hidden cursor-pointer items-center rounded p-2 hover:rounded lg:flex&quot;]/button[@class=&quot;align-center absolute top-8 flex w-56 flex-col gap-2 rounded-lg bg-white px-4 py-4 drop-shadow&quot;]/div[@class=&quot;group flex w-full justify-start&quot;]</value>
+      <webElementGuid>f47b6240-f063-40df-ab08-29db7ddc3b7c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div/div/div/button/div[2]</value>
+      <webElementGuid>8d345796-6480-4198-bc87-75f93ac3a49b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Integrasi Marketplace'])[1]/following::div[1]</value>
+      <webElementGuid>959cf01e-dde9-40a2-b1af-4c7e3169e14b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Solusi Kami'])[1]/following::div[2]</value>
+      <webElementGuid>289ef29f-295d-4770-9196-db178af44f85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manajemen Order'])[1]/preceding::div[1]</value>
+      <webElementGuid>dc771050-e0fc-41f5-a22f-3be1ae9cc618</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div[2]</value>
+      <webElementGuid>90a043a2-ab24-4938-8288-ab10b5f09122</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Manajemen Inventori' or . = 'Manajemen Inventori')]</value>
+      <webElementGuid>da3772f3-ff4e-4768-ad00-f3c58c84e1cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

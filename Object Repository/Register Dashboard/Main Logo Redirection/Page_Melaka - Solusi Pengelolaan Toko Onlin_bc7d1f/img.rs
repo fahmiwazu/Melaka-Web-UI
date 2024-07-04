@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>65d72657-b901-44e0-8f73-02931eaa2087</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.w-layout-hflex.flex-block-62 > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[contains(@src,'https://cdn.prod.website-files.com/648a8a601ca0200e7d511b40/6495157082c7a6edf33eb4ff_active.svg')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>db76674f-757f-44ab-84c0-1b0290d648d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://cdn.prod.website-files.com/648a8a601ca0200e7d511b40/6495157082c7a6edf33eb4ff_active.svg</value>
+      <webElementGuid>92d6c0d8-a9bb-44d2-bf0e-516e492a5f73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>44ba31db-8308-43dc-8aa7-36774d70187b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;w-mod-js w-mod-ix wf-nunito-n2-active wf-nunito-n5-active wf-nunito-n3-active wf-nunito-n9-active wf-nunito-n8-active wf-nunito-n4-active wf-nunito-n6-active wf-nunito-n7-active wf-nunito-i3-active wf-nunito-i4-active wf-nunito-i8-active wf-nunito-i7-active wf-nunito-i9-active wf-nunito-i6-active wf-nunito-i5-active wf-nunito-i2-active wf-active&quot;]/body[1]/div[@class=&quot;container-hero-new&quot;]/div[@class=&quot;flex-hero-left tablet&quot;]/div[@class=&quot;cta-group&quot;]/div[@class=&quot;w-layout-hflex flex-block-62&quot;]/img[1]</value>
+      <webElementGuid>92b044a1-446f-4962-907a-5a1017a1255d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://cdn.prod.website-files.com/648a8a601ca0200e7d511b40/6495157082c7a6edf33eb4ff_active.svg')]</value>
+      <webElementGuid>b4871699-ddbd-445f-9623-b8080a3af04a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/img</value>
+      <webElementGuid>cbeca45f-039b-4643-9597-3324b3464d8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://cdn.prod.website-files.com/648a8a601ca0200e7d511b40/6495157082c7a6edf33eb4ff_active.svg']</value>
+      <webElementGuid>aff6cd74-900b-44cd-ac10-a4d4f82771fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

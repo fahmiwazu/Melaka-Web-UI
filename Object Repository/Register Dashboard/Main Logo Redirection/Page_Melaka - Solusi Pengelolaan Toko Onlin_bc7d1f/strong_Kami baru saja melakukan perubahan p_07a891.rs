@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_Kami baru saja melakukan perubahan p_07a891</name>
+   <tag></tag>
+   <elementGuidId>5ac1d501-e40e-4050-af48-069d1c248a38</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>strong</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='u-banner-018ba7c7-e939-8053-5261-f399cae36fd4']/div/div/div/div/div/span/strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>4fb9ea16-3b7f-472e-945b-d9c0cdd57a5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kami baru saja melakukan perubahan pada Ketentuan Penggunaan dan Kebijakan Privasi</value>
+      <webElementGuid>8bc5f59c-a235-47ab-af24-8ab16f9d31e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;u-banner-018ba7c7-e939-8053-5261-f399cae36fd4&quot;)/div[@class=&quot;uf-bannerInner uf-bannerInner--left&quot;]/div[@class=&quot;uf-bannerText&quot;]/div[@class=&quot;content&quot;]/div[1]/div[1]/span[1]/strong[1]</value>
+      <webElementGuid>84f4e7c0-ca96-477c-8679-d0d7c719db7b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='u-banner-018ba7c7-e939-8053-5261-f399cae36fd4']/div/div/div/div/div/span/strong</value>
+      <webElementGuid>26dd4245-69ca-4764-ba6c-bdb740a4e0fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2024 Melaka. All rights reserved.'])[1]/following::strong[1]</value>
+      <webElementGuid>8993a67c-f48c-4c16-ae3e-49a459f9b744</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='melaka_app'])[3]/following::strong[1]</value>
+      <webElementGuid>d94241fa-20d0-481b-96dc-2291fc782564</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kami baru saja melakukan perubahan pada']/parent::*</value>
+      <webElementGuid>dbf44b71-be43-4fb9-b86d-84d9902392af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//strong</value>
+      <webElementGuid>9befe529-bc54-4ae9-a60f-e201d14e6088</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'Kami baru saja melakukan perubahan pada Ketentuan Penggunaan dan Kebijakan Privasi' or . = 'Kami baru saja melakukan perubahan pada Ketentuan Penggunaan dan Kebijakan Privasi')]</value>
+      <webElementGuid>d4231639-5afc-4bf9-9454-6e80454272e1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

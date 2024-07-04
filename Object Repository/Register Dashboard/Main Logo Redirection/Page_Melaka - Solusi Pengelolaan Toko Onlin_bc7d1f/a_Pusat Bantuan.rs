@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Pusat Bantuan</name>
+   <tag></tag>
+   <elementGuidId>01e06855-a52b-4c32-85be-d46333113e0b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[contains(text(),'Pusat Bantuan')])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7d2a2079-c94c-45dc-8974-da9b03e21077</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>analytics</name>
+      <type>Main</type>
+      <value>menu_footer</value>
+      <webElementGuid>2e88c808-a1a4-400e-b172-718fada4f5c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>landing-footer__text-link__help-centre</value>
+      <webElementGuid>fd12e84a-510f-4b7a-94e3-3ca67f430e18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.melaka.app/help-center</value>
+      <webElementGuid>8d1b2423-e9c0-4418-aff2-085afb5e4ca0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>b1 footer-text-link</value>
+      <webElementGuid>59dcde38-9809-412a-8d70-a8ffa2a7e625</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pusat Bantuan</value>
+      <webElementGuid>36fb0ad6-602a-41ef-b814-0500b4694943</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;w-mod-js w-mod-ix wf-nunito-n2-active wf-nunito-n5-active wf-nunito-n3-active wf-nunito-n9-active wf-nunito-n8-active wf-nunito-n4-active wf-nunito-n6-active wf-nunito-n7-active wf-nunito-i3-active wf-nunito-i4-active wf-nunito-i8-active wf-nunito-i7-active wf-nunito-i9-active wf-nunito-i6-active wf-nunito-i5-active wf-nunito-i2-active wf-active&quot;]/body[1]/div[@class=&quot;container-footer-new&quot;]/div[@class=&quot;div-block-15&quot;]/div[@class=&quot;footer-right footer-mobile&quot;]/div[@class=&quot;div-block-23&quot;]/div[@class=&quot;div-block-11&quot;]/div[@class=&quot;div-block-22&quot;]/a[@class=&quot;b1 footer-text-link&quot;]</value>
+      <webElementGuid>d506393c-2b99-4235-acb5-5b9de6628952</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Pusat Bantuan')])[2]</value>
+      <webElementGuid>33b16595-e3eb-4662-8447-177442729902</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seller Academy'])[2]/following::a[1]</value>
+      <webElementGuid>316ed4b1-e405-4aab-af9b-0bf9d20dce83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edukasi'])[2]/following::a[2]</value>
+      <webElementGuid>2f4ec583-875e-4b7c-8d90-7d4f6ff683e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kebijakan Kami'])[1]/preceding::a[1]</value>
+      <webElementGuid>ab12f07d-8501-4adc-b542-77b70f3a05ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Syarat dan Ketentuan'])[1]/preceding::a[1]</value>
+      <webElementGuid>58f10fa5-422b-427d-bc7d-e863e02de4c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.melaka.app/help-center')])[5]</value>
+      <webElementGuid>d1399f3a-38db-4153-8b5f-0cb88432f484</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div[2]/a[2]</value>
+      <webElementGuid>05504097-5d5c-49d3-ba0c-ac74d571eb3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.melaka.app/help-center' and (text() = 'Pusat Bantuan' or . = 'Pusat Bantuan')]</value>
+      <webElementGuid>64d834ce-5079-46a4-852d-430967e79095</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

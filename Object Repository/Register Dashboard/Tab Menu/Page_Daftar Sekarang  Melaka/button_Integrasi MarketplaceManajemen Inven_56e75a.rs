@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Integrasi MarketplaceManajemen Inven_56e75a</name>
+   <tag></tag>
+   <elementGuidId>8db3e3c9-8cc7-4564-b5bb-8698fb4f62c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.align-center.absolute.top-8.flex.w-56.flex-col.gap-2.rounded-lg.bg-white.px-4.py-4.drop-shadow</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div/div/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>455f931a-a810-4cb2-829d-6a2a4832d5dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>align-center absolute top-8 flex w-56 flex-col gap-2 rounded-lg bg-white px-4 py-4 drop-shadow</value>
+      <webElementGuid>4b196802-7b99-419e-82ee-cdd6a0269d72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Integrasi MarketplaceManajemen InventoriManajemen OrderCatatan KeuanganAnalisa PelangganMelaka Market</value>
+      <webElementGuid>08a7c1d5-f2bb-4214-ac44-4ca5598b07dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;relative flex min-h-screen flex-col&quot;]/div[@class=&quot;top-0 w-full overflow-visible sticky z-20&quot;]/div[@class=&quot;top-0 z-10 flex w-full items-center justify-between px-5 drop-shadow transition-all duration-300 lg:px-6 bg-transparent py-4 lg:py-1&quot;]/div[@class=&quot;flex items-center lg:gap-20&quot;]/div[@class=&quot;relative hidden items-center gap-6 lg:flex&quot;]/div[@class=&quot;hover:bg-blue-B100 relative hidden cursor-pointer items-center rounded p-2 hover:rounded lg:flex&quot;]/button[@class=&quot;align-center absolute top-8 flex w-56 flex-col gap-2 rounded-lg bg-white px-4 py-4 drop-shadow&quot;]</value>
+      <webElementGuid>46c9cef5-2ac1-4cb8-b5d3-337677f82bb6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div/div/div/button</value>
+      <webElementGuid>68b5c521-39ef-4fd2-a2d5-59ea79e847b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Solusi Kami'])[1]/following::button[1]</value>
+      <webElementGuid>d9a74fe6-7d86-4a21-9cbb-bb34843fdbca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>e7b27ac5-7db3-451c-96ab-bdd993eca988</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Integrasi MarketplaceManajemen InventoriManajemen OrderCatatan KeuanganAnalisa PelangganMelaka Market' or . = 'Integrasi MarketplaceManajemen InventoriManajemen OrderCatatan KeuanganAnalisa PelangganMelaka Market')]</value>
+      <webElementGuid>6083c002-46ec-495e-a028-f53173b55b09</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

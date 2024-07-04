@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Penjual Online</name>
+   <tag></tag>
+   <elementGuidId>9422b531-c53e-41e5-a827-829a3a086583</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.w-layout-hflex.flex-block-48.image-71</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='melaka-solution']/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ab6bb6ac-9289-4f66-ab64-c0adee43119c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-layout-hflex flex-block-48 image-71</value>
+      <webElementGuid>f8494c76-1c7a-449b-8de3-ad022509b36f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Penjual Online</value>
+      <webElementGuid>05a671f0-ac5a-43c1-a0b3-d2cc7464a096</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;melaka-solution&quot;)/div[@class=&quot;w-layout-vflex flex-block-17&quot;]/div[@class=&quot;w-layout-hflex flex-block-49&quot;]/div[@class=&quot;w-layout-hflex flex-block-16&quot;]/div[@class=&quot;business-type---card image-1&quot;]/div[@class=&quot;w-layout-hflex flex-block-48 image-71&quot;]</value>
+      <webElementGuid>ad04eb31-616e-49a7-a23d-6c11fb62d646</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='melaka-solution']/div/div/div/div/div</value>
+      <webElementGuid>c667cd7f-37b8-4b49-af96-b358e79f018d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Solusi Khusus'])[1]/following::div[4]</value>
+      <webElementGuid>132ba52d-af14-414a-a75f-24536f6ada4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SELENGKAPNYA'])[1]/preceding::div[4]</value>
+      <webElementGuid>1b07d955-abc7-41b0-817c-8353ac15d08a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>3390bcac-c90a-49e7-9e95-ff51c1bb39db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Penjual Online' or . = 'Penjual Online')]</value>
+      <webElementGuid>6b621fa5-a39b-4db3-b677-d8a6b121e075</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Analisa Pelanggan</name>
+   <tag></tag>
+   <elementGuidId>da0cceaa-a7e5-4bee-9cd9-77f188329e85</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[contains(text(),'Analisa Pelanggan')])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>423c6bd8-dcf0-4ef5-af41-b9c07cfaff64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.melaka.app/#promotion</value>
+      <webElementGuid>44240284-a236-42de-a243-1b3df7053df9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>analytics</name>
+      <type>Main</type>
+      <value>menu_footer</value>
+      <webElementGuid>4d117042-f2f6-43f2-9c46-14a53f42375d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>landing-footer__text-link__customer-analysis</value>
+      <webElementGuid>4e1f8caa-d186-4cc8-842b-9146fa3b46e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>b1 footer-text-link</value>
+      <webElementGuid>5eac85d0-bcc2-4872-bd60-9d1a001c7184</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Analisa Pelanggan</value>
+      <webElementGuid>4a1017ec-6c4e-4620-be46-be0d565fba57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;w-mod-js w-mod-ix wf-nunito-n2-active wf-nunito-n5-active wf-nunito-n3-active wf-nunito-n9-active wf-nunito-n8-active wf-nunito-n4-active wf-nunito-n6-active wf-nunito-n7-active wf-nunito-i3-active wf-nunito-i4-active wf-nunito-i8-active wf-nunito-i7-active wf-nunito-i9-active wf-nunito-i6-active wf-nunito-i5-active wf-nunito-i2-active wf-active&quot;]/body[1]/div[@class=&quot;container-footer-new&quot;]/div[@class=&quot;div-block-15&quot;]/div[@class=&quot;footer-right footer-mobile&quot;]/div[@class=&quot;div-block-23&quot;]/div[@class=&quot;div-block-11&quot;]/div[@class=&quot;div-block-22&quot;]/a[@class=&quot;b1 footer-text-link&quot;]</value>
+      <webElementGuid>9ec029d2-b163-4049-90f5-610c78aade39</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Analisa Pelanggan')])[2]</value>
+      <webElementGuid>f7f23440-1a92-4a25-b52d-7a3bd8f8f1d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Catatan Keuangan'])[2]/following::a[1]</value>
+      <webElementGuid>c0fb9bb6-fb0b-44f3-9848-819be7cf4e9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Promosi Melaka'])[2]/following::a[2]</value>
+      <webElementGuid>f1b41b49-cf7f-4a40-829d-54045bea8d22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edukasi'])[2]/preceding::a[1]</value>
+      <webElementGuid>366a1787-b05b-4898-8e64-a9f00f79425f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seller Academy'])[2]/preceding::a[1]</value>
+      <webElementGuid>e8968040-ac7c-48f6-960d-5504a5eee51d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.melaka.app/#promotion')])[2]</value>
+      <webElementGuid>277997dc-f416-4635-87d2-75280b1c49b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[6]</value>
+      <webElementGuid>ee51da6d-e23e-48b6-8e99-81f560737d1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.melaka.app/#promotion' and (text() = 'Analisa Pelanggan' or . = 'Analisa Pelanggan')]</value>
+      <webElementGuid>992000c6-42ab-442d-b861-cac5d71c3f69</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

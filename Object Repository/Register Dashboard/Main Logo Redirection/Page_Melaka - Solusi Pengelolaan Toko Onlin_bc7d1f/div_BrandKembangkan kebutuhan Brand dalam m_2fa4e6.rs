@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_BrandKembangkan kebutuhan Brand dalam m_2fa4e6</name>
+   <tag></tag>
+   <elementGuidId>2f2b4914-19c1-4918-8c78-5753c9dbfc40</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='melaka-solution']/div/div/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>066297e5-cd07-4e44-b1a7-16e330eb0d5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>business-type---card image-2</value>
+      <webElementGuid>d030e884-fbee-4075-bf17-c5149e2688d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BrandKembangkan kebutuhan Brand dalam memantau keinginan pasar, menjaga harga di pasaran, serta analisis penjualan online menggunakan fitur yang dibuat khusus untuk para Brand di Melaka.SELENGKAPNYA</value>
+      <webElementGuid>209cbc49-84ee-4cb2-b4fc-31ab218eef4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;melaka-solution&quot;)/div[@class=&quot;w-layout-vflex flex-block-17&quot;]/div[@class=&quot;w-layout-hflex flex-block-49&quot;]/div[@class=&quot;w-layout-hflex flex-block-16&quot;]/div[@class=&quot;business-type---card image-2&quot;]</value>
+      <webElementGuid>6eaf604f-3e74-4014-a7d5-8bad93b3456b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='melaka-solution']/div/div/div/div[3]</value>
+      <webElementGuid>49620f2b-ee13-415a-af0a-f29fc3bc2bf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SELENGKAPNYA'])[2]/following::div[1]</value>
+      <webElementGuid>caf6a9b3-2099-4e5a-a1ee-d1a080d1b9a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toko Retail'])[1]/following::div[3]</value>
+      <webElementGuid>931bcb96-27ac-4cbf-ade8-21fc8dbc4d3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]</value>
+      <webElementGuid>c29dcd70-c2bc-403c-9701-bafa092df21d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'BrandKembangkan kebutuhan Brand dalam memantau keinginan pasar, menjaga harga di pasaran, serta analisis penjualan online menggunakan fitur yang dibuat khusus untuk para Brand di Melaka.SELENGKAPNYA' or . = 'BrandKembangkan kebutuhan Brand dalam memantau keinginan pasar, menjaga harga di pasaran, serta analisis penjualan online menggunakan fitur yang dibuat khusus untuk para Brand di Melaka.SELENGKAPNYA')]</value>
+      <webElementGuid>56b25237-8b01-484f-9861-dfd3a3b7d39b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

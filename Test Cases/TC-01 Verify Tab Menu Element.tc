@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-01 Verify Tab Menu Element</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ccca3a49-2d54-41b2-904e-cebd4cac69e7</testCaseGuid>
+</TestCaseEntity>

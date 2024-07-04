@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_SELENGKAPNYA_1</name>
+   <tag></tag>
+   <elementGuidId>e9fa8e98-3455-45d7-acdc-a3f3bc32347d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.business-type---card.image-2 > a.button-secondary-enabled-2.w-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='melaka-solution']/div/div/div/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c00014f2-d4bf-42ea-bf87-c2a3d79147bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/retail-store</value>
+      <webElementGuid>7a8711db-70ad-4d52-8f9c-76599cddcaaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-secondary-enabled-2 w-button</value>
+      <webElementGuid>b6b3126b-0080-45f1-be56-f6e63d687931</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SELENGKAPNYA</value>
+      <webElementGuid>c0b1b298-4d17-44ce-bb93-562a9af4d933</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;melaka-solution&quot;)/div[@class=&quot;w-layout-vflex flex-block-17&quot;]/div[@class=&quot;w-layout-hflex flex-block-49&quot;]/div[@class=&quot;w-layout-hflex flex-block-16&quot;]/div[@class=&quot;business-type---card image-2&quot;]/a[@class=&quot;button-secondary-enabled-2 w-button&quot;]</value>
+      <webElementGuid>8f6a6fab-7a8a-4622-b020-2ee7a458c0f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='melaka-solution']/div/div/div/div[2]/a</value>
+      <webElementGuid>33c091c1-8bf3-4a1e-88f1-76219253190a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'SELENGKAPNYA')])[2]</value>
+      <webElementGuid>6e1f10b3-bcb7-45fa-8165-4efb45fa3203</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toko Retail'])[1]/following::a[1]</value>
+      <webElementGuid>3b3432e0-58d6-4118-9bcd-aa00ff359875</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SELENGKAPNYA'])[1]/following::a[1]</value>
+      <webElementGuid>fa1b8e90-4f81-420f-acab-404e8b3c0d27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Brand'])[1]/preceding::a[1]</value>
+      <webElementGuid>d8e646d5-2438-40e5-9c80-9e29a0f0e6ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SELENGKAPNYA'])[3]/preceding::a[1]</value>
+      <webElementGuid>4dc8067c-0b2e-487f-a818-bfd1761e19f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/retail-store')]</value>
+      <webElementGuid>8c842727-f324-40e5-9775-cffa909eed0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/a</value>
+      <webElementGuid>1242d699-9d2b-471e-ba55-097700d640d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/retail-store' and (text() = 'SELENGKAPNYA' or . = 'SELENGKAPNYA')]</value>
+      <webElementGuid>791e2322-cb26-4187-ad47-d85e9ab1734c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

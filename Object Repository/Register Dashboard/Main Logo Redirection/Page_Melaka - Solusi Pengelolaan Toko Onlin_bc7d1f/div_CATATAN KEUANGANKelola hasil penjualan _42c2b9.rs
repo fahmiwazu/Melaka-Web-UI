@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_CATATAN KEUANGANKelola hasil penjualan _42c2b9</name>
+   <tag></tag>
+   <elementGuidId>4c4bb25f-4c78-499c-89a0-c9b3dbbd2655</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#accounting</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='accounting']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2986c542-6924-442f-9aff-8ef06ee85b7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>accounting</value>
+      <webElementGuid>93073c59-5ca4-43c5-83c6-e78323a5a753</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex-feature image-align-right</value>
+      <webElementGuid>477597d0-7a58-4d0a-9973-d24d6a25b2a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CATATAN KEUANGANKelola hasil penjualan di semua bisnis online dan toko kamu dengan mudahTidak pusing lihat laporan penjualan satu per satu dari tiap marketplace dan kasir. Melaka bisa kelola dan tampilkan semuanya untukmu.Pelajari Lebih Lanjut</value>
+      <webElementGuid>c4233324-309d-4337-9a5e-efa34e02fa18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;accounting&quot;)</value>
+      <webElementGuid>08fbba37-093d-4f00-8993-83a5c01320df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='accounting']</value>
+      <webElementGuid>618ec801-8a55-42a4-ae77-1501b5c8f38f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pelajari Lebih Lanjut'])[3]/following::div[1]</value>
+      <webElementGuid>ae10032b-59ef-4b7d-b435-65ad0d8a0f51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='target'])[1]/following::div[3]</value>
+      <webElementGuid>b70a97c3-4ec4-4bf9-ac54-2962b7adef40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[4]</value>
+      <webElementGuid>7fd7a963-fcb4-4a13-a38f-58d320e97251</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'accounting' and (text() = 'CATATAN KEUANGANKelola hasil penjualan di semua bisnis online dan toko kamu dengan mudahTidak pusing lihat laporan penjualan satu per satu dari tiap marketplace dan kasir. Melaka bisa kelola dan tampilkan semuanya untukmu.Pelajari Lebih Lanjut' or . = 'CATATAN KEUANGANKelola hasil penjualan di semua bisnis online dan toko kamu dengan mudahTidak pusing lihat laporan penjualan satu per satu dari tiap marketplace dan kasir. Melaka bisa kelola dan tampilkan semuanya untukmu.Pelajari Lebih Lanjut')]</value>
+      <webElementGuid>b12ae652-7266-4965-b158-e8ebaf505147</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

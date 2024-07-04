@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Wajib diisi. Nomor telepon tidak boleh ku_46eafc</name>
+   <tag></tag>
+   <elementGuidId>47fce111-dae3-4b0d-b04f-42a0cfa2e2da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div[2]/div/form/div[2]/div/div[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>fb65be4f-17e8-450b-943c-25eb18db9f9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-[0.75rem] font-normal leading-[1rem] tracking-[0.4px] mt-1 ml-4 text-le</value>
+      <webElementGuid>41eef104-192c-4b97-b333-4896cf7b88f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>register__text-field__phone-number__error</value>
+      <webElementGuid>337e75b1-1a21-4f26-a97f-3702226398fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Wajib diisi. Nomor telepon tidak boleh kurang dari 10 atau lebih dari 12 karakter.</value>
+      <webElementGuid>021dbcad-2783-48d0-82f6-aa10b811efa2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;relative flex min-h-screen flex-col&quot;]/div[@class=&quot;grid min-h-screen w-full grid-cols-1 md:grid-cols-2 mt-0 mb-8 md:mt-[49px]&quot;]/div[@class=&quot;bg-neutral-N0 z-10 col-span-1 grid pt-6 place-items-start justify-center content-start p-5 md:-mt-6 md:-ml-8 md:p-8 md:pl-0&quot;]/div[@class=&quot;flex h-full flex-col justify-center gap-4 md:max-w-[476px]&quot;]/form[@class=&quot;flex flex-col gap-6&quot;]/div[@class=&quot;relative&quot;]/div[1]/div[@class=&quot;flex gap-4 justify-between&quot;]/p[@class=&quot;text-[0.75rem] font-normal leading-[1rem] tracking-[0.4px] mt-1 ml-4 text-le&quot;]</value>
+      <webElementGuid>e9821bf7-70d9-43fc-95d8-2a2e1a5bf153</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[2]/div/form/div[2]/div/div[2]/p</value>
+      <webElementGuid>3dd6bb20-b5cd-45d3-88a8-e7636e4bb6e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor Telepon'])[1]/following::p[1]</value>
+      <webElementGuid>d2482aa0-4134-424e-a570-8d7817f08118</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama'])[1]/following::p[2]</value>
+      <webElementGuid>3ff1b1e2-e8d3-4335-820d-3dcabc061c72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Bisnis Kamu'])[1]/preceding::p[1]</value>
+      <webElementGuid>c7a68619-7f1c-42f0-bfd9-8a7dfa9ef5a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipe Bisnis'])[1]/preceding::p[2]</value>
+      <webElementGuid>9b9e8c6f-fa07-4913-af28-0539bf7e5131</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Wajib diisi. Nomor telepon tidak boleh kurang dari 10 atau lebih dari 12 karakter.']/parent::*</value>
+      <webElementGuid>4b5ad58c-c9de-483f-aae2-bc588142ce32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/div/div[2]/p</value>
+      <webElementGuid>b26b1488-4038-4245-a8a2-ae2c590ed650</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Wajib diisi. Nomor telepon tidak boleh kurang dari 10 atau lebih dari 12 karakter.' or . = 'Wajib diisi. Nomor telepon tidak boleh kurang dari 10 atau lebih dari 12 karakter.')]</value>
+      <webElementGuid>0b62ad9c-69f4-48a1-b760-bd41dc8c1023</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

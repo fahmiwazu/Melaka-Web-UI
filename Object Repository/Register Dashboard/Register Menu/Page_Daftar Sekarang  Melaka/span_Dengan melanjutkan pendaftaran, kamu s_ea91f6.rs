@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Dengan melanjutkan pendaftaran, kamu s_ea91f6</name>
+   <tag></tag>
+   <elementGuidId>3b1869e7-4e18-4419-b0b9-012369fcf9a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.text-le.body-b2.ml-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div[2]/div/form/div[8]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>83c6be29-55b6-4a87-a4b7-85e001071303</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-le body-b2 ml-2</value>
+      <webElementGuid>ab3f0a53-783e-4569-af42-62dbb79cb876</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>register__text-link__tnc</value>
+      <webElementGuid>d2b1bec3-1ef3-48c6-803b-f4e1401051aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dengan melanjutkan pendaftaran, kamu setuju dengan Syarat dan Ketentuan Melaka.</value>
+      <webElementGuid>135b4b5c-067b-48b1-998f-835f3bb87b10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;relative flex min-h-screen flex-col&quot;]/div[@class=&quot;grid min-h-screen w-full grid-cols-1 md:grid-cols-2 mt-0 mb-8 md:mt-[49px]&quot;]/div[@class=&quot;bg-neutral-N0 z-10 col-span-1 grid pt-6 place-items-start justify-center content-start p-5 md:-mt-6 md:-ml-8 md:p-8 md:pl-0&quot;]/div[@class=&quot;flex h-full flex-col justify-center gap-4 md:max-w-[476px]&quot;]/form[@class=&quot;flex flex-col gap-6&quot;]/div[@class=&quot;flex items-start&quot;]/span[@class=&quot;text-le body-b2 ml-2&quot;]</value>
+      <webElementGuid>245346f2-3e6a-47f5-8c7d-d8db72ecfb6c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[2]/div/form/div[8]/span</value>
+      <webElementGuid>5c9e6fe2-8a75-45dc-bea7-f8e78ce03e8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Baca dan setuju dengan syarat dan ketentuan'])[1]/following::span[1]</value>
+      <webElementGuid>997295e9-48c8-4883-aa9b-e66b0c023982</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Konfirmasi Kata Sandi'])[1]/following::span[2]</value>
+      <webElementGuid>3942e8b7-e3fc-470b-9ac2-eb4cc5bf9c9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/preceding::span[2]</value>
+      <webElementGuid>69ea2e0d-6ba9-48bf-891d-b6e0417629c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dengan melanjutkan pendaftaran, kamu setuju dengan']/parent::*</value>
+      <webElementGuid>fbc54b77-9f7c-43a5-a167-fb426e9312ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/span</value>
+      <webElementGuid>4dd27e12-6c22-40b4-bf8e-86f3bd6987cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Dengan melanjutkan pendaftaran, kamu setuju dengan Syarat dan Ketentuan Melaka.' or . = 'Dengan melanjutkan pendaftaran, kamu setuju dengan Syarat dan Ketentuan Melaka.')]</value>
+      <webElementGuid>2651e168-45d8-45a1-af6d-e1e6a4e7ab07</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

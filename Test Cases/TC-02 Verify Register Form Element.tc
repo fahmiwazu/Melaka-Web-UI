@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-02 Verify Register Form Element</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5d6342e5-9c0e-4cb6-b3e9-3743f9161a69</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_MULAI GUNAKAN, GRATIS</name>
+   <tag></tag>
+   <elementGuidId>4fb6876d-af5e-4610-85d3-ea8cb5570d66</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.button-primary.left-align.w-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'MULAI GUNAKAN, GRATIS!')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f55ee574-fa73-4aad-ade0-16d47db07f54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>analytics</name>
+      <type>Main</type>
+      <value>register</value>
+      <webElementGuid>18997684-e059-48fa-abda-04e9e7582212</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>landing-hero__button__sign-up</value>
+      <webElementGuid>78d75adc-d54e-452c-839c-9a8cd8582fe4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>button-app</name>
+      <type>Main</type>
+      <value>register</value>
+      <webElementGuid>ea5838ea-bfe2-41b2-86ab-3c4898fe0700</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://dashboard.melaka.app/login</value>
+      <webElementGuid>dea05438-abe1-4502-a6e2-f2b92f2f14c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-primary left-align w-button</value>
+      <webElementGuid>7d9c1d1e-d222-476d-8444-dc1f0e068c97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MULAI GUNAKAN, GRATIS!</value>
+      <webElementGuid>0b96e0de-cb91-47fd-9258-594b95418a28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;w-mod-js w-mod-ix wf-nunito-n2-active wf-nunito-n5-active wf-nunito-n3-active wf-nunito-n9-active wf-nunito-n8-active wf-nunito-n4-active wf-nunito-n6-active wf-nunito-n7-active wf-nunito-i3-active wf-nunito-i4-active wf-nunito-i8-active wf-nunito-i7-active wf-nunito-i9-active wf-nunito-i6-active wf-nunito-i5-active wf-nunito-i2-active wf-active&quot;]/body[1]/div[@class=&quot;container-hero-new&quot;]/div[@class=&quot;flex-hero-left tablet&quot;]/div[@class=&quot;cta-group&quot;]/a[@class=&quot;button-primary left-align w-button&quot;]</value>
+      <webElementGuid>87084e94-f8c2-450d-8fdb-7858d01b997a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'MULAI GUNAKAN, GRATIS!')]</value>
+      <webElementGuid>925d84fa-4f1c-4021-9061-902d29074503</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Melaka Omnichannel'])[1]/following::a[1]</value>
+      <webElementGuid>839e847d-9a92-441f-81b9-02552f30c153</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pelajari Selengkapnya'])[1]/preceding::a[1]</value>
+      <webElementGuid>c83be5ac-547a-46a3-b8a0-9137e51e810d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='MULAI GUNAKAN, GRATIS!']/parent::*</value>
+      <webElementGuid>34736736-e83a-4937-b9f5-92298dd45337</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://dashboard.melaka.app/login')])[2]</value>
+      <webElementGuid>58fad7e0-9f46-45a8-86fb-159ccc5b723a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/div/div/div/a</value>
+      <webElementGuid>9757851e-28fc-4db0-95a8-6fa871310162</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://dashboard.melaka.app/login' and (text() = 'MULAI GUNAKAN, GRATIS!' or . = 'MULAI GUNAKAN, GRATIS!')]</value>
+      <webElementGuid>2bbdd760-1cac-4ff6-a4fc-f6f91f1265d6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

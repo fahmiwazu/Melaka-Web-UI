@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-05 Verify Solusi 2 Redirection</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>448d46fe-4af1-4bc0-86c8-7c17189d41f3</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Keamanan  Privasi Terjamin_image-4</name>
+   <tag></tag>
+   <elementGuidId>7fbb573e-6e44-45b1-98e2-8283c6fe26bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Icon Support']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>ef07e2d4-2e04-4913-9724-bd6cf6ab0906</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://cdn.prod.website-files.com/648a8a601ca0200e7d511b40/64917afdf83116b98246a951_ic_customersupport.svg</value>
+      <webElementGuid>03bd547b-5dbb-4410-b7f4-08bfa11cf4f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>2e10a0cd-481a-42ab-8d04-97dcb33971d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Icon Support</value>
+      <webElementGuid>653647be-9a41-4dbc-be45-70bf4add6884</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>image-4</value>
+      <webElementGuid>2d4492ca-79ca-403f-846e-0fff73c35917</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;w-mod-js w-mod-ix wf-nunito-n2-active wf-nunito-n5-active wf-nunito-n3-active wf-nunito-n9-active wf-nunito-n8-active wf-nunito-n4-active wf-nunito-n6-active wf-nunito-n7-active wf-nunito-i3-active wf-nunito-i4-active wf-nunito-i8-active wf-nunito-i7-active wf-nunito-i9-active wf-nunito-i6-active wf-nunito-i5-active wf-nunito-i2-active wf-active&quot;]/body[1]/div[@class=&quot;container-valueprops-new&quot;]/div[@class=&quot;valueprops&quot;]/div[@class=&quot;valueprop-content&quot;]/img[@class=&quot;image-4&quot;]</value>
+      <webElementGuid>e44edf0f-9be9-41a6-b072-109724cdb57f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Icon Support']</value>
+      <webElementGuid>bf96892a-9567-4ae5-830e-61c2f704c146</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/img</value>
+      <webElementGuid>80bf97c0-7f77-4b50-b7e5-cf745c70e711</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://cdn.prod.website-files.com/648a8a601ca0200e7d511b40/64917afdf83116b98246a951_ic_customersupport.svg' and @alt = 'Icon Support']</value>
+      <webElementGuid>3d4295bc-3224-441e-8d88-53329b734713</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

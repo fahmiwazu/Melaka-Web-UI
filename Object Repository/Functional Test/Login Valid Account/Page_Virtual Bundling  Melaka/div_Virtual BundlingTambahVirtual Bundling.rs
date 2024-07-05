@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Virtual BundlingTambahVirtual Bundling</name>
+   <tag></tag>
+   <elementGuidId>91fa2871-b33b-4f44-9bdf-459309439332</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[3]/main/div/div[4]/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1351b635-5b1e-4f54-9e73-7a676223b604</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-2 flex items-center justify-between gap-4 py-1.5</value>
+      <webElementGuid>01f5fa7e-7ff4-4214-988f-490b8c8c4d14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Virtual BundlingTambahVirtual Bundling</value>
+      <webElementGuid>92cc2754-eb60-41d5-a6e1-2cd176924453</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;bg-neutral-N100 flex min-h-screen flex-col&quot;]/div[@class=&quot;flex flex-1 flex-col md:pl-[248px]&quot;]/main[@class=&quot;relative flex min-h-full w-full flex-1 flex-col&quot;]/div[1]/div[4]/div[@class=&quot;bg-neutral-N100 min-h-full p-5 md:p-6 flex flex-1 flex-col gap-6&quot;]/div[2]/div[@class=&quot;mb-2 flex items-center justify-between gap-4 py-1.5&quot;]</value>
+      <webElementGuid>5ba808cf-0950-45d0-9ac8-92ac27e825a2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[3]/main/div/div[4]/div/div[2]/div</value>
+      <webElementGuid>4b20a126-2f93-4a4f-a791-e916c5a257e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Virtual Bundling'])[2]/following::div[2]</value>
+      <webElementGuid>2874c5ee-311c-49c4-ab8d-3a286104b489</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Produk &amp; Stok'])[2]/following::div[2]</value>
+      <webElementGuid>d2ab7d30-0cc5-4c85-a56c-282c7866a652</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/div</value>
+      <webElementGuid>13edf1a8-389e-4776-b1a7-1df1ad064442</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Virtual BundlingTambahVirtual Bundling' or . = 'Virtual BundlingTambahVirtual Bundling')]</value>
+      <webElementGuid>a242533d-15f7-4188-b02c-5c6f6cbc86cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

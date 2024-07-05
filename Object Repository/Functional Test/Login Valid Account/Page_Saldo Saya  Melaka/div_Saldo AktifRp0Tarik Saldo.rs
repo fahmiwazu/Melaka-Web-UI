@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Saldo AktifRp0Tarik Saldo</name>
+   <tag></tag>
+   <elementGuidId>54b0767d-219a-4082-ae58-d670a447ed96</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[3]/main/div/div[4]/div/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>919badbf-c2f5-44d6-a760-073cb008376b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>md:bg-neutral-N0 flex flex-col gap-2 md:flex-1 md:flex-row md:justify-between md:gap-4 md:rounded-xl md:p-4</value>
+      <webElementGuid>23a0fc47-1ffd-40d6-8f7a-ca2937c2bcd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Saldo AktifRp0Tarik Saldo</value>
+      <webElementGuid>6c58b389-3545-4019-ae3d-d16476e0f21c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;bg-neutral-N100 flex min-h-screen flex-col&quot;]/div[@class=&quot;flex flex-1 flex-col md:pl-[248px]&quot;]/main[@class=&quot;relative flex min-h-full w-full flex-1 flex-col&quot;]/div[1]/div[4]/div[@class=&quot;bg-neutral-N100 min-h-full p-5 md:p-6 flex flex-1 flex-col gap-6&quot;]/div[@class=&quot;grid gap-4 md:grid-cols-3 md:gap-6&quot;]/div[@class=&quot;md:col-span-2&quot;]/div[@class=&quot;bg-neutral-N0 flex flex-col gap-4 rounded-xl p-4 md:rounded-none md:bg-transparent md:p-0&quot;]/div[@class=&quot;md:bg-neutral-N0 flex flex-col gap-2 md:flex-1 md:flex-row md:justify-between md:gap-4 md:rounded-xl md:p-4&quot;]</value>
+      <webElementGuid>8cc99639-51b4-45d1-9088-19798e475e57</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[3]/main/div/div[4]/div/div[2]/div/div/div</value>
+      <webElementGuid>89c2520b-622c-4f21-bd18-a0ef03ec45e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kartu Saldoku'])[1]/following::div[1]</value>
+      <webElementGuid>3899a7e4-07e7-42a0-85e4-310dae92058c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='F'])[2]/following::div[14]</value>
+      <webElementGuid>58f7cb9b-2593-4a01-aa5a-afbd582c792a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div</value>
+      <webElementGuid>afafedc5-efac-47d3-a54e-9964479e5482</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Saldo AktifRp0Tarik Saldo' or . = 'Saldo AktifRp0Tarik Saldo')]</value>
+      <webElementGuid>e08da77c-e238-4d8c-bac8-f175f59f12f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Toko Saya_text-le transition rotate-0</name>
+   <tag></tag>
+   <elementGuidId>2baa73e6-bedb-4cc3-857c-66fe3cbe6bb2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg.text-le.transition.rotate-0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Toko Saya'])[1]//*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>9466f2a9-8972-4191-965f-12d0ac07820a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>6be413ad-5c1b-438c-83f0-6319ef03fbad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>9364cafd-ae72-4052-923e-b395361f953f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>d812554b-6ad8-4e82-ad74-7a887d698cdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>3d61255b-22ca-45d9-87e5-30dc3422263a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>3ef572a8-158a-4a2c-b597-79c980dfdb9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>6386a936-a6e8-4572-bbb1-8da011bec2bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-le transition rotate-0</value>
+      <webElementGuid>a82c3df1-8310-47b4-b6eb-5d3d9807ba2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-disclosure-button-:rb:&quot;)/span[@class=&quot;flex min-h-[2.5rem] items-center gap-4 rounded group-hover:bg-blue-B100 bg-white block w-full gap-[10px] py-2 pr-2 pl-6 md:flex&quot;]/span[@class=&quot;text-[0.875rem] font-normal leading-[1.25rem] tracking-[0.25px] w-full text-left text-he&quot;]/span[@class=&quot;flex w-full items-center justify-between gap-2&quot;]/svg[@class=&quot;text-le transition rotate-0&quot;]</value>
+      <webElementGuid>e0229ee3-62f2-40a3-b34a-8d76651c32c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toko Saya'])[1]//*[name()='svg'][1]</value>
+      <webElementGuid>587231cf-b2f7-4bcc-81bd-1ec6fa9090ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saldo Saya'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>46117ad6-40c0-4211-9856-a1d045d8b419</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Saya'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>dfaf1011-70da-430d-9981-8af4735b0444</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Produk &amp; Stok'])[1]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>b8c5696d-93f9-4d40-9532-63c2324a8708</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

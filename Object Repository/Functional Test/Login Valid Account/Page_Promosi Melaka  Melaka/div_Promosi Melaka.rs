@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Promosi Melaka</name>
+   <tag></tag>
+   <elementGuidId>b11e71ec-fd5f-4e29-b147-841bdc6e0560</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.justify-between</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[3]/main/div/div[4]/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e33c72ab-cd8f-45ed-b342-57c21898b189</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex justify-between</value>
+      <webElementGuid>fc9414b5-3af3-40bb-bfd2-165570e675f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Promosi Melaka</value>
+      <webElementGuid>a3b9d33e-5eeb-4fba-8eef-c4a44f9cd4c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;bg-neutral-N100 flex min-h-screen flex-col&quot;]/div[@class=&quot;flex flex-1 flex-col md:pl-[248px]&quot;]/main[@class=&quot;relative flex min-h-full w-full flex-1 flex-col&quot;]/div[1]/div[4]/div[@class=&quot;bg-neutral-N100 min-h-full p-5 md:p-6 flex flex-1 flex-col gap-6&quot;]/div[2]/div[@class=&quot;flex justify-between&quot;]</value>
+      <webElementGuid>86647f57-16e0-4c18-9365-f473c3766465</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[3]/main/div/div[4]/div/div[2]/div</value>
+      <webElementGuid>548f7581-aec3-405b-a4e4-21511539d732</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toko Saya'])[2]/following::div[2]</value>
+      <webElementGuid>90ac69ae-d2b7-4343-a1ba-75ef54d4ac73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Promosi Saya'])[2]/following::div[2]</value>
+      <webElementGuid>980d7310-0cfa-4a34-ad79-d280a122749a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Belum ada Promosi Terbuat'])[1]/preceding::div[1]</value>
+      <webElementGuid>263d103b-0f88-4198-8408-6ea35b020c8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/div</value>
+      <webElementGuid>0abb86b8-eddf-4e46-ad31-8f160f7302e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Promosi Melaka' or . = 'Promosi Melaka')]</value>
+      <webElementGuid>b021660f-da3a-4c67-8221-416e8a664bb2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -15,21 +15,21 @@
       <guid>11ac2dc1-c45d-4eeb-9498-9510eff9d724</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Smoke Test/TC-03 Verify Tab Menu Redirection</testCaseId>
+      <testCaseId>Test Cases/Functional Test/Register Smoke Test/TC-03 Verify Tab Menu Redirection</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>99c9c5a0-124d-482b-8fa0-339e19b5cc45</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Smoke Test/TC-04 Verify Solusi Redirection</testCaseId>
+      <testCaseId>Test Cases/Functional Test/Register Smoke Test/TC-04 Verify Solusi Redirection</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>64d9eda4-548e-42d9-aa87-faa74849b970</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Smoke Test/TC-05 Verify Edukasi Redirection</testCaseId>
+      <testCaseId>Test Cases/Functional Test/Register Smoke Test/TC-05 Verify Edukasi Redirection</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

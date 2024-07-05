@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Blibli</name>
+   <tag></tag>
+   <elementGuidId>c574b529-e7d3-4e00-bd22-e992f6d79a50</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[3]/main/div/div[4]/div/div/div[2]/div/div/div/button[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d76369b3-8847-40c7-9fa5-0100ff2bc16b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-neutral-N200 relative h-[90px] w-[96px] cursor-pointer rounded-xl border bg-white px-3 py-4 md:h-[150px] md:w-[140px]</value>
+      <webElementGuid>e4c7e515-57a3-4eec-b001-ada87438c3a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>marketplace-option__div__marketplace-container</value>
+      <webElementGuid>7da674c7-d31a-414f-9a32-f6642f77518b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Blibli</value>
+      <webElementGuid>abe1540c-5d37-4a33-9927-44595af3d131</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;bg-neutral-N100 flex min-h-screen flex-col&quot;]/div[@class=&quot;flex flex-1 flex-col md:pl-[248px]&quot;]/main[@class=&quot;relative flex min-h-full w-full flex-1 flex-col&quot;]/div[1]/div[4]/div[@class=&quot;bg-neutral-N100 min-h-full p-5 md:p-6 flex flex-1 flex-col gap-6&quot;]/div[@class=&quot;flex flex-col gap-6&quot;]/div[@class=&quot;-mx-5 flex flex-col gap-4 bg-white p-4 md:mx-0 md:rounded-xl md:p-0&quot;]/div[1]/div[@class=&quot;md:p-6&quot;]/div[@class=&quot;flex flex-wrap justify-center gap-4 md:justify-start&quot;]/button[@class=&quot;border-neutral-N200 relative h-[90px] w-[96px] cursor-pointer rounded-xl border bg-white px-3 py-4 md:h-[150px] md:w-[140px]&quot;]</value>
+      <webElementGuid>1a4c32fe-5a42-4a5f-acf4-5c2ba0e83363</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[3]/main/div/div[4]/div/div/div[2]/div/div/div/button[5]</value>
+      <webElementGuid>cc7d6166-da3f-4a33-99b6-bc14114207c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shopify'])[1]/following::button[1]</value>
+      <webElementGuid>5add7ee9-7cd0-4337-b093-252fc588a6ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tokopedia'])[1]/following::button[2]</value>
+      <webElementGuid>31e3df72-9988-4296-889e-478b1e31c70d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lazada'])[1]/preceding::button[1]</value>
+      <webElementGuid>8a96603a-fe74-4095-ad7e-e504740894b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[5]</value>
+      <webElementGuid>b03511e4-8c95-466b-a9c7-9646df09e99d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Blibli' or . = 'Blibli')]</value>
+      <webElementGuid>c9af0b8f-fa77-4440-a861-63d143e43f57</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

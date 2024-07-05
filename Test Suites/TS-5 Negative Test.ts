@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>TS-2 Verify Register Element</name>
+   <name>TS-5 Negative Test</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,19 +10,19 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>fb5ec520-1eb1-4a90-892d-c9fee5775f24</testSuiteGuid>
+   <testSuiteGuid>04fc7e58-4310-4c25-b5cc-36ce7311664e</testSuiteGuid>
    <testCaseLink>
-      <guid>202a703d-2afe-4791-992f-74f7c71b95dc</guid>
+      <guid>07718280-bee1-4b74-8f29-8ff43f5a8e29</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Functional Test/Register Smoke Test/TC-02 Verify Register Form Element</testCaseId>
+      <testCaseId>Test Cases/Negative Test/TC-08 Register Negative Test</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>1368d4ca-3360-4e13-b916-987cd9ba4c1c</guid>
+      <guid>e711362b-e814-4e63-85fc-7226e4fe6738</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Functional Test/Register Smoke Test/TC-07 Verify Login Element</testCaseId>
+      <testCaseId>Test Cases/Negative Test/TC-09 Login Negative Test</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

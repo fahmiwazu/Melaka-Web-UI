@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Analisis Bisnis_text-le transition rotate-0</name>
+   <tag></tag>
+   <elementGuidId>c1a8b997-2910-4c83-ac72-79b2c77901b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Analisis Bisnis'])[1]//*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>f0e7b69a-ba77-4b55-b4af-156a2853ed66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>193a7477-8299-495b-aabb-99871c0ed34e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>77991e7b-a4f3-4e91-bac6-8e588afc3aad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>cec57bac-9546-4949-9556-efb12f4d3391</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>7cb4105c-a7f7-4bf4-a62a-8b04d86444ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>b1154b5e-4709-4b39-ab87-740e1f0371ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d25282bc-b926-4184-8aba-386396f5802a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-le transition rotate-0</value>
+      <webElementGuid>31f675dd-d241-4858-a870-a756b11ab61b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-disclosure-button-:r9:&quot;)/span[@class=&quot;flex min-h-[2.5rem] items-center gap-4 rounded group-hover:bg-blue-B100 bg-white block w-full gap-[10px] py-2 pr-2 pl-6 md:flex&quot;]/span[@class=&quot;text-[0.875rem] font-normal leading-[1.25rem] tracking-[0.25px] w-full text-left text-he&quot;]/span[@class=&quot;flex w-full items-center justify-between gap-2&quot;]/svg[@class=&quot;text-le transition rotate-0&quot;]</value>
+      <webElementGuid>0a0ffdbd-d0ca-4534-b7e5-fd2f33bb2baa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Analisis Bisnis'])[1]//*[name()='svg'][1]</value>
+      <webElementGuid>fdb7de4c-cc13-4179-818d-6afa855b8a4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Produk &amp; Stok'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>a1824aac-4511-4ff5-9f95-0a5c9cd7c12d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Promosi Saya'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>a06e383d-bb70-44fa-8a7c-886f39670e24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Koneksi Toko Online'])[1]/preceding::*[name()='svg'][4]</value>
+      <webElementGuid>1985f595-57c6-42e9-bf57-3ebcc3b9b57b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

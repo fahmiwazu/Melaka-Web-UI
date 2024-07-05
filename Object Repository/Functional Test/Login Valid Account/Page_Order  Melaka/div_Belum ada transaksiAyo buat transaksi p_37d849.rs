@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Belum ada transaksiAyo buat transaksi p_37d849</name>
+   <tag></tag>
+   <elementGuidId>661dae9b-3a42-4c4a-b8af-306d1695aa25</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[3]/main/div/div[4]/div/div/div/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0fc88f10-34f8-47f0-a582-a55fc16ee3f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>relative inline-block h-full w-full transform overflow-auto rounded-t-xl bg-white p-5 pt-4 text-left align-bottom shadow-xl transition-all md:my-8 md:h-auto md:w-full md:rounded-lg md:p-6 md:align-middle md:max-w-[600px] opacity-100 translate-y-0 md:scale-100</value>
+      <webElementGuid>271fd2e1-88e2-4be0-9d37-9e8cdadf96c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Belum ada transaksiAyo buat transaksi pertamamu atau koneksikan toko online kamu untuk pengalaman yang lebih baik!Tambah Koneksi Toko Online</value>
+      <webElementGuid>904bbfca-6b92-49cc-9f28-83fd93fcd16c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;bg-neutral-N100 flex min-h-screen flex-col&quot;]/div[@class=&quot;flex flex-1 flex-col md:pl-[248px]&quot;]/main[@class=&quot;relative flex min-h-full w-full flex-1 flex-col&quot;]/div[1]/div[4]/div[@class=&quot;bg-neutral-N100 min-h-full p-5 md:p-6 flex flex-1 flex-col gap-6&quot;]/div[1]/div[1]/div[@class=&quot;fixed inset-0 z-[2] max-h-screen overflow-y-auto md:absolute&quot;]/div[@class=&quot;flex min-h-full items-end justify-center text-center md:items-center md:p-0&quot;]/div[@class=&quot;relative inline-block h-full w-full transform overflow-auto rounded-t-xl bg-white p-5 pt-4 text-left align-bottom shadow-xl transition-all md:my-8 md:h-auto md:w-full md:rounded-lg md:p-6 md:align-middle md:max-w-[600px] opacity-100 translate-y-0 md:scale-100&quot;]</value>
+      <webElementGuid>59ae9f6b-f5be-4b17-bfaf-dee499e5b8b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[3]/main/div/div[4]/div/div/div/div/div/div[2]</value>
+      <webElementGuid>a923102b-ca85-4d61-bbb8-aea06fefdc36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='F'])[2]/following::div[15]</value>
+      <webElementGuid>95dddd5c-88d0-4511-a99a-b6df09f38987</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='F'])[1]/following::div[16]</value>
+      <webElementGuid>f15c9304-c313-4d4b-b570-4ca7d2ad80cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/div/div[2]</value>
+      <webElementGuid>1de091f6-6cb2-43de-af6d-e6e75dcd0b5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Belum ada transaksiAyo buat transaksi pertamamu atau koneksikan toko online kamu untuk pengalaman yang lebih baik!Tambah Koneksi Toko Online' or . = 'Belum ada transaksiAyo buat transaksi pertamamu atau koneksikan toko online kamu untuk pengalaman yang lebih baik!Tambah Koneksi Toko Online')]</value>
+      <webElementGuid>1fc271e0-a69d-4ef8-b262-6de8afe70b77</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

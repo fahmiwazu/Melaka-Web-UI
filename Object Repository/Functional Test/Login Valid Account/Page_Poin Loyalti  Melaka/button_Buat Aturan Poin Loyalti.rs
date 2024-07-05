@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Buat Aturan Poin Loyalti</name>
+   <tag></tag>
+   <elementGuidId>1dfdc5af-e465-4b38-a72e-9fed16e04aa4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[9]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>832b21f5-e4f1-4769-ba14-a6730012957c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8417d78b-9651-4394-836e-c6294c0bdbf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>group relative inline-flex items-center justify-center gap-2 enabled:focus:outline-none text-disabled bg-neutral-N200 enabled:text-invert enabled:bg-blue-B700 enabled:hover:bg-blue-B600 enabled:focus:bg-blue-B600 py-3 px-6 rounded-xl</value>
+      <webElementGuid>d3499554-6312-4e42-8a48-f923c244e522</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>loyalty-redeemable__button__create-rule</value>
+      <webElementGuid>4ed0dffc-b57b-4089-8233-602d69dbf8df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Buat Aturan Poin Loyalti</value>
+      <webElementGuid>69887bec-b0da-459f-8764-a676b5efa990</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;bg-neutral-N100 flex min-h-screen flex-col&quot;]/div[@class=&quot;flex flex-1 flex-col md:pl-[248px]&quot;]/main[@class=&quot;relative flex min-h-full w-full flex-1 flex-col&quot;]/div[1]/div[4]/div[@class=&quot;bg-neutral-N100 min-h-full p-5 md:p-6 flex flex-1 flex-col gap-6&quot;]/div[2]/div[@class=&quot;pt-6&quot;]/div[@class=&quot;flex flex-col items-center gap-6 p-10&quot;]/button[@class=&quot;group relative inline-flex items-center justify-center gap-2 enabled:focus:outline-none text-disabled bg-neutral-N200 enabled:text-invert enabled:bg-blue-B700 enabled:hover:bg-blue-B600 enabled:focus:bg-blue-B600 py-3 px-6 rounded-xl&quot;]</value>
+      <webElementGuid>e914e176-1064-45c2-b0ed-79511768c0bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[9]</value>
+      <webElementGuid>f9d8f5a4-c434-489c-a534-4ef610fd187b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[3]/main/div/div[4]/div/div[2]/div[2]/div/button</value>
+      <webElementGuid>ecc82c53-e0cb-40dd-8d29-7b4623ecbaae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Belum ada pengaturan Poin Loyalti'])[1]/following::button[1]</value>
+      <webElementGuid>518422d0-e3fe-4d1f-b99f-5d6efdde8a84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Poin Loyalti'])[2]/following::button[1]</value>
+      <webElementGuid>eb99fe71-c7cd-43ea-a9dc-caaf41a31d32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div[2]/div/button</value>
+      <webElementGuid>4d06acbf-dd4f-4dda-b2c8-21ae95a529ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Buat Aturan Poin Loyalti' or . = 'Buat Aturan Poin Loyalti')]</value>
+      <webElementGuid>021f8f73-984a-4197-8de1-72fc0b3293c8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

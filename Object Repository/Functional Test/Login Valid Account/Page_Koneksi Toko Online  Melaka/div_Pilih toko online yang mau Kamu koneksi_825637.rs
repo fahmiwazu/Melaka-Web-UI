@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pilih toko online yang mau Kamu koneksi_825637</name>
+   <tag></tag>
+   <elementGuidId>c4d84582-0685-45db-84d1-77905a93ca1f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[3]/main/div/div[4]/div/div/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>442f00c3-d226-4707-91e1-e9e53022f2a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>md:p-6</value>
+      <webElementGuid>4e2cebf4-8eda-4db3-80a3-087684644a3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih toko online yang mau Kamu koneksikanKamu bisa menambahkan hingga 5 toko online dalam 1 marketplaceShopeeTiktok ShopTokopediaShopifyBlibliLazada</value>
+      <webElementGuid>91cadb70-dfc2-4cf3-8cc1-8e38ca5c4e89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;bg-neutral-N100 flex min-h-screen flex-col&quot;]/div[@class=&quot;flex flex-1 flex-col md:pl-[248px]&quot;]/main[@class=&quot;relative flex min-h-full w-full flex-1 flex-col&quot;]/div[1]/div[4]/div[@class=&quot;bg-neutral-N100 min-h-full p-5 md:p-6 flex flex-1 flex-col gap-6&quot;]/div[@class=&quot;flex flex-col gap-6&quot;]/div[@class=&quot;-mx-5 flex flex-col gap-4 bg-white p-4 md:mx-0 md:rounded-xl md:p-0&quot;]/div[1]/div[@class=&quot;md:p-6&quot;]</value>
+      <webElementGuid>72e9c32f-5ddd-442f-a4e2-dae2126da959</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[3]/main/div/div[4]/div/div/div[2]/div/div</value>
+      <webElementGuid>434fcde8-eccc-43ca-8873-ed2533fa2180</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toko online yang telah terkoneksi akan tampil disini.'])[1]/following::div[3]</value>
+      <webElementGuid>2b8ba2c5-a818-482c-815e-994e7f771216</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Koneksi Marketplace'])[1]/following::div[3]</value>
+      <webElementGuid>4b50656c-53f2-4f3b-9da1-265ca05889d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div</value>
+      <webElementGuid>22c0ec06-4197-49fc-82ff-3fe304aac78f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pilih toko online yang mau Kamu koneksikanKamu bisa menambahkan hingga 5 toko online dalam 1 marketplaceShopeeTiktok ShopTokopediaShopifyBlibliLazada' or . = 'Pilih toko online yang mau Kamu koneksikanKamu bisa menambahkan hingga 5 toko online dalam 1 marketplaceShopeeTiktok ShopTokopediaShopifyBlibliLazada')]</value>
+      <webElementGuid>26129f58-0262-48ac-af9e-35cfc99e2544</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

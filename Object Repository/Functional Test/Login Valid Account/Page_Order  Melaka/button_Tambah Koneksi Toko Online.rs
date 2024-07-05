@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Tambah Koneksi Toko Online</name>
+   <tag></tag>
+   <elementGuidId>0f7a387c-1068-4fbd-b55b-764b2c4ce619</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[9]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7931e344-50ab-4731-8972-9e197c3f81d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0b718597-ec3a-4edd-81c3-c03700c61157</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>group relative inline-flex items-center justify-center gap-2 enabled:focus:outline-none text-disabled bg-neutral-N200 enabled:text-button enabled:bg-blue-B200 enabled:hover:bg-blue-B100 enabled:focus:bg-blue-B100 py-3 px-6 rounded-xl pl-4 button-large</value>
+      <webElementGuid>2f0d1b5f-2337-4e45-9d18-3e15ba50c478</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>no-transaction-popup__button__goto-mp-connection</value>
+      <webElementGuid>b192f3ba-fb9c-4802-9c1f-c842bb59f5a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tambah Koneksi Toko Online</value>
+      <webElementGuid>a6261de3-2e7a-429a-8c35-b35a4767b2dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;bg-neutral-N100 flex min-h-screen flex-col&quot;]/div[@class=&quot;flex flex-1 flex-col md:pl-[248px]&quot;]/main[@class=&quot;relative flex min-h-full w-full flex-1 flex-col&quot;]/div[1]/div[4]/div[@class=&quot;bg-neutral-N100 min-h-full p-5 md:p-6 flex flex-1 flex-col gap-6&quot;]/div[1]/div[1]/div[@class=&quot;fixed inset-0 z-[2] max-h-screen overflow-y-auto md:absolute&quot;]/div[@class=&quot;flex min-h-full items-end justify-center text-center md:items-center md:p-0&quot;]/div[@class=&quot;relative inline-block h-full w-full transform overflow-auto rounded-t-xl bg-white p-5 pt-4 text-left align-bottom shadow-xl transition-all md:my-8 md:h-auto md:w-full md:rounded-lg md:p-6 md:align-middle md:max-w-[600px] opacity-100 translate-y-0 md:scale-100&quot;]/div[@class=&quot;flex flex-col items-center p-4 text-center&quot;]/div[1]/button[@class=&quot;group relative inline-flex items-center justify-center gap-2 enabled:focus:outline-none text-disabled bg-neutral-N200 enabled:text-button enabled:bg-blue-B200 enabled:hover:bg-blue-B100 enabled:focus:bg-blue-B100 py-3 px-6 rounded-xl pl-4 button-large&quot;]</value>
+      <webElementGuid>8b212dbd-4e1f-4b9f-bf88-a47604c4b2f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[9]</value>
+      <webElementGuid>1581e9c8-39f6-4416-8a65-026c98ae1b54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[3]/main/div/div[4]/div/div/div/div/div/div[2]/div/div/button</value>
+      <webElementGuid>ddc38b9e-fe27-4cb7-88cf-b642156ca46f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Belum ada transaksi'])[1]/following::button[1]</value>
+      <webElementGuid>4cc761db-5fa3-4a4c-b2c5-d31c81b5069a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='F'])[2]/following::button[1]</value>
+      <webElementGuid>3545b0c7-20d8-4e8e-b31f-eb16c8075627</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order'])[1]/preceding::button[1]</value>
+      <webElementGuid>7e6ff8b5-5e11-4dd4-af2a-6868c766dc26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/div/div[2]/div/div/button</value>
+      <webElementGuid>cef08fd5-593f-4786-a4a7-94a8f10b62e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Tambah Koneksi Toko Online' or . = 'Tambah Koneksi Toko Online')]</value>
+      <webElementGuid>404e1a5e-c38f-4a7c-a208-41e53b361a9a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

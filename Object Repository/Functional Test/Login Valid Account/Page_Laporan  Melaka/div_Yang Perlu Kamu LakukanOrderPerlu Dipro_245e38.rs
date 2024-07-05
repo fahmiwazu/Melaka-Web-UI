@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Yang Perlu Kamu LakukanOrderPerlu Dipro_245e38</name>
+   <tag></tag>
+   <elementGuidId>a61bbf82-de93-4b13-92d1-cc047cfb4f2e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[3]/main/div/div[4]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7fb1de09-93a5-440e-94ba-dace746dd7b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex flex-col gap-3 bg-white p-3 md:rounded-xl</value>
+      <webElementGuid>70316b4c-959a-45a1-8be7-08d064cafcb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Yang Perlu Kamu LakukanOrderPerlu Diproses0Siap Dikirim0Butuh Resolusi0ProdukHampir Habis-Stok Habis-</value>
+      <webElementGuid>712b4213-7323-42f6-abfc-0bc7f7713091</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;bg-neutral-N100 flex min-h-screen flex-col&quot;]/div[@class=&quot;flex flex-1 flex-col md:pl-[248px]&quot;]/main[@class=&quot;relative flex min-h-full w-full flex-1 flex-col&quot;]/div[1]/div[4]/div[@class=&quot;bg-neutral-N100 min-h-full p-5 md:p-6 flex flex-1 flex-col gap-6&quot;]/div[@class=&quot;grid gap-4 md:grid-cols-12 md:gap-6&quot;]/div[@class=&quot;order-2 col-span-12 -mx-5 md:order-1 md:col-span-6 md:mx-0&quot;]/div[@class=&quot;flex flex-col gap-3 bg-white p-3 md:rounded-xl&quot;]</value>
+      <webElementGuid>bf4f3601-f5cb-4fcc-adf1-17526118d1f3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[3]/main/div/div[4]/div/div/div/div</value>
+      <webElementGuid>ee94e406-b081-441c-a520-a8a7b2d61c4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='F'])[2]/following::div[12]</value>
+      <webElementGuid>8a59b68a-e690-4988-ac28-13ed08f48f03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='F'])[1]/following::div[13]</value>
+      <webElementGuid>eaccdb7d-3b4e-4946-8149-202e7d6bd301</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div</value>
+      <webElementGuid>97772ef7-e2a2-46c0-b519-7a7149d7d7f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Yang Perlu Kamu LakukanOrderPerlu Diproses0Siap Dikirim0Butuh Resolusi0ProdukHampir Habis-Stok Habis-' or . = 'Yang Perlu Kamu LakukanOrderPerlu Diproses0Siap Dikirim0Butuh Resolusi0ProdukHampir Habis-Stok Habis-')]</value>
+      <webElementGuid>a4974a42-c63c-438d-a24d-bbf71f66b638</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

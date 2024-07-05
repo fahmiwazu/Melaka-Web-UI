@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Info Melaka</name>
+   <tag></tag>
+   <elementGuidId>af0ae29a-8fe0-4d7b-882f-c67029f6e3dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[3]/main/div/div[4]/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cf6b51e0-0839-4891-81c1-f56d73c03480</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex h-[264px] flex-col gap-2 bg-white p-3 md:max-w-[556px] md:rounded-xl</value>
+      <webElementGuid>5dd00bbe-9fcf-4fc4-8c0f-de9e949941bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>main-dashboard__div__informational-banner-container</value>
+      <webElementGuid>3bd574ed-6f2c-4812-ac0f-3484184f70bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Info Melaka</value>
+      <webElementGuid>a7f0d307-9b86-4754-850e-ee934e99e14e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;bg-neutral-N100 flex min-h-screen flex-col&quot;]/div[@class=&quot;flex flex-1 flex-col md:pl-[248px]&quot;]/main[@class=&quot;relative flex min-h-full w-full flex-1 flex-col&quot;]/div[1]/div[4]/div[@class=&quot;bg-neutral-N100 min-h-full p-5 md:p-6 flex flex-1 flex-col gap-6&quot;]/div[@class=&quot;grid gap-4 md:grid-cols-12 md:gap-6&quot;]/div[@class=&quot;order-1 col-span-12 -mx-5 md:order-2 md:col-span-6 md:mx-0&quot;]/div[@class=&quot;flex h-[264px] flex-col gap-2 bg-white p-3 md:max-w-[556px] md:rounded-xl&quot;]</value>
+      <webElementGuid>bc03f231-0bd9-4d86-a0c6-a795c621d1b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[3]/main/div/div[4]/div/div/div[2]/div</value>
+      <webElementGuid>3f4b87df-3339-4da5-a42e-17ddd3dba0c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[2]/following::div[2]</value>
+      <webElementGuid>56560864-8ca4-470a-bec9-e57a31b4a808</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stok Habis'])[1]/following::div[2]</value>
+      <webElementGuid>51fe22f4-6f4d-48fb-b83a-71bc6adf97d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overview Bisnis'])[1]/preceding::div[3]</value>
+      <webElementGuid>0fa56914-309e-48d0-82a3-65504ae66b1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div[2]/div</value>
+      <webElementGuid>0c351a79-2132-4438-b7d8-150648bb5e67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Info Melaka' or . = 'Info Melaka')]</value>
+      <webElementGuid>e0d4c8be-b0c0-4073-bb62-0de82b552fb0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

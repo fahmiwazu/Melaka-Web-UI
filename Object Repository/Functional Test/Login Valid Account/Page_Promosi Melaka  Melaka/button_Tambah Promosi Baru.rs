@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Tambah Promosi Baru</name>
+   <tag></tag>
+   <elementGuidId>a47de530-9c53-499c-9ec3-cabbafc7eb4c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[9]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3d188312-8232-4e0f-b0b3-5eb3e0a71dd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ecf95a94-8e72-4cf4-bb2c-ee08192c8a1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>group relative inline-flex items-center justify-center gap-2 enabled:focus:outline-none text-disabled bg-neutral-N200 enabled:text-invert enabled:bg-blue-B700 enabled:hover:bg-blue-B600 enabled:focus:bg-blue-B600 py-3 px-6 rounded-xl</value>
+      <webElementGuid>1fd89056-348a-4922-9b2b-2b7a2350b620</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>melaka-promo-table__button__create-promo</value>
+      <webElementGuid>4aacac88-469b-4ee0-80c0-51e72e0090af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tambah Promosi Baru</value>
+      <webElementGuid>892a7567-9f68-4b84-8d27-b71fd2f5e30a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;bg-neutral-N100 flex min-h-screen flex-col&quot;]/div[@class=&quot;flex flex-1 flex-col md:pl-[248px]&quot;]/main[@class=&quot;relative flex min-h-full w-full flex-1 flex-col&quot;]/div[1]/div[4]/div[@class=&quot;bg-neutral-N100 min-h-full p-5 md:p-6 flex flex-1 flex-col gap-6&quot;]/div[2]/div[@class=&quot;pt-6&quot;]/div[1]/div[@class=&quot;py-20&quot;]/div[@class=&quot;flex flex-col items-center gap-3&quot;]/button[@class=&quot;group relative inline-flex items-center justify-center gap-2 enabled:focus:outline-none text-disabled bg-neutral-N200 enabled:text-invert enabled:bg-blue-B700 enabled:hover:bg-blue-B600 enabled:focus:bg-blue-B600 py-3 px-6 rounded-xl&quot;]</value>
+      <webElementGuid>e25b806e-98ea-4e69-834f-faeecec9f050</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[9]</value>
+      <webElementGuid>31db8a1c-c68d-4a10-91c1-83b53988fffd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[3]/main/div/div[4]/div/div[2]/div[2]/div/div/div/button</value>
+      <webElementGuid>929e3c61-91a1-49b9-afdb-6afe8e744314</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Belum ada Promosi Terbuat'])[1]/following::button[1]</value>
+      <webElementGuid>488560c9-3182-49b1-a5d5-aae7cd1d3960</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Promosi Melaka'])[2]/following::button[1]</value>
+      <webElementGuid>ae060533-4e34-4536-ab76-057f43b82f3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/button</value>
+      <webElementGuid>2f2ae3fc-4074-485c-bbb6-c3bb1fdcf718</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Tambah Promosi Baru' or . = 'Tambah Promosi Baru')]</value>
+      <webElementGuid>e41bba02-f2c3-4b3a-a59a-6a6131eaee56</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

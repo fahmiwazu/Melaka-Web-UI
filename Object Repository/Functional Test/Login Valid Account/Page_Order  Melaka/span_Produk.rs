@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Produk</name>
+   <tag></tag>
+   <elementGuidId>28798795-4e41-4e45-bd6e-29538324b986</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headlessui-disclosure-panel-:re:']/a/button/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>db0a7ea9-48b2-46f2-8104-840181b5e308</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-[0.875rem] font-normal leading-[1.25rem] tracking-[0.25px] text-left text-he</value>
+      <webElementGuid>01a9b27b-b95c-4271-a5b5-c42c82320202</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Produk</value>
+      <webElementGuid>a7f9c437-ad48-4735-8157-119e12144949</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-disclosure-panel-:re:&quot;)/a[@class=&quot;group block w-full cursor-pointer overflow-hidden rounded-r-xl&quot;]/button[@class=&quot;w-full&quot;]/span[@class=&quot;flex items-center gap-2 rounded py-3 pr-2 pl-[56px] group-hover:bg-neutral-N100 group-focus:bg-neutral-N100 bg-white&quot;]/span[@class=&quot;text-[0.875rem] font-normal leading-[1.25rem] tracking-[0.25px] text-left text-he&quot;]</value>
+      <webElementGuid>ba0b4ed7-3dfb-407d-909d-69b9ba461f19</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-disclosure-panel-:re:']/a/button/span/span</value>
+      <webElementGuid>2403a4dc-eb5a-4b52-9c86-1e1a37843945</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Produk &amp; Stok'])[1]/following::span[2]</value>
+      <webElementGuid>524492b0-2f26-4220-a5a9-a47c46a58821</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Saya'])[1]/following::span[5]</value>
+      <webElementGuid>8bdf8f5c-8d28-4596-ae89-a4959bf507da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stok Inventori'])[1]/preceding::span[1]</value>
+      <webElementGuid>2e2399d7-513f-45f9-9547-c458ba968af2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Virtual Bundling'])[1]/preceding::span[3]</value>
+      <webElementGuid>c57f33cb-1d97-465d-8f3e-1eae736efd27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Produk']/parent::*</value>
+      <webElementGuid>4e262f90-2c4c-45a3-8841-1992956e6363</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/button/span/span</value>
+      <webElementGuid>08670351-7ebe-4917-89fa-22c185ac3c57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Produk' or . = 'Produk')]</value>
+      <webElementGuid>6cf66923-f353-473f-b309-84883f8e591c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

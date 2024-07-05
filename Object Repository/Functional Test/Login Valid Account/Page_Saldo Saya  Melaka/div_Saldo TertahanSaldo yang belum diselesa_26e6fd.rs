@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Saldo TertahanSaldo yang belum diselesa_26e6fd</name>
+   <tag></tag>
+   <elementGuidId>c113ea2a-d998-4dc9-9c14-92a0002c1446</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[3]/main/div/div[4]/div/div[2]/div/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3c979e4a-8744-4cc8-a358-a5a768db9e1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>md:bg-neutral-N0 flex items-center gap-2 md:rounded-xl md:p-4</value>
+      <webElementGuid>80670329-9a64-4f16-82a2-b44538d1fcb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Saldo TertahanSaldo yang belum diselesaikan proses transaksinya.InformasiRp0</value>
+      <webElementGuid>1ef385da-594e-4a99-be4f-af25d31ae5e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;bg-neutral-N100 flex min-h-screen flex-col&quot;]/div[@class=&quot;flex flex-1 flex-col md:pl-[248px]&quot;]/main[@class=&quot;relative flex min-h-full w-full flex-1 flex-col&quot;]/div[1]/div[4]/div[@class=&quot;bg-neutral-N100 min-h-full p-5 md:p-6 flex flex-1 flex-col gap-6&quot;]/div[@class=&quot;grid gap-4 md:grid-cols-3 md:gap-6&quot;]/div[@class=&quot;md:col-span-2&quot;]/div[@class=&quot;bg-neutral-N0 flex flex-col gap-4 rounded-xl p-4 md:rounded-none md:bg-transparent md:p-0&quot;]/div[@class=&quot;md:bg-neutral-N0 flex items-center gap-2 md:rounded-xl md:p-4&quot;]</value>
+      <webElementGuid>fbf85fb5-c873-4dbd-99f0-3aec26625cc2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[3]/main/div/div[4]/div/div[2]/div/div/div[3]</value>
+      <webElementGuid>2ee2e922-b37d-4cd4-b657-c690a56cbd5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tarik Saldo'])[1]/following::div[2]</value>
+      <webElementGuid>544e918e-20d8-428e-9d9d-33514a7b6608</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp'])[1]/following::div[3]</value>
+      <webElementGuid>0305e657-9b8d-4183-b068-50629bc7b0f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[3]</value>
+      <webElementGuid>30b2a65c-0456-43bf-9590-d0b83faff8c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Saldo TertahanSaldo yang belum diselesaikan proses transaksinya.InformasiRp0' or . = 'Saldo TertahanSaldo yang belum diselesaikan proses transaksinya.InformasiRp0')]</value>
+      <webElementGuid>21c45283-be7c-4337-a52d-0a3dc4c5f7d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

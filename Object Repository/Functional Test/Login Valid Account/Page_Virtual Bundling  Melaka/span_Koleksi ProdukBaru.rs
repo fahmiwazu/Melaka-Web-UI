@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Koleksi ProdukBaru</name>
+   <tag></tag>
+   <elementGuidId>bef48cff-16f5-4158-ad53-54c377f7873f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headlessui-disclosure-panel-:re:']/a[4]/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2f417b9c-d762-4ae3-ae69-3801047c7b36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center gap-2 rounded py-3 pr-2 pl-[56px] group-hover:bg-neutral-N100 group-focus:bg-neutral-N100 bg-white</value>
+      <webElementGuid>ab02051c-9020-4fe0-bdf2-1e377de4d1e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Koleksi ProdukBaru</value>
+      <webElementGuid>2129d350-b9ba-491f-af6a-0b059b3cac8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-disclosure-panel-:re:&quot;)/a[@class=&quot;group block w-full cursor-pointer overflow-hidden rounded-r-xl&quot;]/button[@class=&quot;w-full&quot;]/span[@class=&quot;flex items-center gap-2 rounded py-3 pr-2 pl-[56px] group-hover:bg-neutral-N100 group-focus:bg-neutral-N100 bg-white&quot;]</value>
+      <webElementGuid>fb480f51-b66d-4589-b395-2d8b6873b9a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-disclosure-panel-:re:']/a[4]/button/span</value>
+      <webElementGuid>684f30d8-541f-469a-b227-49fddc0a344d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Virtual Bundling'])[1]/following::span[1]</value>
+      <webElementGuid>49110123-a7a6-4205-ab4b-9d21f70a170e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stok Inventori'])[1]/following::span[3]</value>
+      <webElementGuid>ee69d538-7646-465b-a737-123ef4cf7329</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a[4]/button/span</value>
+      <webElementGuid>5f3367f0-0aa0-4b86-9196-66c368bbeaf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Koleksi ProdukBaru' or . = 'Koleksi ProdukBaru')]</value>
+      <webElementGuid>57d89234-d5a8-4abe-9cb3-e839bfe12286</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

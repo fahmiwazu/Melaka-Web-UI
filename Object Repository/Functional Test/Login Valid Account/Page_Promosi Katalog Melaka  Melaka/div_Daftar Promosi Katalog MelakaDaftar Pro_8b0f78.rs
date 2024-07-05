@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Daftar Promosi Katalog MelakaDaftar Pro_8b0f78</name>
+   <tag></tag>
+   <elementGuidId>f8605d17-6f72-4d94-9f67-83cd865d066b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[3]/main/div/div[4]/div/div[2]/div[2]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b3489d0a-87be-4dc6-a32b-41f1ce922118</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-neutral-N0 rounded-xl p-6 flex w-screen flex-col rounded-none md:ml-0 md:w-full md:rounded-xl gap-4</value>
+      <webElementGuid>8e3cf7d8-da2d-4c7c-adbe-a9ef63c1bcd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Daftar Promosi Katalog MelakaDaftar Promosi Katalog MelakaMenampilkan 0 dari 0 entri.Menampilkan 0 dari 0 entri.SemuaKatalog AktifKatalog Tidak AktifBelum ada dataBuat promosi katalog baru untuk menampilkan data katalog produk.Katalog</value>
+      <webElementGuid>9ffae9a0-cdc0-4df0-bec7-1addb70407b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;bg-neutral-N100 flex min-h-screen flex-col&quot;]/div[@class=&quot;flex flex-1 flex-col md:pl-[248px]&quot;]/main[@class=&quot;relative flex min-h-full w-full flex-1 flex-col&quot;]/div[1]/div[4]/div[@class=&quot;bg-neutral-N100 min-h-full p-5 md:p-6 flex flex-1 flex-col gap-6&quot;]/div[@class=&quot;flex flex-col gap-4&quot;]/div[@class=&quot;-mx-4 gap-4 md:mx-0&quot;]/div[@class=&quot;pt-2 md:pt-6&quot;]/div[@class=&quot;bg-neutral-N0 rounded-xl p-6 flex w-screen flex-col rounded-none md:ml-0 md:w-full md:rounded-xl gap-4&quot;]</value>
+      <webElementGuid>977d5284-42f1-4da9-b3f1-e03ff2f552c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[3]/main/div/div[4]/div/div[2]/div[2]/div[2]/div</value>
+      <webElementGuid>b7906e92-d4f1-4d03-b6c9-bf34cf119e51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tooltip Pendapatan Bersih Penjualan'])[1]/following::div[2]</value>
+      <webElementGuid>6fc4cdce-832d-4913-b1ab-188165cc920b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div</value>
+      <webElementGuid>604d6bfb-dca6-4cff-b9bc-d7627a378928</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Daftar Promosi Katalog MelakaDaftar Promosi Katalog MelakaMenampilkan 0 dari 0 entri.Menampilkan 0 dari 0 entri.SemuaKatalog AktifKatalog Tidak AktifBelum ada dataBuat promosi katalog baru untuk menampilkan data katalog produk.Katalog' or . = 'Daftar Promosi Katalog MelakaDaftar Promosi Katalog MelakaMenampilkan 0 dari 0 entri.Menampilkan 0 dari 0 entri.SemuaKatalog AktifKatalog Tidak AktifBelum ada dataBuat promosi katalog baru untuk menampilkan data katalog produk.Katalog')]</value>
+      <webElementGuid>d0732c36-fb32-4621-a456-33281eb34f04</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

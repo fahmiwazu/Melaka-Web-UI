@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Tambah Produk</name>
+   <tag></tag>
+   <elementGuidId>3b56824d-22b3-479f-9e9d-3552839e028a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[9]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ff44d9f8-65bf-4173-9ac3-bbc4cb63430a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>48da03fe-8acc-4ddd-bb57-25dfaf53e0d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>group relative inline-flex items-center justify-center gap-2 enabled:focus:outline-none text-disabled bg-neutral-N200 enabled:text-button enabled:bg-blue-B200 enabled:hover:bg-blue-B100 enabled:focus:bg-blue-B100 py-3 px-6 rounded-xl pl-4</value>
+      <webElementGuid>ad961f37-4bff-493b-8e7d-9d5c2e4474b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>stock-add-product__button__add</value>
+      <webElementGuid>c9e5980d-9c23-4e25-919c-087badb5ad9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tambah Produk</value>
+      <webElementGuid>c298a1b2-188c-418f-9e8c-38c6b677cdfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;bg-neutral-N100 flex min-h-screen flex-col&quot;]/div[@class=&quot;flex flex-1 flex-col md:pl-[248px]&quot;]/main[@class=&quot;relative flex min-h-full w-full flex-1 flex-col&quot;]/div[1]/div[4]/div[@class=&quot;bg-neutral-N100 min-h-full p-5 md:p-6 flex flex-1 flex-col gap-6&quot;]/div[@class=&quot;flex-col gap-4 flex&quot;]/div[@class=&quot;bg-neutral-N0 rounded-xl p-6 shadow-elevation-1 px-0 py-0&quot;]/div[@class=&quot;m-4 grid justify-center gap-3 rounded-none px-5 py-4 text-center md:m-0 md:gap-6 md:p-10&quot;]/div[@class=&quot;flex justify-center gap-6&quot;]/button[@class=&quot;group relative inline-flex items-center justify-center gap-2 enabled:focus:outline-none text-disabled bg-neutral-N200 enabled:text-button enabled:bg-blue-B200 enabled:hover:bg-blue-B100 enabled:focus:bg-blue-B100 py-3 px-6 rounded-xl pl-4&quot;]</value>
+      <webElementGuid>cfdf67f0-eaed-45b2-9dd8-ede0c1db39ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[9]</value>
+      <webElementGuid>763a541a-cbcd-4102-9e51-7fcefab08d45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[3]/main/div/div[4]/div/div[2]/div[2]/div/div[2]/button</value>
+      <webElementGuid>823a6045-d09f-4e62-aa98-8ef2d56acd1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah master produk kamu dan upload produkmu di berbagai marketplace'])[1]/following::button[1]</value>
+      <webElementGuid>e0e68611-9247-4da9-a784-85dd6534ab20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Belum ada data stok produk'])[1]/following::button[1]</value>
+      <webElementGuid>fd0a83ae-771f-45df-8bf9-e4b0276fe347</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>f07e4550-d8c3-423b-b939-d0c2964ab9e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Tambah Produk' or . = 'Tambah Produk')]</value>
+      <webElementGuid>153959f5-4e72-4b44-a8f0-e41a95538786</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

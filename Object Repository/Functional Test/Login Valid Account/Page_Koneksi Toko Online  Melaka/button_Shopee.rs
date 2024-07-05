@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Shopee</name>
+   <tag></tag>
+   <elementGuidId>37a26571-3f50-49eb-9e85-85e0fd23df54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[3]/main/div/div[4]/div/div/div[2]/div/div/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>dfc71747-f00d-4598-9c7e-0fca5dc456f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-neutral-N200 relative h-[90px] w-[96px] cursor-pointer rounded-xl border bg-white px-3 py-4 md:h-[150px] md:w-[140px]</value>
+      <webElementGuid>01debf40-cabe-4f28-8506-d9e34bf4e929</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>marketplace-option__div__marketplace-container</value>
+      <webElementGuid>4b87d540-337e-4031-a577-328d8eb58db6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Shopee</value>
+      <webElementGuid>a75dd1ef-1e08-4698-bd08-36d965aaeece</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;bg-neutral-N100 flex min-h-screen flex-col&quot;]/div[@class=&quot;flex flex-1 flex-col md:pl-[248px]&quot;]/main[@class=&quot;relative flex min-h-full w-full flex-1 flex-col&quot;]/div[1]/div[4]/div[@class=&quot;bg-neutral-N100 min-h-full p-5 md:p-6 flex flex-1 flex-col gap-6&quot;]/div[@class=&quot;flex flex-col gap-6&quot;]/div[@class=&quot;-mx-5 flex flex-col gap-4 bg-white p-4 md:mx-0 md:rounded-xl md:p-0&quot;]/div[1]/div[@class=&quot;md:p-6&quot;]/div[@class=&quot;flex flex-wrap justify-center gap-4 md:justify-start&quot;]/button[@class=&quot;border-neutral-N200 relative h-[90px] w-[96px] cursor-pointer rounded-xl border bg-white px-3 py-4 md:h-[150px] md:w-[140px]&quot;]</value>
+      <webElementGuid>c13bca3d-a8d8-4831-83ee-619b91a870f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[3]/main/div/div[4]/div/div/div[2]/div/div/div/button</value>
+      <webElementGuid>1f1e8c7e-5ea9-4419-a540-026069f21e7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kamu bisa menambahkan hingga 5 toko online dalam 1 marketplace'])[1]/following::button[1]</value>
+      <webElementGuid>2c81baa1-c22d-4468-b658-b3931982d288</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih toko online yang mau Kamu koneksikan'])[1]/following::button[1]</value>
+      <webElementGuid>3cc7d927-792e-4ccf-8d9e-e8c0d6ec8480</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiktok Shop'])[1]/preceding::button[1]</value>
+      <webElementGuid>a5ab3eb1-fba3-4145-b21b-4b4f27f4178b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/button</value>
+      <webElementGuid>dac29122-0e8b-494f-a310-b6b1a5cebbed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Shopee' or . = 'Shopee')]</value>
+      <webElementGuid>39293b11-5843-49e1-9229-ae829119e94b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

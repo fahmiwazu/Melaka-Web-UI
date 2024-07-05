@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Tokopedia</name>
+   <tag></tag>
+   <elementGuidId>10fc300f-c4a4-4c1e-89fc-98e45de2f96a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[3]/main/div/div[4]/div/div/div[2]/div/div/div/button[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f1cd3d04-ac21-4bd5-9d6b-9a5173f095f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-neutral-N200 relative h-[90px] w-[96px] cursor-pointer rounded-xl border bg-white px-3 py-4 md:h-[150px] md:w-[140px]</value>
+      <webElementGuid>c47c981d-9cee-42b7-b120-17b9aded1d6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>marketplace-option__div__marketplace-container</value>
+      <webElementGuid>1070095b-0ff5-4e6a-8284-223f5207f887</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tokopedia</value>
+      <webElementGuid>b0937dde-65de-47c4-a43e-fb01727fda2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;bg-neutral-N100 flex min-h-screen flex-col&quot;]/div[@class=&quot;flex flex-1 flex-col md:pl-[248px]&quot;]/main[@class=&quot;relative flex min-h-full w-full flex-1 flex-col&quot;]/div[1]/div[4]/div[@class=&quot;bg-neutral-N100 min-h-full p-5 md:p-6 flex flex-1 flex-col gap-6&quot;]/div[@class=&quot;flex flex-col gap-6&quot;]/div[@class=&quot;-mx-5 flex flex-col gap-4 bg-white p-4 md:mx-0 md:rounded-xl md:p-0&quot;]/div[1]/div[@class=&quot;md:p-6&quot;]/div[@class=&quot;flex flex-wrap justify-center gap-4 md:justify-start&quot;]/button[@class=&quot;border-neutral-N200 relative h-[90px] w-[96px] cursor-pointer rounded-xl border bg-white px-3 py-4 md:h-[150px] md:w-[140px]&quot;]</value>
+      <webElementGuid>539a0d01-500d-4de7-8980-c3491b6cccb6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[3]/main/div/div[4]/div/div/div[2]/div/div/div/button[3]</value>
+      <webElementGuid>5ee2a71d-d74b-4c3c-ba99-d6768b754c90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiktok Shop'])[1]/following::button[1]</value>
+      <webElementGuid>9caec3fa-6ca1-46db-9461-5f8d8a76b18c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shopee'])[1]/following::button[2]</value>
+      <webElementGuid>cded5204-d491-499f-86de-be5d236e9c65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shopify'])[1]/preceding::button[1]</value>
+      <webElementGuid>542e0e13-b2a7-437f-870d-fce690446b7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/button[3]</value>
+      <webElementGuid>199b048f-58a3-4541-8253-517aa4df77d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Tokopedia' or . = 'Tokopedia')]</value>
+      <webElementGuid>8a745d9a-7c46-4a39-8964-3a3e542df216</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

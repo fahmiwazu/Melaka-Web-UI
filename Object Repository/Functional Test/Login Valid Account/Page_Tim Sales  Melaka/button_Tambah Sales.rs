@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Tambah Sales</name>
+   <tag></tag>
+   <elementGuidId>4fa443ee-889e-41fe-b3eb-9c2389b19b32</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[9]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b39d9470-0868-4bb8-9452-7a4c87645c1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0c75f639-1dca-4338-bd03-02091d0e0dd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>group relative inline-flex items-center justify-center gap-2 enabled:focus:outline-none text-disabled bg-neutral-N200 enabled:text-invert enabled:bg-blue-B700 enabled:hover:bg-blue-B600 enabled:focus:bg-blue-B600 py-3 px-6 rounded-xl</value>
+      <webElementGuid>a684acdd-5ff6-4f9f-a6b2-d520c0598423</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>store-salesperson__button__add__salesperson</value>
+      <webElementGuid>77b752a0-49fd-4ae1-8786-7968c887a64e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tambah Sales</value>
+      <webElementGuid>2a4179a4-cabf-4dca-bc19-3c3c97d13bce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;bg-neutral-N100 flex min-h-screen flex-col&quot;]/div[@class=&quot;flex flex-1 flex-col md:pl-[248px]&quot;]/main[@class=&quot;relative flex min-h-full w-full flex-1 flex-col&quot;]/div[1]/div[4]/div[@class=&quot;bg-neutral-N100 min-h-full p-5 md:p-6 flex flex-1 flex-col gap-6&quot;]/div[@class=&quot;flex flex-col items-center gap-3&quot;]/button[@class=&quot;group relative inline-flex items-center justify-center gap-2 enabled:focus:outline-none text-disabled bg-neutral-N200 enabled:text-invert enabled:bg-blue-B700 enabled:hover:bg-blue-B600 enabled:focus:bg-blue-B600 py-3 px-6 rounded-xl&quot;]</value>
+      <webElementGuid>77b0e6ce-2b58-4dfa-b766-cb55984d502a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[9]</value>
+      <webElementGuid>ec6f9c70-e93f-4e2d-9eec-983e786bc27b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[3]/main/div/div[4]/div/div[2]/button</value>
+      <webElementGuid>3ea153f2-401c-40be-90f8-660af1c6ce19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Belum ada Tim Sales'])[1]/following::button[1]</value>
+      <webElementGuid>e515e453-a142-4e29-93cb-b5f32e5c19b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tim Sales'])[2]/following::button[1]</value>
+      <webElementGuid>ca1f1f2a-ca2d-4f44-a120-2a457f77d0f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>4dcee544-2db1-48ae-b6c4-76e112344adc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Tambah Sales' or . = 'Tambah Sales')]</value>
+      <webElementGuid>19b27ffe-9789-4ff4-8cee-4ffe4dd79e19</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

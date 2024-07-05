@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sinkronisasi Data Produk</name>
+   <tag></tag>
+   <elementGuidId>2c54537e-5969-479c-9963-b6b05aa31822</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@type='button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a076445e-bfe1-4fac-bc5d-ff83876c672f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>56ced318-b5c5-4bbc-9d14-67835ba69862</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>group relative inline-flex items-center justify-center gap-2 enabled:focus:outline-none text-disabled bg-neutral-N200 enabled:text-invert enabled:bg-blue-B700 enabled:hover:bg-blue-B600 enabled:focus:bg-blue-B600 py-3 px-6 rounded-xl pl-4 cursor-not-allowed</value>
+      <webElementGuid>49cf6dd0-c45a-4e00-b56a-3e1e29714805</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>product-list__button__sync-product</value>
+      <webElementGuid>eeaf2cd7-05fe-4f38-84c8-9236fa1c77ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sinkronisasi Data Produk</value>
+      <webElementGuid>ca1ef8d4-f757-492f-a19e-c74e4279b29c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-popover-button-:r1m:&quot;)/span[@class=&quot;group relative inline-flex items-center justify-center gap-2 enabled:focus:outline-none text-disabled bg-neutral-N200 enabled:text-invert enabled:bg-blue-B700 enabled:hover:bg-blue-B600 enabled:focus:bg-blue-B600 py-3 px-6 rounded-xl pl-4 cursor-not-allowed&quot;]</value>
+      <webElementGuid>5930c67a-9ffb-41b5-bbd2-b200231107bd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@type='button']</value>
+      <webElementGuid>d89bc7d2-3cde-4f3c-82ba-1340723b033e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='headlessui-popover-button-:r1m:']/span</value>
+      <webElementGuid>815b0300-5df8-49b9-8c56-573fa90df241</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah Produk'])[2]/following::span[1]</value>
+      <webElementGuid>fe811299-3357-46af-8cd1-6aca98a1d79e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah master produk dan upload produkmu di berbagai marketplace atau sinkronisasi data produkmu.'])[1]/following::span[2]</value>
+      <webElementGuid>cb7115bb-c112-4a09-8e6e-c443673acb25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kamu belum memiliki koneksi toko online. Silahkan tambahkan koneksi toko terlebih dahulu'])[1]/preceding::span[2]</value>
+      <webElementGuid>0fe31fec-0a0f-4732-a645-45775b5d5087</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div/div/button/span</value>
+      <webElementGuid>f5801663-a3f0-4f96-867d-d0dd500b3679</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@type = 'button' and (text() = 'Sinkronisasi Data Produk' or . = 'Sinkronisasi Data Produk')]</value>
+      <webElementGuid>968741e3-252c-4de7-a704-cb8fd41ee1ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

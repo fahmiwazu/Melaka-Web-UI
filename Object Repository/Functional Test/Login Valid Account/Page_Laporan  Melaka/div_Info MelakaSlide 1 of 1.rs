@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Info MelakaSlide 1 of 1</name>
+   <tag></tag>
+   <elementGuidId>79f9cf8c-978b-438e-98dd-9a1673f4019f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[3]/main/div/div[4]/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b9a8a54c-4198-4d7b-9dec-d59cfdcb656e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex h-[264px] flex-col gap-2 bg-white p-3 md:max-w-[556px] md:rounded-xl</value>
+      <webElementGuid>a1b8c1a8-860c-447f-a601-ff1649f8c1a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>main-dashboard__div__informational-banner-container</value>
+      <webElementGuid>307c9846-3792-4f84-be08-ee6304e201c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Info MelakaSlide 1 of 1</value>
+      <webElementGuid>b60731e2-965d-4a0c-9361-0f661ab0511f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;bg-neutral-N100 flex min-h-screen flex-col&quot;]/div[@class=&quot;flex flex-1 flex-col md:pl-[248px]&quot;]/main[@class=&quot;relative flex min-h-full w-full flex-1 flex-col&quot;]/div[1]/div[4]/div[@class=&quot;bg-neutral-N100 min-h-full p-5 md:p-6 flex flex-1 flex-col gap-6&quot;]/div[@class=&quot;grid gap-4 md:grid-cols-12 md:gap-6&quot;]/div[@class=&quot;order-1 col-span-12 -mx-5 md:order-2 md:col-span-6 md:mx-0&quot;]/div[@class=&quot;flex h-[264px] flex-col gap-2 bg-white p-3 md:max-w-[556px] md:rounded-xl&quot;]</value>
+      <webElementGuid>62311a76-d9aa-463f-9f34-7113ffa04d36</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[3]/main/div/div[4]/div/div/div[2]/div</value>
+      <webElementGuid>0ed53fd4-35e4-45b3-ae04-a13f7337a63d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[2]/following::div[2]</value>
+      <webElementGuid>b5c61c02-61c0-4edd-9507-9fe279030f9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stok Habis'])[1]/following::div[2]</value>
+      <webElementGuid>441bd2ee-3bf2-416d-bf3d-d4856edea2e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div[2]/div</value>
+      <webElementGuid>41ada048-0343-426c-8c84-819a53f853b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Info MelakaSlide 1 of 1' or . = 'Info MelakaSlide 1 of 1')]</value>
+      <webElementGuid>4de048fb-6c1c-47a4-8a72-347c269489fa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

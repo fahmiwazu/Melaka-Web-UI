@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Informasi TokoSettingsBelum tersediaBel_7ba29e</name>
+   <tag></tag>
+   <elementGuidId>e6f145da-a99c-49aa-9c06-0725b9c88b87</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[3]/main/div/div[4]/div/div[2]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ee9e0d36-2f5b-4ae6-9594-c23851802671</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-neutral-N0 flex w-full flex-col gap-4 rounded-none px-5 py-4 md:flex-row md:rounded-xl md:px-6 md:py-4 lg:gap-6</value>
+      <webElementGuid>74a9c4ac-1445-4376-ad65-0346ea072032</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Informasi TokoSettingsBelum tersediaBelum tersediaPendapatan Kotor PenjualanTooltip Pendapatan Kotor PenjualanRp -Pendapatan Bersih PenjualanTooltip Pendapatan Bersih PenjualanRp -</value>
+      <webElementGuid>c8397343-c81b-4e2d-99da-0a7398c9ecd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;bg-neutral-N100 flex min-h-screen flex-col&quot;]/div[@class=&quot;flex flex-1 flex-col md:pl-[248px]&quot;]/main[@class=&quot;relative flex min-h-full w-full flex-1 flex-col&quot;]/div[1]/div[4]/div[@class=&quot;bg-neutral-N100 min-h-full p-5 md:p-6 flex flex-1 flex-col gap-6&quot;]/div[@class=&quot;flex flex-col gap-4&quot;]/div[@class=&quot;-mx-4 gap-4 md:mx-0&quot;]/div[@class=&quot;bg-neutral-N0 flex w-full flex-col gap-4 rounded-none px-5 py-4 md:flex-row md:rounded-xl md:px-6 md:py-4 lg:gap-6&quot;]</value>
+      <webElementGuid>38208403-87b0-45a7-91a0-a1afaddada44</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[3]/main/div/div[4]/div/div[2]/div[2]/div</value>
+      <webElementGuid>978ea7ef-8e52-46a6-bb82-ec89dff1503e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalog Promosi'])[1]/following::div[2]</value>
+      <webElementGuid>e9166682-0293-4c7f-8730-599bd4565ceb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Promosi Katalog Melaka'])[1]/following::div[2]</value>
+      <webElementGuid>a865792f-6cec-45a1-a3e0-d8bbafbd756d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div[2]/div</value>
+      <webElementGuid>ce3af0a2-cc5d-4b7a-a02d-cefc73d6a4d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Informasi TokoSettingsBelum tersediaBelum tersediaPendapatan Kotor PenjualanTooltip Pendapatan Kotor PenjualanRp -Pendapatan Bersih PenjualanTooltip Pendapatan Bersih PenjualanRp -' or . = 'Informasi TokoSettingsBelum tersediaBelum tersediaPendapatan Kotor PenjualanTooltip Pendapatan Kotor PenjualanRp -Pendapatan Bersih PenjualanTooltip Pendapatan Bersih PenjualanRp -')]</value>
+      <webElementGuid>5be307bc-d8a4-483b-a9ad-c4edd5a978b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

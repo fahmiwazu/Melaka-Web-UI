@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Overview Bisnis30 hari terakhir (Data d_fbee16</name>
+   <tag></tag>
+   <elementGuidId>c869b451-0e2a-41f6-81ac-2d3645689a3f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[3]/main/div/div[4]/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ab97d4fc-bc26-4704-bae2-f0b93812e17b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex flex-col gap-3 bg-white p-4 md:rounded-xl</value>
+      <webElementGuid>cdfa486d-b2ee-44f1-93fd-eeb176c860a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Overview Bisnis30 hari terakhir (Data dari semua toko online terhubung dan fitur - fitur di Melaka)total-ordersTotal OrderLihat detail00%Perbandingan dengan 30 hari sebelumnyatotal-revenueTotal PemasukanLihat detailRp 00%Perbandingan dengan 30 hari sebelumnyatotal-customerTotal PelangganLihat detail00%Perbandingan dengan 30 hari sebelumnya 5 5 4 4 3 3 2 2 1 1 0 0Tidak ada data</value>
+      <webElementGuid>2b693581-a180-41fa-a323-b215a1eecefe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;bg-neutral-N100 flex min-h-screen flex-col&quot;]/div[@class=&quot;flex flex-1 flex-col md:pl-[248px]&quot;]/main[@class=&quot;relative flex min-h-full w-full flex-1 flex-col&quot;]/div[1]/div[4]/div[@class=&quot;bg-neutral-N100 min-h-full p-5 md:p-6 flex flex-1 flex-col gap-6&quot;]/div[@class=&quot;-mx-5 md:mx-0&quot;]/div[@class=&quot;flex flex-col gap-3 bg-white p-4 md:rounded-xl&quot;]</value>
+      <webElementGuid>dc9b6a6e-cfe5-4bbf-9981-52e622577bc6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[3]/main/div/div[4]/div/div[2]/div</value>
+      <webElementGuid>4975ca45-eb9c-47bd-b332-62a3caf6bf04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Slide 1 of 1'])[1]/following::div[14]</value>
+      <webElementGuid>06ecd3d4-b86c-4819-912d-b9f75b381120</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Info Melaka'])[1]/following::div[17]</value>
+      <webElementGuid>6fd79b49-871c-498e-b929-63115846ef52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/div</value>
+      <webElementGuid>7d08f185-fcf8-4dfb-adb9-d3ce06d72781</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Overview Bisnis30 hari terakhir (Data dari semua toko online terhubung dan fitur - fitur di Melaka)total-ordersTotal OrderLihat detail00%Perbandingan dengan 30 hari sebelumnyatotal-revenueTotal PemasukanLihat detailRp 00%Perbandingan dengan 30 hari sebelumnyatotal-customerTotal PelangganLihat detail00%Perbandingan dengan 30 hari sebelumnya 5 5 4 4 3 3 2 2 1 1 0 0Tidak ada data' or . = 'Overview Bisnis30 hari terakhir (Data dari semua toko online terhubung dan fitur - fitur di Melaka)total-ordersTotal OrderLihat detail00%Perbandingan dengan 30 hari sebelumnyatotal-revenueTotal PemasukanLihat detailRp 00%Perbandingan dengan 30 hari sebelumnyatotal-customerTotal PelangganLihat detail00%Perbandingan dengan 30 hari sebelumnya 5 5 4 4 3 3 2 2 1 1 0 0Tidak ada data')]</value>
+      <webElementGuid>321b8ee7-7369-4334-84da-3a3218ac74ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

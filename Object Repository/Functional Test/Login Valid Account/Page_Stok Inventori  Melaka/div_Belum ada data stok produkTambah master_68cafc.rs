@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Belum ada data stok produkTambah master_68cafc</name>
+   <tag></tag>
+   <elementGuidId>42a78cea-b13e-4fe1-abb2-119ec3148bd3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[3]/main/div/div[4]/div/div[2]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e571047a-e2c5-403a-a24f-140247485338</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>m-4 grid justify-center gap-3 rounded-none px-5 py-4 text-center md:m-0 md:gap-6 md:p-10</value>
+      <webElementGuid>df772b96-10f6-4d21-bd33-4d860d10e4bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Belum ada data stok produkTambah master produk kamu dan upload produkmu di berbagai marketplaceTambah Produk</value>
+      <webElementGuid>55247197-2645-4caf-8178-fea7bbed1bc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;bg-neutral-N100 flex min-h-screen flex-col&quot;]/div[@class=&quot;flex flex-1 flex-col md:pl-[248px]&quot;]/main[@class=&quot;relative flex min-h-full w-full flex-1 flex-col&quot;]/div[1]/div[4]/div[@class=&quot;bg-neutral-N100 min-h-full p-5 md:p-6 flex flex-1 flex-col gap-6&quot;]/div[@class=&quot;flex-col gap-4 flex&quot;]/div[@class=&quot;bg-neutral-N0 rounded-xl p-6 shadow-elevation-1 px-0 py-0&quot;]/div[@class=&quot;m-4 grid justify-center gap-3 rounded-none px-5 py-4 text-center md:m-0 md:gap-6 md:p-10&quot;]</value>
+      <webElementGuid>553815db-4e25-48a8-870e-a59b4916b769</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[3]/main/div/div[4]/div/div[2]/div[2]/div</value>
+      <webElementGuid>09131ca8-86ac-4993-a2a6-a0808df203a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Pergerakan Stok'])[1]/following::div[2]</value>
+      <webElementGuid>984b5369-33e2-4c9b-8d7d-a069858dd286</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Produk mau habis'])[1]/following::div[4]</value>
+      <webElementGuid>b6871596-1fcc-484c-9eb9-11deb26f0de0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div[2]/div</value>
+      <webElementGuid>16cc63a4-542a-4b48-9155-2836fc2a7234</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Belum ada data stok produkTambah master produk kamu dan upload produkmu di berbagai marketplaceTambah Produk' or . = 'Belum ada data stok produkTambah master produk kamu dan upload produkmu di berbagai marketplaceTambah Produk')]</value>
+      <webElementGuid>27ac21a5-58f3-4a62-8781-f54547035f4b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

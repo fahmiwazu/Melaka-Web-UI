@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Laporan Toko</name>
+   <tag></tag>
+   <elementGuidId>1ad500c4-f494-4794-98bc-de61ed74ddaf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headlessui-disclosure-panel-:rg:']/a[2]/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>38a90d81-0ec3-4439-b099-9ccb3db67ce1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center gap-2 rounded py-3 pr-2 pl-[56px] group-hover:bg-neutral-N100 group-focus:bg-neutral-N100 bg-white</value>
+      <webElementGuid>2ad76e2f-686d-40e0-acd6-e29e862a74a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Laporan Toko</value>
+      <webElementGuid>6b445b7d-a7f1-4ad5-93aa-2dd52ff3bd4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-disclosure-panel-:rg:&quot;)/a[@class=&quot;group block w-full cursor-pointer overflow-hidden rounded-r-xl&quot;]/button[@class=&quot;w-full&quot;]/span[@class=&quot;flex items-center gap-2 rounded py-3 pr-2 pl-[56px] group-hover:bg-neutral-N100 group-focus:bg-neutral-N100 bg-white&quot;]</value>
+      <webElementGuid>6a087fc2-b001-42c7-ae87-05f889758580</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-disclosure-panel-:rg:']/a[2]/button/span</value>
+      <webElementGuid>2137a42d-52c3-4724-97e9-7613572ffad2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Catatan Keuangan'])[1]/following::span[1]</value>
+      <webElementGuid>50119216-978b-4e6b-b10a-7b98a5015c23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Analisis Bisnis'])[1]/following::span[3]</value>
+      <webElementGuid>b13bcfcb-375f-45a6-9cac-deb6c35f45a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Analisis Pelanggan'])[1]/preceding::span[2]</value>
+      <webElementGuid>b5a3fac5-fd99-4a00-91a6-274ea615050f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a[2]/button/span</value>
+      <webElementGuid>66ca46a9-0665-4992-bb11-6da9f4c8ecc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Laporan Toko' or . = 'Laporan Toko')]</value>
+      <webElementGuid>8391fb84-0103-43b4-abfd-2fd904a67cfa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

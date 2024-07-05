@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Kategori dan Jenis LaporanLihat Riwayat_954bdc</name>
+   <tag></tag>
+   <elementGuidId>9a4b9642-1237-4319-b339-0e19ad4db91b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[3]/main/div/div[4]/div/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a673a81d-df14-4bb6-a7d4-c4f7ad595669</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-neutral-N0 rounded-xl p-6 -mx-4 grid gap-4 rounded-none md:mx-0 md:rounded-xl</value>
+      <webElementGuid>7170950a-c735-408b-946a-d297b85419aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kategori dan Jenis LaporanLihat Riwayat DownloadKeuanganLaporan Laba RugiDownload Laporan Laba RugiLaporan pendapatan dan pengeluaran.Jurnal AkuntansiDownload Jurnal AkuntansiDaftar transaksi finansial.PenjualanLaporan PenjualanDownload Laporan PenjualanDaftar penjualan dari semua marketplace.Laporan Penjualan per BarangDownload Laporan Penjualan per BarangDaftar penjualan per barang dari semua marketplace.PersediaanLaporan PersediaanDownload Laporan PersediaanPersediaan barang di Melaka.Umur StokDownload Umur StokLaporan umur stok.</value>
+      <webElementGuid>401b629d-bb8c-4cc2-a811-51fb96796f9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;bg-neutral-N100 flex min-h-screen flex-col&quot;]/div[@class=&quot;flex flex-1 flex-col md:pl-[248px]&quot;]/main[@class=&quot;relative flex min-h-full w-full flex-1 flex-col&quot;]/div[1]/div[4]/div[@class=&quot;bg-neutral-N100 min-h-full p-5 md:p-6 flex flex-1 flex-col gap-6&quot;]/div[@class=&quot;flex flex-col gap-4&quot;]/div[@class=&quot;bg-neutral-N0 rounded-xl p-6 -mx-4 grid gap-4 rounded-none md:mx-0 md:rounded-xl&quot;]</value>
+      <webElementGuid>d115f526-e27f-4d3b-835c-8a7cce960049</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[3]/main/div/div[4]/div/div[2]/div[2]</value>
+      <webElementGuid>8e357568-fc53-4442-86af-4a8da91d8712</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laporan mengenai bisnismu yang dapat kamu download'])[1]/following::div[2]</value>
+      <webElementGuid>9d14090c-6b5c-41e8-8015-6b6922b00f51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laporan Toko'])[3]/following::div[3]</value>
+      <webElementGuid>31deb0b2-4740-4d04-8dce-dbbb0d09ac44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div[2]</value>
+      <webElementGuid>106ea010-8686-458a-b6c2-a2294bea21b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Kategori dan Jenis LaporanLihat Riwayat DownloadKeuanganLaporan Laba RugiDownload Laporan Laba RugiLaporan pendapatan dan pengeluaran.Jurnal AkuntansiDownload Jurnal AkuntansiDaftar transaksi finansial.PenjualanLaporan PenjualanDownload Laporan PenjualanDaftar penjualan dari semua marketplace.Laporan Penjualan per BarangDownload Laporan Penjualan per BarangDaftar penjualan per barang dari semua marketplace.PersediaanLaporan PersediaanDownload Laporan PersediaanPersediaan barang di Melaka.Umur StokDownload Umur StokLaporan umur stok.' or . = 'Kategori dan Jenis LaporanLihat Riwayat DownloadKeuanganLaporan Laba RugiDownload Laporan Laba RugiLaporan pendapatan dan pengeluaran.Jurnal AkuntansiDownload Jurnal AkuntansiDaftar transaksi finansial.PenjualanLaporan PenjualanDownload Laporan PenjualanDaftar penjualan dari semua marketplace.Laporan Penjualan per BarangDownload Laporan Penjualan per BarangDaftar penjualan per barang dari semua marketplace.PersediaanLaporan PersediaanDownload Laporan PersediaanPersediaan barang di Melaka.Umur StokDownload Umur StokLaporan umur stok.')]</value>
+      <webElementGuid>446e3d61-7e96-4614-883a-78ac180a8978</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

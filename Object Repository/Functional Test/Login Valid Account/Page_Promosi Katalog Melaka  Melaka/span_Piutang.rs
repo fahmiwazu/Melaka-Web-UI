@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Piutang</name>
+   <tag></tag>
+   <elementGuidId>435db0f4-ab01-45ac-b811-649a844569bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headlessui-disclosure-panel-:rc:']/a[4]/button/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>76cfc04a-356a-4d36-85bc-26a9b7cede7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-[0.875rem] font-normal leading-[1.25rem] tracking-[0.25px] text-left text-he</value>
+      <webElementGuid>3af460c7-ed0a-4978-8d99-71767eef6444</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Piutang</value>
+      <webElementGuid>d22db720-f3d6-403b-9991-ae9d41f2f875</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-disclosure-panel-:rc:&quot;)/a[@class=&quot;group block w-full cursor-pointer overflow-hidden rounded-r-xl&quot;]/button[@class=&quot;w-full&quot;]/span[@class=&quot;flex items-center gap-2 rounded py-3 pr-2 pl-[56px] group-hover:bg-neutral-N100 group-focus:bg-neutral-N100 bg-white&quot;]/span[@class=&quot;text-[0.875rem] font-normal leading-[1.25rem] tracking-[0.25px] text-left text-he&quot;]</value>
+      <webElementGuid>7a17d6e4-28e1-4bfd-af93-351e5f2c316d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-disclosure-panel-:rc:']/a[4]/button/span/span</value>
+      <webElementGuid>cb1b170e-ddf4-49c4-9a6a-fbcfc57d3ff4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalog Melaka'])[1]/following::span[2]</value>
+      <webElementGuid>f9316621-aba4-4eea-8cd5-cc3bf9ef6eb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kasir'])[1]/following::span[4]</value>
+      <webElementGuid>e9503eb3-81b1-41db-9b29-716f21cb5e94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Saya'])[1]/preceding::span[1]</value>
+      <webElementGuid>d2534a27-ae78-42a6-842c-cf2b5bd41359</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Produk &amp; Stok'])[1]/preceding::span[4]</value>
+      <webElementGuid>5ca25c2b-152c-4efd-ace3-71c8d9758f02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Piutang']/parent::*</value>
+      <webElementGuid>4cb2b0e9-3c2f-4723-acba-b50c4124c21e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a[4]/button/span/span</value>
+      <webElementGuid>c8ab0a7b-6a6f-47c6-bd01-bdc27d96300f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Piutang' or . = 'Piutang')]</value>
+      <webElementGuid>28a67ae3-699d-4b39-a90d-9d5ff0d02373</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

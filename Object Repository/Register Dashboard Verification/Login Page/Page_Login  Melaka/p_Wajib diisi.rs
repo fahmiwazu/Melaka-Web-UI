@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Wajib diisi</name>
+   <tag></tag>
+   <elementGuidId>ca9653e5-18e4-4de9-810c-8ff83e80d80c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div/div[2]/form/div/div[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>ab78ae12-49f9-46f2-9837-e4d4bcea1b95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-[0.75rem] font-normal leading-[1rem] tracking-[0.4px] mt-1 ml-4 text-le</value>
+      <webElementGuid>c4a2fffd-5f59-46ea-8b0a-95de3dda98e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>login__field__email__error</value>
+      <webElementGuid>00117386-267e-44b5-80a9-ce0b3bc13b95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Wajib diisi.</value>
+      <webElementGuid>07a62fc8-2839-479a-8041-1c3aad34ffc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;relative flex min-h-screen flex-col bg-blue-B500&quot;]/div[@class=&quot;flex h-full justify-center md:items-center&quot;]/div[@class=&quot;bg-neutral-N0 mx-6 mt-5 h-max rounded-2xl p-6 md:p-24&quot;]/div[@class=&quot;flex flex-col gap-4 md:max-w-[22.5rem] md:gap-6&quot;]/div[2]/form[@class=&quot;flex flex-col gap-4&quot;]/div[1]/div[@class=&quot;flex gap-4 justify-between&quot;]/p[@class=&quot;text-[0.75rem] font-normal leading-[1rem] tracking-[0.4px] mt-1 ml-4 text-le&quot;]</value>
+      <webElementGuid>39ca9ae6-d1e0-4916-abba-41516642b158</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div/div[2]/form/div/div[2]/p</value>
+      <webElementGuid>2b81a0dd-b433-4481-bdde-02a8b8d35e25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::p[1]</value>
+      <webElementGuid>c8b62207-0bee-4abe-9344-20df5b130ea1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::p[2]</value>
+      <webElementGuid>51d91bb3-b6a4-4ddb-8d27-93c27373a2ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Icon'])[1]/preceding::p[1]</value>
+      <webElementGuid>409e123a-5ae6-408a-8d01-98ecf72bbf5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kata Sandi'])[1]/preceding::p[1]</value>
+      <webElementGuid>ae8d552a-6f89-4a41-89ec-91bf0a476cd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Wajib diisi.']/parent::*</value>
+      <webElementGuid>547d3bc6-96a1-471a-9d63-774cf2a2113c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[2]/p</value>
+      <webElementGuid>45930502-25e9-4946-9ce3-640e19677f8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Wajib diisi.' or . = 'Wajib diisi.')]</value>
+      <webElementGuid>1f81de61-86f0-46ae-9e2c-d6bc2961010a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

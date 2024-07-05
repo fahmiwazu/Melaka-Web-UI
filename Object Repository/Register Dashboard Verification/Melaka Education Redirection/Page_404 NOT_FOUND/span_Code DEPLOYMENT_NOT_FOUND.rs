@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Code DEPLOYMENT_NOT_FOUND</name>
+   <tag></tag>
+   <elementGuidId>2642cdab-eb8b-4e93-9681-1697c3572376</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.devinfo-line</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='Code:']/parent::*</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>084eddf2-f70d-4795-8220-3c16146f442b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>devinfo-line</value>
+      <webElementGuid>f1d79da6-2e99-4fc3-9d01-d07946cd69e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Code: DEPLOYMENT_NOT_FOUND</value>
+      <webElementGuid>ff69c34b-ec10-4937-a193-c6dc434b055e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container&quot;]/main[1]/p[@class=&quot;devinfo-container&quot;]/span[@class=&quot;devinfo-line&quot;]</value>
+      <webElementGuid>0c297dc7-570d-4f4f-bd51-3f77a4485c7e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Code:']/parent::*</value>
+      <webElementGuid>148e077a-5cdc-4072-828c-72dbbd6118ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>fd277290-fed3-4f9c-9be8-b295a82eb88d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Code: DEPLOYMENT_NOT_FOUND' or . = 'Code: DEPLOYMENT_NOT_FOUND')]</value>
+      <webElementGuid>ca1884b4-dc56-4088-9680-aeee079f51d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

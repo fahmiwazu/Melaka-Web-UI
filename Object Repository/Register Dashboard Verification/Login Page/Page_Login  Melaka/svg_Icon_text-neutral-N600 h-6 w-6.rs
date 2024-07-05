@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Icon_text-neutral-N600 h-6 w-6</name>
+   <tag></tag>
+   <elementGuidId>95ce35a9-dad2-4cee-9ba9-10e9ee9c87ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg.text-neutral-N600.h-6.w-6</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Icon'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>1db655fd-f5e2-406e-b947-d8a7de63f09f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>f7ed2b01-4122-48ad-83c0-09c6039a3469</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>157e36f7-3350-433a-9b0b-d095623a366d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>fadd9f94-d10d-4634-b02b-6938bfc06f5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>35cfc7d4-e90f-416a-a28f-a4f2d1f9b075</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>9079f5cf-8ff8-492e-b23b-571c06db988b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>496244f3-b1ae-4f94-93a0-1c08ee78a8b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-neutral-N600 h-6 w-6</value>
+      <webElementGuid>6d47ae0a-ee2c-41b6-bfe0-71ff47a2a814</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;relative flex min-h-screen flex-col bg-blue-B500&quot;]/div[@class=&quot;flex h-full justify-center md:items-center&quot;]/div[@class=&quot;bg-neutral-N0 mx-6 mt-5 h-max rounded-2xl p-6 md:p-24&quot;]/div[@class=&quot;flex flex-col gap-4 md:max-w-[22.5rem] md:gap-6&quot;]/div[2]/form[@class=&quot;flex flex-col gap-4&quot;]/div[2]/div[@class=&quot;relative&quot;]/button[@class=&quot;absolute inset-y-0 right-0 flex items-center pr-3&quot;]/svg[@class=&quot;text-neutral-N600 h-6 w-6&quot;]</value>
+      <webElementGuid>c2241b11-d493-46ff-9497-0bc681e40528</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Icon'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>3f967115-3262-40a4-bfe1-1bf5662a85e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>d38b65fe-fa9a-4629-bcea-4dd51b662cb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kata Sandi'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>becc26a5-121d-4326-8eaa-bf67a22c7298</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa kata sandi?'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>4b2a1a1a-b969-4449-9861-063f9ff8412a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

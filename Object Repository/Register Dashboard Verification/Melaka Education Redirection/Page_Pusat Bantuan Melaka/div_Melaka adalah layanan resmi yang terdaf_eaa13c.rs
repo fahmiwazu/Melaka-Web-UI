@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Melaka adalah layanan resmi yang terdaf_eaa13c</name>
+   <tag></tag>
+   <elementGuidId>605d8cda-fa39-41ca-8c10-79017a65bdbe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='content'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>61ce9904-33f4-4521-9615-9876366a1964</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>content</value>
+      <webElementGuid>176ebd23-f8af-45a4-a18c-2f134a2bf247</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>faq-1</value>
+      <webElementGuid>ee5398c1-b8c9-4360-8d9c-8d04189e87cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Melaka adalah layanan resmi yang terdaftar di Direktorat Jenderal Perlindungan Konsumen dan Tertib Niaga Kementerian Perdagangan Republik Indonesia. Melaka berkomitmen untuk melindungi data Pengguna kami serta semua informasi akses yang tersimpan. Kami menyimpan data pribadi sesuai dengan Undang-Undang Privasi dan/atau hukum lain yang berlaku. Informasi selengkapnya bisa Anda temukan dalam Kebijakan Privasi Melaka https://melaka.app/privacy-policy</value>
+      <webElementGuid>9457d442-9756-4bc1-9803-b8b21a1628ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;w-mod-js w-mod-ix wf-nunito-i4-active wf-nunito-i5-active wf-nunito-i3-active wf-nunito-i2-active wf-nunito-i9-active wf-nunito-i6-active wf-nunito-i7-active wf-nunito-i8-active wf-nunito-n7-active wf-nunito-n4-active wf-nunito-n2-active wf-nunito-n8-active wf-nunito-n9-active wf-nunito-n6-active wf-nunito-n3-active wf-nunito-n5-active wf-active&quot;]/body[@class=&quot;body-4&quot;]/section[@class=&quot;page-content---faq-list&quot;]/div[@class=&quot;div---title-faq-list&quot;]/div[@class=&quot;div---faq-list&quot;]/div[@class=&quot;wrapper&quot;]/div[@id=&quot;content&quot;]</value>
+      <webElementGuid>6c426907-0c2c-4dfc-9490-3793edd2536b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//div[@id='content'])[3]</value>
+      <webElementGuid>8baa8d94-1a12-4465-9319-30b0c95b0b5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apakah Toko Online saya Aman ketika dihubungkan ke Melaka?'])[1]/following::div[1]</value>
+      <webElementGuid>39047c00-afbf-4d3e-abd1-31fd5ed249de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bagaimana Melaka bisa Membantu Toko Online saya?'])[1]/following::div[5]</value>
+      <webElementGuid>e9811a7c-c43d-4443-ac67-367e05eba281</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apakah ada biaya yang perlu saya keluarkan untuk dapat menggunakan Melaka?'])[1]/preceding::div[1]</value>
+      <webElementGuid>fdd60a0a-32e4-4291-be30-ebeca4525933</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Melaka adalah layanan resmi yang terdaftar di Direktorat Jenderal Perlindungan Konsumen dan Tertib Niaga Kementerian Perdagangan Republik Indonesia. Melaka berkomitmen untuk melindungi data Pengguna kami serta semua informasi akses yang tersimpan. Kami menyimpan data pribadi sesuai dengan Undang-Undang Privasi dan/atau hukum lain yang berlaku. Informasi selengkapnya bisa Anda temukan dalam Kebijakan Privasi Melaka']/parent::*</value>
+      <webElementGuid>4d4afde2-72fe-4016-ac05-84edc2e4aa24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]</value>
+      <webElementGuid>f5bc6526-1266-4480-8475-0387e4a1de5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'content' and (text() = 'Melaka adalah layanan resmi yang terdaftar di Direktorat Jenderal Perlindungan Konsumen dan Tertib Niaga Kementerian Perdagangan Republik Indonesia. Melaka berkomitmen untuk melindungi data Pengguna kami serta semua informasi akses yang tersimpan. Kami menyimpan data pribadi sesuai dengan Undang-Undang Privasi dan/atau hukum lain yang berlaku. Informasi selengkapnya bisa Anda temukan dalam Kebijakan Privasi Melaka https://melaka.app/privacy-policy' or . = 'Melaka adalah layanan resmi yang terdaftar di Direktorat Jenderal Perlindungan Konsumen dan Tertib Niaga Kementerian Perdagangan Republik Indonesia. Melaka berkomitmen untuk melindungi data Pengguna kami serta semua informasi akses yang tersimpan. Kami menyimpan data pribadi sesuai dengan Undang-Undang Privasi dan/atau hukum lain yang berlaku. Informasi selengkapnya bisa Anda temukan dalam Kebijakan Privasi Melaka https://melaka.app/privacy-policy')]</value>
+      <webElementGuid>408f09e0-6988-4704-b448-3a658dd55472</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

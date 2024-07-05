@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Lupa kata sandi</name>
+   <tag></tag>
+   <elementGuidId>2cd7f892-9700-4d93-ba4d-6eec0b296f16</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div/div[2]/form/p/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f04e4585-e3f7-4f37-9544-5641ecc1819b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://dashboard.melaka.app/forgot-password</value>
+      <webElementGuid>6b713c06-bdb8-44e3-a248-1650559ef15b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lupa kata sandi?</value>
+      <webElementGuid>64eb0d81-2805-46ab-903b-71b056fa4994</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;relative flex min-h-screen flex-col bg-blue-B500&quot;]/div[@class=&quot;flex h-full justify-center md:items-center&quot;]/div[@class=&quot;bg-neutral-N0 mx-6 mt-5 h-max rounded-2xl p-6 md:p-24&quot;]/div[@class=&quot;flex flex-col gap-4 md:max-w-[22.5rem] md:gap-6&quot;]/div[2]/form[@class=&quot;flex flex-col gap-4&quot;]/p[@class=&quot;text-[0.875rem] font-normal leading-[1.25rem] tracking-[0.25px] text-button mb-2&quot;]/a[1]</value>
+      <webElementGuid>77a7b69a-244b-465d-b83b-4032b69e9f90</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div/div[2]/form/p/a</value>
+      <webElementGuid>a715efbb-09fa-4145-8b09-3af3dfea187f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Lupa kata sandi?')]</value>
+      <webElementGuid>e77625dc-178b-40b5-9ce6-3a211c45dc83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kata Sandi'])[1]/following::a[1]</value>
+      <webElementGuid>fdbb4eb5-bdf4-4d7a-9d27-7c706ff58f2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Icon'])[1]/following::a[1]</value>
+      <webElementGuid>229f8493-9dc9-4af5-b87f-dabe9a516b99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[2]/preceding::a[1]</value>
+      <webElementGuid>9e7313d9-d7a7-4e22-bf53-c053d9cbae6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lupa kata sandi?']/parent::*</value>
+      <webElementGuid>70a28930-8b56-4159-991b-402fe8aa9a2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://dashboard.melaka.app/forgot-password')]</value>
+      <webElementGuid>3d166fd2-1264-4807-bc6b-30d6d4788f15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/a</value>
+      <webElementGuid>f20c6073-c212-4d1c-a18b-d1d5e40d1c7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://dashboard.melaka.app/forgot-password' and (text() = 'Lupa kata sandi?' or . = 'Lupa kata sandi?')]</value>
+      <webElementGuid>eec92d16-df94-42ce-ad0d-b7fac606545e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Hubungi CS</name>
+   <tag></tag>
+   <elementGuidId>2dd54b93-a66a-4e0d-9fb3-491ce6e73352</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.link-block-10.w-inline-block</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Pertanyaanmu belum terjawab?'])[1]/following::a[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e943680d-0334-4412-afb5-88af1d02f3b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>analytics</name>
+      <type>Main</type>
+      <value>cs_button</value>
+      <webElementGuid>c7ffa74e-eff2-4fad-a278-bb8b2c922ccd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://wa.me/6287777760336?text=Halo%20Admin%20Melaka,%20mau%20tanya-tanya%20mengenai%20Melaka%20dong!</value>
+      <webElementGuid>bc8fbd17-a7c3-48ff-899c-3d429c1b760e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>01d689d1-90aa-4a7c-ab7e-93ea710bfcfc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>link-block-10 w-inline-block</value>
+      <webElementGuid>fa0568ee-56b5-4c67-add6-6e7df53dc1e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hubungi CS</value>
+      <webElementGuid>e50888e7-fcca-4faa-be12-26ce47c9f05d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;w-mod-js w-mod-ix wf-nunito-i4-active wf-nunito-i5-active wf-nunito-i3-active wf-nunito-i2-active wf-nunito-i9-active wf-nunito-i6-active wf-nunito-i7-active wf-nunito-i8-active wf-nunito-n7-active wf-nunito-n4-active wf-nunito-n2-active wf-nunito-n8-active wf-nunito-n9-active wf-nunito-n6-active wf-nunito-n3-active wf-nunito-n5-active wf-active&quot;]/body[@class=&quot;body-4&quot;]/div[@class=&quot;footer-help-center&quot;]/a[@class=&quot;link-block-10 w-inline-block&quot;]</value>
+      <webElementGuid>9be1e867-eefb-4483-8811-71b822e03917</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pertanyaanmu belum terjawab?'])[1]/following::a[1]</value>
+      <webElementGuid>c0092b21-40ff-44a2-b00b-67f76e8820ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat lainnya'])[9]/following::a[1]</value>
+      <webElementGuid>80311fe3-bd6d-434e-9f9e-c5bdfa071ad2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://wa.me/6287777760336?text=Halo%20Admin%20Melaka,%20mau%20tanya-tanya%20mengenai%20Melaka%20dong!')]</value>
+      <webElementGuid>5d344d78-8b3e-4a07-b855-efcb0459b660</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a</value>
+      <webElementGuid>7e25ad05-012b-41e7-9cd9-858221b3cc35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://wa.me/6287777760336?text=Halo%20Admin%20Melaka,%20mau%20tanya-tanya%20mengenai%20Melaka%20dong!' and (text() = 'Hubungi CS' or . = 'Hubungi CS')]</value>
+      <webElementGuid>07c4e823-37fa-42d8-b7ac-b3e640008c20</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

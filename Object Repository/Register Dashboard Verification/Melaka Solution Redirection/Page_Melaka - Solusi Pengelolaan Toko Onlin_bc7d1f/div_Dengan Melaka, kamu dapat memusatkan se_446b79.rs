@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Dengan Melaka, kamu dapat memusatkan se_446b79</name>
+   <tag></tag>
+   <elementGuidId>0777aa32-dcd2-4271-b4ec-e184ed2c89bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.b1.bot-margin-16</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='marketplace-integration']/div[2]/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>05dca041-2f27-4b0f-b9ae-840e567e5ece</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>landing-feature__text__marketplace-integration-sub-content</value>
+      <webElementGuid>411b738e-64c1-4d7d-ba15-025eccc933f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>b1 bot-margin-16</value>
+      <webElementGuid>bdc03928-dd2e-40d1-9bd2-bef679ff82e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dengan Melaka, kamu dapat memusatkan seluruh manajemen toko online-mu di berbagai marketplace hanya di satu platform saja.</value>
+      <webElementGuid>42cc0d47-2904-4e27-8ba7-e7fd41fc60b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;marketplace-integration&quot;)/div[@class=&quot;flex-feature-texts&quot;]/div[@class=&quot;b1 bot-margin-16&quot;]</value>
+      <webElementGuid>bc84dc42-ac0b-4064-a7ed-c8aa840226e3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='marketplace-integration']/div[2]/div[3]</value>
+      <webElementGuid>185164e9-351e-4948-a96f-e59c98281814</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='banyak marketplace'])[1]/following::div[1]</value>
+      <webElementGuid>e65e333c-8365-4278-bdc6-16c4cae411ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pelajari Lebih Lanjut'])[1]/preceding::div[1]</value>
+      <webElementGuid>9bb02dc7-a580-438c-8f81-4750d8c8ef4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MANAJEMEN INVENTORI DAN ORDER'])[1]/preceding::div[2]</value>
+      <webElementGuid>464afff9-099f-4f0d-a04b-7346037f2ba3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dengan Melaka, kamu dapat memusatkan seluruh manajemen toko online-mu di berbagai marketplace hanya di satu platform saja.']/parent::*</value>
+      <webElementGuid>442c9066-e228-4892-9ff9-3c46e2b97492</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]</value>
+      <webElementGuid>ee3bdca9-f9a8-4e73-bab8-b6a8ef9df44d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Dengan Melaka, kamu dapat memusatkan seluruh manajemen toko online-mu di berbagai marketplace hanya di satu platform saja.' or . = 'Dengan Melaka, kamu dapat memusatkan seluruh manajemen toko online-mu di berbagai marketplace hanya di satu platform saja.')]</value>
+      <webElementGuid>fbd55c1f-798f-42ec-bc0e-1b5c1fb59901</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

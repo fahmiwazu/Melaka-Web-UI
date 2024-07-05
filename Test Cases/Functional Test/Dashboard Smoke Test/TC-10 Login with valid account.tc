@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-10 Login with valid account</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>99594df6-ab25-4c98-8ce7-ab2878a37eb2</testCaseGuid>
+</TestCaseEntity>

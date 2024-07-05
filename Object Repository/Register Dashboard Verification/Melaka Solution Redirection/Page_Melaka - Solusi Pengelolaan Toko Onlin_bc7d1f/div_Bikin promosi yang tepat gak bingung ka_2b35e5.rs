@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Bikin promosi yang tepat gak bingung ka_2b35e5</name>
+   <tag></tag>
+   <elementGuidId>75dccf66-2b70-47d8-ad41-5f44e0c7a7cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#promotion > div.flex-feature-texts > div.h1.he.h1-mobile</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='promotion']/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>38a7b5fc-8f3f-4229-b45f-4bf541669cef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>landing-feature__text__promotion-content</value>
+      <webElementGuid>afe3c01b-5dd6-41ea-97b5-6d7e1692b9f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h1 he h1-mobile</value>
+      <webElementGuid>f4f09579-eb60-48c9-b4dd-b9ee2ddb516e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bikin promosi yang tepat gak bingung kalau tahu targetnya!</value>
+      <webElementGuid>a0097417-99b1-423f-9711-c5a84fef4361</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;promotion&quot;)/div[@class=&quot;flex-feature-texts&quot;]/div[@class=&quot;h1 he h1-mobile&quot;]</value>
+      <webElementGuid>a0c393ab-47f4-4a66-b9db-bfd9563db593</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='promotion']/div[2]/div[2]</value>
+      <webElementGuid>2f7c215b-aa51-4152-9847-390d79be3d59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PROMOSI DAN ANALISIS PELANGGAN'])[1]/following::div[1]</value>
+      <webElementGuid>48656624-ac8a-457d-b695-06201d1bb918</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pelajari Lebih Lanjut'])[2]/following::div[6]</value>
+      <webElementGuid>8d44e463-8c1e-4b4c-85e5-252525a205cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bikin']/parent::*</value>
+      <webElementGuid>ce9c00bd-f11d-41c5-a296-184ee434d5f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div[2]/div[2]</value>
+      <webElementGuid>8cf18769-eaf3-4e93-a49d-b6fce0e73348</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Bikin promosi yang tepat gak bingung kalau tahu targetnya!' or . = 'Bikin promosi yang tepat gak bingung kalau tahu targetnya!')]</value>
+      <webElementGuid>1346d191-a1f6-4928-b8a7-7a174f19e2f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ul_mengutamakan Perdagangan barang danatau _d8a432</name>
+   <tag></tag>
+   <elementGuidId>7ea0b325-7c01-4a67-b5d4-68c0441c1484</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Kebijakan Privasi'])[4]/following::ul[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>fa86b488-037b-4405-a336-d8e253b9262f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>list</value>
+      <webElementGuid>185f7c83-0161-4ef0-829d-646fce1656c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list</value>
+      <webElementGuid>7d80edaf-228c-4b3b-bd41-0554eddf815e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>mengutamakan Perdagangan barang dan/atau jasa hasil produksi dalam negeri;meningkatkan daya saing barang dan/atau jasa hasil produksi dalam negeri; danberpartisipasi dalam penyelenggaraan kegiatan hari belanja online produk nasional.</value>
+      <webElementGuid>f73866b9-dd60-4c81-932d-c4a146bf9601</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;w-mod-js w-mod-ix wf-nunito-n9-active wf-nunito-n5-active wf-nunito-n6-active wf-nunito-n8-active wf-nunito-n7-active wf-nunito-n3-active wf-nunito-n2-active wf-nunito-n4-active wf-nunito-i2-active wf-nunito-i9-active wf-nunito-i6-active wf-nunito-i3-active wf-nunito-i7-active wf-nunito-i5-active wf-nunito-i4-active wf-nunito-i8-active wf-active&quot;]/body[1]/div[@class=&quot;w-layout-blockcontainer containers w-container&quot;]/div[@class=&quot;divblockparagraph&quot;]/div[@class=&quot;richtextblock listitem w-richtext&quot;]/ul[@class=&quot;list&quot;]</value>
+      <webElementGuid>9a102bb0-aa89-4726-ae81-0c5209d98b02</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kebijakan Privasi'])[4]/following::ul[1]</value>
+      <webElementGuid>3a44c646-5f62-48a8-8013-6de14596dae4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='D. Kewajiban Pengguna'])[1]/following::ul[1]</value>
+      <webElementGuid>c966ddf5-cf0a-4cdf-bce9-5423204f1fec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/ul</value>
+      <webElementGuid>2bc3cf08-e898-46fd-b7ba-61a1ae53735b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ul[(text() = 'mengutamakan Perdagangan barang dan/atau jasa hasil produksi dalam negeri;meningkatkan daya saing barang dan/atau jasa hasil produksi dalam negeri; danberpartisipasi dalam penyelenggaraan kegiatan hari belanja online produk nasional.' or . = 'mengutamakan Perdagangan barang dan/atau jasa hasil produksi dalam negeri;meningkatkan daya saing barang dan/atau jasa hasil produksi dalam negeri; danberpartisipasi dalam penyelenggaraan kegiatan hari belanja online produk nasional.')]</value>
+      <webElementGuid>36c07f8a-fbb9-439d-bbc6-00763b04a17b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

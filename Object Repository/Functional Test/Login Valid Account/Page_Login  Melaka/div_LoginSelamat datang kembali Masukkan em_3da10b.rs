@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_LoginSelamat datang kembali Masukkan em_3da10b</name>
+   <tag></tag>
+   <elementGuidId>05eb3edf-778e-48a4-aa50-ecb54bab0065</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5af1dece-a362-400d-b2e6-d2fd9501ab71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-neutral-N0 mx-6 mt-5 h-max rounded-2xl p-6 md:p-24</value>
+      <webElementGuid>63dd4998-5061-4614-8529-3a4c7a60836e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LoginSelamat datang kembali! Masukkan email dan kata sandi terdaftarmu.EmailWajib diisi.IconKata SandiLupa kata sandi?Login</value>
+      <webElementGuid>1c76e616-d588-4129-8536-0a0d7353a1a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;relative flex min-h-screen flex-col bg-blue-B500&quot;]/div[@class=&quot;flex h-full justify-center md:items-center&quot;]/div[@class=&quot;bg-neutral-N0 mx-6 mt-5 h-max rounded-2xl p-6 md:p-24&quot;]</value>
+      <webElementGuid>1778d553-e892-425e-b147-7e1c0f6100a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div</value>
+      <webElementGuid>bd15b5dd-8248-4a90-8c10-dbc92adc9572</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Sekarang'])[1]/following::div[2]</value>
+      <webElementGuid>84ee9a7c-5882-4fa4-bc76-69eaeb617711</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/following::div[2]</value>
+      <webElementGuid>7adf1a17-58d5-4dc2-bdf4-ce970a051479</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div</value>
+      <webElementGuid>8cf5b6bc-338d-428b-8e7c-d36dcd9b6a2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'LoginSelamat datang kembali! Masukkan email dan kata sandi terdaftarmu.EmailWajib diisi.IconKata SandiLupa kata sandi?Login' or . = 'LoginSelamat datang kembali! Masukkan email dan kata sandi terdaftarmu.EmailWajib diisi.IconKata SandiLupa kata sandi?Login')]</value>
+      <webElementGuid>98d8f76e-e831-4131-bcef-076afd564361</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

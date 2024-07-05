@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_FAQ</name>
+   <tag></tag>
+   <elementGuidId>a068823a-c3be-4b1c-b21f-03da27ac32d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.title-l-2.white.blue-bg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Halo! Ada yang bisa kami bantu?'])[1]/following::div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>35930feb-f2b7-4e09-9a0f-5984aefaba7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title-l-2 white blue-bg</value>
+      <webElementGuid>0ff643d2-d6b1-4f41-b88e-d546ecbf5330</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>FAQ</value>
+      <webElementGuid>2c2a1d26-aae5-4062-a4f3-c7cea7cb8741</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;w-mod-js w-mod-ix wf-nunito-i4-active wf-nunito-i5-active wf-nunito-i3-active wf-nunito-i2-active wf-nunito-i9-active wf-nunito-i6-active wf-nunito-i7-active wf-nunito-i8-active wf-nunito-n7-active wf-nunito-n4-active wf-nunito-n2-active wf-nunito-n8-active wf-nunito-n9-active wf-nunito-n6-active wf-nunito-n3-active wf-nunito-n5-active wf-active&quot;]/body[@class=&quot;body-4&quot;]/section[@class=&quot;page-content---faq-list&quot;]/div[@class=&quot;div---title-faq-list&quot;]/div[@class=&quot;title-l-2 white blue-bg&quot;]</value>
+      <webElementGuid>25957555-eda4-416c-87b4-21f6477a3f5d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Halo! Ada yang bisa kami bantu?'])[1]/following::div[2]</value>
+      <webElementGuid>e679f67a-21cc-4866-8f34-a8b53547d517</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pusat Bantuan Melaka'])[2]/following::div[3]</value>
+      <webElementGuid>d164c63c-0d27-4f9d-8b87-836d2bdcfea8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apa itu Melaka?'])[1]/preceding::div[1]</value>
+      <webElementGuid>6bba7d08-26cb-4b8b-86dd-9d0e3c2134e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bagaimana Melaka bisa Membantu Toko Online saya?'])[1]/preceding::div[5]</value>
+      <webElementGuid>3def3209-a1bb-4f88-8c08-6dbdc765b564</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='FAQ']/parent::*</value>
+      <webElementGuid>be711e32-ad2b-4360-aeb3-a9f780c565e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div</value>
+      <webElementGuid>303b3164-8c5f-4acd-9927-0db62e2cba4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'FAQ' or . = 'FAQ')]</value>
+      <webElementGuid>109f5eff-3b56-43c5-8555-614c49a1a206</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

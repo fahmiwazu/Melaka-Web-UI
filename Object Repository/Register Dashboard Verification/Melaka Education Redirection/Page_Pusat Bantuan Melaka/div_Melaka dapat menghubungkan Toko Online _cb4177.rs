@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Melaka dapat menghubungkan Toko Online _cb4177</name>
+   <tag></tag>
+   <elementGuidId>e276fe86-6cc7-480f-9723-48c1d12f011a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='content'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b7e09281-ddf4-4adf-9552-0e567244846c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>content</value>
+      <webElementGuid>f240a433-e794-4d56-aaed-5dc70c933fc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>faq-1</value>
+      <webElementGuid>0e8ef98e-7232-4c94-9aa1-5759090a71ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Melaka dapat menghubungkan Toko Online Anda yang sudah aktif di Shopee dan Tokopedia, kemudian Melaka dapat menyinkronkan inventaris induk produk yang berasal dari marketplace tersebut (Shopee dan Tokopedia). Melaka membantu Toko Online Anda untuk dapat membuat promosi lebih efektif, dengan mengizinkan setiap Penjual untuk memilih lebih dari 1 marketplace dalam proses pembuatan diskon/voucher secara bersamaan. Saat promosi sedang berlangsung atau selesai, Anda dapat melihat performa penjualan Anda berdasarkan nilai penjualan, jumlah pesanan, dan jumlah pelanggan sehingga Anda dapat mengukur dan menentukan promosi mana yang lebih efektif untuk dilakukan lagi di masa mendatang. Melaka juga menampilkan demografi pelanggan Toko Online Anda, sehingga Anda dapat lebih mengenal kelompok pelanggan Anda berdasarkan jenis kelamin, wilayah, dan frekuensi pembelian mereka.</value>
+      <webElementGuid>2e33df61-d803-4e5c-bcd1-e1e9255a1353</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;w-mod-js w-mod-ix wf-nunito-i4-active wf-nunito-i5-active wf-nunito-i3-active wf-nunito-i2-active wf-nunito-i9-active wf-nunito-i6-active wf-nunito-i7-active wf-nunito-i8-active wf-nunito-n7-active wf-nunito-n4-active wf-nunito-n2-active wf-nunito-n8-active wf-nunito-n9-active wf-nunito-n6-active wf-nunito-n3-active wf-nunito-n5-active wf-active&quot;]/body[@class=&quot;body-4&quot;]/section[@class=&quot;page-content---faq-list&quot;]/div[@class=&quot;div---title-faq-list&quot;]/div[@class=&quot;div---faq-list&quot;]/div[@class=&quot;wrapper&quot;]/div[@id=&quot;content&quot;]</value>
+      <webElementGuid>eba504af-7885-4281-995d-b1de64b2b226</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//div[@id='content'])[2]</value>
+      <webElementGuid>b105b6c0-9648-42d4-8783-1b3149bc3a05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bagaimana Melaka bisa Membantu Toko Online saya?'])[1]/following::div[1]</value>
+      <webElementGuid>e70600ce-a547-4a75-9dc0-e305031b9b18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apa itu Melaka?'])[1]/following::div[5]</value>
+      <webElementGuid>c290f0c1-7e8d-40cc-9f94-d58732b1fb07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apakah Toko Online saya Aman ketika dihubungkan ke Melaka?'])[1]/preceding::div[1]</value>
+      <webElementGuid>cecd49c2-fd10-478a-9c56-38061a371072</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='https://melaka.app/privacy-policy'])[1]/preceding::div[3]</value>
+      <webElementGuid>9586a70e-c92d-4af0-b53b-005b3a8ae5b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Melaka dapat menghubungkan Toko Online Anda yang sudah aktif di Shopee dan Tokopedia, kemudian Melaka dapat menyinkronkan inventaris induk produk yang berasal dari marketplace tersebut (Shopee dan Tokopedia). Melaka membantu Toko Online Anda untuk dapat membuat promosi lebih efektif, dengan mengizinkan setiap Penjual untuk memilih lebih dari 1 marketplace dalam proses pembuatan diskon/voucher secara bersamaan. Saat promosi sedang berlangsung atau selesai, Anda dapat melihat performa penjualan Anda berdasarkan nilai penjualan, jumlah pesanan, dan jumlah pelanggan sehingga Anda dapat mengukur dan menentukan promosi mana yang lebih efektif untuk dilakukan lagi di masa mendatang. Melaka juga menampilkan demografi pelanggan Toko Online Anda, sehingga Anda dapat lebih mengenal kelompok pelanggan Anda berdasarkan jenis kelamin, wilayah, dan frekuensi pembelian mereka.']/parent::*</value>
+      <webElementGuid>c1bbfd20-856e-4e9f-84d0-f03090455a2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]</value>
+      <webElementGuid>58318a8b-a00e-42d1-bd7a-03fdd38b1b37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'content' and (text() = 'Melaka dapat menghubungkan Toko Online Anda yang sudah aktif di Shopee dan Tokopedia, kemudian Melaka dapat menyinkronkan inventaris induk produk yang berasal dari marketplace tersebut (Shopee dan Tokopedia). Melaka membantu Toko Online Anda untuk dapat membuat promosi lebih efektif, dengan mengizinkan setiap Penjual untuk memilih lebih dari 1 marketplace dalam proses pembuatan diskon/voucher secara bersamaan. Saat promosi sedang berlangsung atau selesai, Anda dapat melihat performa penjualan Anda berdasarkan nilai penjualan, jumlah pesanan, dan jumlah pelanggan sehingga Anda dapat mengukur dan menentukan promosi mana yang lebih efektif untuk dilakukan lagi di masa mendatang. Melaka juga menampilkan demografi pelanggan Toko Online Anda, sehingga Anda dapat lebih mengenal kelompok pelanggan Anda berdasarkan jenis kelamin, wilayah, dan frekuensi pembelian mereka.' or . = 'Melaka dapat menghubungkan Toko Online Anda yang sudah aktif di Shopee dan Tokopedia, kemudian Melaka dapat menyinkronkan inventaris induk produk yang berasal dari marketplace tersebut (Shopee dan Tokopedia). Melaka membantu Toko Online Anda untuk dapat membuat promosi lebih efektif, dengan mengizinkan setiap Penjual untuk memilih lebih dari 1 marketplace dalam proses pembuatan diskon/voucher secara bersamaan. Saat promosi sedang berlangsung atau selesai, Anda dapat melihat performa penjualan Anda berdasarkan nilai penjualan, jumlah pesanan, dan jumlah pelanggan sehingga Anda dapat mengukur dan menentukan promosi mana yang lebih efektif untuk dilakukan lagi di masa mendatang. Melaka juga menampilkan demografi pelanggan Toko Online Anda, sehingga Anda dapat lebih mengenal kelompok pelanggan Anda berdasarkan jenis kelamin, wilayah, dan frekuensi pembelian mereka.')]</value>
+      <webElementGuid>1002df4d-8c34-4470-b945-2c8711e95577</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

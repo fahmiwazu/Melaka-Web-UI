@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Apa itu Melaka</name>
+   <tag></tag>
+   <elementGuidId>6742d077-53d2-4315-a260-ae06ae5b8cda</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='title']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7ff79b49-2570-4b2e-8c03-68036ee50742</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>7dc9355a-b9f5-4065-8500-8f260f34dcb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>b1-semibold margin</value>
+      <webElementGuid>7f906b6c-3a47-44df-8666-a4cd0e5d9aeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apa itu Melaka?</value>
+      <webElementGuid>d340aea0-44b9-41c6-8ed5-111e4c5e5f2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;w-mod-js w-mod-ix wf-nunito-i4-active wf-nunito-i5-active wf-nunito-i3-active wf-nunito-i2-active wf-nunito-i9-active wf-nunito-i6-active wf-nunito-i7-active wf-nunito-i8-active wf-nunito-n7-active wf-nunito-n4-active wf-nunito-n2-active wf-nunito-n8-active wf-nunito-n9-active wf-nunito-n6-active wf-nunito-n3-active wf-nunito-n5-active wf-active&quot;]/body[@class=&quot;body-4&quot;]/section[@class=&quot;page-content---faq-list&quot;]/div[@class=&quot;div---title-faq-list&quot;]/div[@class=&quot;div---faq-list&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;faq-parent-1&quot;]/div[@id=&quot;title&quot;]</value>
+      <webElementGuid>f90f489b-f477-4b14-b32c-ee943ad3d852</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='title']</value>
+      <webElementGuid>73a6f4d3-9ae1-49e1-a781-0370910cf230</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQ'])[1]/following::div[4]</value>
+      <webElementGuid>d95a1a2e-78c6-4e7b-9b96-b90a8f118768</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Halo! Ada yang bisa kami bantu?'])[1]/following::div[6]</value>
+      <webElementGuid>bdcd878a-6962-4d50-8a14-ed7356ee3037</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bagaimana Melaka bisa Membantu Toko Online saya?'])[1]/preceding::div[2]</value>
+      <webElementGuid>dbd53dc5-59b8-4cf2-ba30-a2b80612b1c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apakah Toko Online saya Aman ketika dihubungkan ke Melaka?'])[1]/preceding::div[6]</value>
+      <webElementGuid>b0861753-b0f4-4de7-b4b8-46cdbd96246f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Apa itu Melaka?']/parent::*</value>
+      <webElementGuid>dff6148d-7943-40ab-a8bf-66ad6475bb5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/div</value>
+      <webElementGuid>8ee284e0-05ce-4ee8-9384-5da1620efa3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'title' and (text() = 'Apa itu Melaka?' or . = 'Apa itu Melaka?')]</value>
+      <webElementGuid>523f82d2-d49f-43fd-b63b-cc059b18fd9f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

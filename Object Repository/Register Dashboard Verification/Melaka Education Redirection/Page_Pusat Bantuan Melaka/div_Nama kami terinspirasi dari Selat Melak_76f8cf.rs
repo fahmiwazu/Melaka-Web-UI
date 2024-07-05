@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Nama kami terinspirasi dari Selat Melak_76f8cf</name>
+   <tag></tag>
+   <elementGuidId>d5976e5b-7eb8-4dd5-a20c-d02d2ff9adb4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4072445c-35ea-41c4-8f1f-92583ea99908</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>content</value>
+      <webElementGuid>8d16d13c-2857-41f4-8274-65ccb236cdae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>faq-1</value>
+      <webElementGuid>192678d6-6027-494c-bfa7-50662b6371bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nama kami terinspirasi dari Selat Melaka, salah satu rute transportasi perdagangan terpenting di dunia. Seperti halnya Selat Melaka yang telah membuka begitu banyak kesempatan untuk berbagai pedagang, saudagar dan bisnis, Melaka hadir untuk memudahkan proses bisnis, membuka kesempatan-kesempatan baru, dan membantu memajukan bisnis anda! Melaka adalah Sistem Manajemen Promosi Toko Online, yang bisa membantu kamu untuk menjalankan aktivitas penjualan di Toko Online (Marketplaces) dengan lebih efektif.</value>
+      <webElementGuid>80a123e5-35fd-4319-9eff-38e1c16b0179</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;w-mod-js w-mod-ix wf-nunito-i4-active wf-nunito-i5-active wf-nunito-i3-active wf-nunito-i2-active wf-nunito-i9-active wf-nunito-i6-active wf-nunito-i7-active wf-nunito-i8-active wf-nunito-n7-active wf-nunito-n4-active wf-nunito-n2-active wf-nunito-n8-active wf-nunito-n9-active wf-nunito-n6-active wf-nunito-n3-active wf-nunito-n5-active wf-active&quot;]/body[@class=&quot;body-4&quot;]/section[@class=&quot;page-content---faq-list&quot;]/div[@class=&quot;div---title-faq-list&quot;]/div[@class=&quot;div---faq-list&quot;]/div[@class=&quot;wrapper&quot;]/div[@id=&quot;content&quot;]</value>
+      <webElementGuid>e9b2b113-675b-49f1-8d7e-6ecdb29a577c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='content']</value>
+      <webElementGuid>22a3c244-9bbd-4325-985c-e3a548f2fb68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apa itu Melaka?'])[1]/following::div[1]</value>
+      <webElementGuid>b40d4fb4-7503-4602-8d79-86223d97b350</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQ'])[1]/following::div[5]</value>
+      <webElementGuid>03a9f41c-9f8b-452b-947f-ca4977d721e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bagaimana Melaka bisa Membantu Toko Online saya?'])[1]/preceding::div[1]</value>
+      <webElementGuid>1714014b-eabe-43d3-88ce-9832854341b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apakah Toko Online saya Aman ketika dihubungkan ke Melaka?'])[1]/preceding::div[5]</value>
+      <webElementGuid>40842772-5a65-42e7-8b0b-ec378651dfc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nama kami terinspirasi dari Selat Melaka, salah satu rute transportasi perdagangan terpenting di dunia. Seperti halnya Selat Melaka yang telah membuka begitu banyak kesempatan untuk berbagai pedagang, saudagar dan bisnis, Melaka hadir untuk memudahkan proses bisnis, membuka kesempatan-kesempatan baru, dan membantu memajukan bisnis anda! Melaka adalah Sistem Manajemen Promosi Toko Online, yang bisa membantu kamu untuk menjalankan aktivitas penjualan di Toko Online (Marketplaces) dengan lebih efektif.']/parent::*</value>
+      <webElementGuid>02944b65-2812-4a67-9a8f-a0e36b3edbc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div[2]</value>
+      <webElementGuid>457e923c-936b-4a56-967f-4d67e9136e2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'content' and (text() = 'Nama kami terinspirasi dari Selat Melaka, salah satu rute transportasi perdagangan terpenting di dunia. Seperti halnya Selat Melaka yang telah membuka begitu banyak kesempatan untuk berbagai pedagang, saudagar dan bisnis, Melaka hadir untuk memudahkan proses bisnis, membuka kesempatan-kesempatan baru, dan membantu memajukan bisnis anda! Melaka adalah Sistem Manajemen Promosi Toko Online, yang bisa membantu kamu untuk menjalankan aktivitas penjualan di Toko Online (Marketplaces) dengan lebih efektif.' or . = 'Nama kami terinspirasi dari Selat Melaka, salah satu rute transportasi perdagangan terpenting di dunia. Seperti halnya Selat Melaka yang telah membuka begitu banyak kesempatan untuk berbagai pedagang, saudagar dan bisnis, Melaka hadir untuk memudahkan proses bisnis, membuka kesempatan-kesempatan baru, dan membantu memajukan bisnis anda! Melaka adalah Sistem Manajemen Promosi Toko Online, yang bisa membantu kamu untuk menjalankan aktivitas penjualan di Toko Online (Marketplaces) dengan lebih efektif.')]</value>
+      <webElementGuid>11803b78-deec-49b6-bdcc-9fbd48bc14bb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

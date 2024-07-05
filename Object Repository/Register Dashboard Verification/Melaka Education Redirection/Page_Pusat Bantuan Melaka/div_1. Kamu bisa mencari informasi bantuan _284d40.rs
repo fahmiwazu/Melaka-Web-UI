@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_1. Kamu bisa mencari informasi bantuan _284d40</name>
+   <tag></tag>
+   <elementGuidId>a4e80124-8084-4ed1-b1c2-3eba62ff4120</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='content'])[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>77724b73-c194-4032-823b-df93692f5f95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>content</value>
+      <webElementGuid>b9503fc4-57dc-4b0a-859c-57ebb10268a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>faq-1</value>
+      <webElementGuid>86fc8bc3-6c84-4141-868c-286f28ec1bd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1. Kamu bisa mencari informasi bantuan di Pusat Bantuan Melaka‍2. Jika kamu memiliki masukan atau pertanyaan lain seputar Melaka, silakan mengirim kritik &amp; saran kamu ke alamat email kami di help@melaka.app</value>
+      <webElementGuid>90ae4409-7192-4b50-a874-2736776323e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;w-mod-js w-mod-ix wf-nunito-i4-active wf-nunito-i5-active wf-nunito-i3-active wf-nunito-i2-active wf-nunito-i9-active wf-nunito-i6-active wf-nunito-i7-active wf-nunito-i8-active wf-nunito-n7-active wf-nunito-n4-active wf-nunito-n2-active wf-nunito-n8-active wf-nunito-n9-active wf-nunito-n6-active wf-nunito-n3-active wf-nunito-n5-active wf-active&quot;]/body[@class=&quot;body-4&quot;]/section[@class=&quot;page-content---faq-list&quot;]/div[@class=&quot;div---title-faq-list&quot;]/div[@class=&quot;div---faq-list&quot;]/div[@class=&quot;wrapper&quot;]/div[@id=&quot;content&quot;]</value>
+      <webElementGuid>1da84897-87ee-4006-980b-06568f87a2e7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//div[@id='content'])[5]</value>
+      <webElementGuid>96286065-9e81-455a-9176-ff9ba0d0f68e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apa yang perlu saya lakukan jika saya mengalami kendala dengan Melaka?'])[1]/following::div[1]</value>
+      <webElementGuid>9358a3f2-cc27-4591-9c63-40a8cab8a082</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apakah ada biaya yang perlu saya keluarkan untuk dapat menggunakan Melaka?'])[1]/following::div[5]</value>
+      <webElementGuid>bf57a097-c93d-4d76-abb3-d00f0ff3258e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1. Kamu bisa mencari informasi bantuan di']/parent::*</value>
+      <webElementGuid>f5865dd9-c2fe-4b39-b8fb-981b0ae2492c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]</value>
+      <webElementGuid>68f0cf6b-7aa9-4ea9-a977-4e3712904fb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'content' and (text() = '1. Kamu bisa mencari informasi bantuan di Pusat Bantuan Melaka‍2. Jika kamu memiliki masukan atau pertanyaan lain seputar Melaka, silakan mengirim kritik &amp; saran kamu ke alamat email kami di help@melaka.app' or . = '1. Kamu bisa mencari informasi bantuan di Pusat Bantuan Melaka‍2. Jika kamu memiliki masukan atau pertanyaan lain seputar Melaka, silakan mengirim kritik &amp; saran kamu ke alamat email kami di help@melaka.app')]</value>
+      <webElementGuid>1a41df0b-3813-4594-ac92-24de06e6e520</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

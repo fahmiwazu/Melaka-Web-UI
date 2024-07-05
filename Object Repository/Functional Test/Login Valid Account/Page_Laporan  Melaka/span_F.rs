@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_F</name>
+   <tag></tag>
+   <elementGuidId>2ace6dbe-2760-487b-8063-ef53c862acf7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='headlessui-menu-button-:rl:']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>839a760c-bd76-4ee7-ac5b-b1c31ad63d72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-blue-B800 text-invert label-small md:label-large grid h-6 w-6 place-content-center rounded-full border md:h-9 md:w-9 border-transparent</value>
+      <webElementGuid>ce49a636-3f30-4042-b7e9-6ed12378a445</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>F</value>
+      <webElementGuid>e6aa125a-d842-45fe-a447-13e89643dbda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-menu-button-:rl:&quot;)/span[@class=&quot;bg-blue-B800 text-invert label-small md:label-large grid h-6 w-6 place-content-center rounded-full border md:h-9 md:w-9 border-transparent&quot;]</value>
+      <webElementGuid>a4c831f0-bda0-4e15-a354-54a5e613b816</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='headlessui-menu-button-:rl:']/span</value>
+      <webElementGuid>c3319c3a-5819-481c-9a64-9c84645e98d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='F'])[1]/following::span[2]</value>
+      <webElementGuid>b3c4330b-6c30-47f4-b66f-be8098ef9f58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Baru'])[1]/following::span[7]</value>
+      <webElementGuid>7fa4d58f-23a6-4401-9f08-63cf8a5fd164</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yang Perlu Kamu Lakukan'])[1]/preceding::span[1]</value>
+      <webElementGuid>2e776581-95e8-4391-978d-147254832724</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order'])[1]/preceding::span[4]</value>
+      <webElementGuid>3a34ef8a-272a-44d3-b9df-dce9bf306f1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/button/span</value>
+      <webElementGuid>999e160c-be45-4863-bdc4-efdc59f1b447</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'F' or . = 'F')]</value>
+      <webElementGuid>9e8e277f-5c8a-450e-9080-bec879933d5f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
